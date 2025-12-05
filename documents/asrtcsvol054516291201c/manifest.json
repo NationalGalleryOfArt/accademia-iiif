@@ -1,0 +1,289 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTCSVol054516291201c"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Vol. 545 fols. 1204r-v"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1629"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Tommaso Salvatore"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Audientia (court hearing)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Camilla Angeletta Renzi; Ercole Iacobazzi; Francesco Renzi"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Vineyard",
+                    "Rent (ground)"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/d2ebad6b5b2dc3a33b39d56f0ae139f6/full/204,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 204
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/canvas/1",
+            "type": "Canvas",
+            "height": 3441,
+            "width": 2337,
+            "label": {
+                "none": [
+                    "ASR_TCS_vol545_1629_fol1204R"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/d2ebad6b5b2dc3a33b39d56f0ae139f6/full/204,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 204
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/d2ebad6b5b2dc3a33b39d56f0ae139f6/full/1358,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1358,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/d2ebad6b5b2dc3a33b39d56f0ae139f6",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p>The Accademia di San Luca, represented by its procurator, petitions the civil court of the senator of Rome against Giovanni Mattia Renzi, son and heir of Francesco and Camilla [Angeletta], widow of the same, for payment owed on the rent of a vineyard. The judge establishes a notarial act of trust between Ercole Iacobazzi and Francesco Renzi dated July 30, 1598, and the lease for the vineyard is drawn up by the notary Saraceni on November 19, 1624.</p><p></p><p>[Italian version]</p><p>L’Accademia di San Luca ricorre presso il tribunale civile del senatore di Roma, assistita dal proprio procuratore, contro Giovanni Mattia Renzi figlio ed erede di Francesco e Camilla vedova dello stesso, in obbligo al pagamento dell’affitto di una vigna. Il giudice espone un atto fiduciario tra Ercole Iacobazzi e Francesco Renzi datato 30 luglio 1598, e l’atto di locazione della vigna rogato dal notaio Saraceni in data 19 novembre 1624.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/canvas/2",
+            "type": "Canvas",
+            "height": 3481,
+            "width": 2405,
+            "label": {
+                "none": [
+                    "ASR_TCS_vol545_1629_fol1204V"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/d01106c0e818d894155f7ddf23608653/full/207,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 207
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/d01106c0e818d894155f7ddf23608653/full/1382,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1382,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/d01106c0e818d894155f7ddf23608653",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 1204v]</p><p>se die 29 Novembris p<em>ro</em>x<em>imi</em> <em>passa</em>ti d<em>omi </em>d<em>imissa</em> c<em>opia</em> eosd<em>em</em> citasse ad declarand<em>um</em><span class=\"line-break\"><br></span>leg<em>iti</em>me in actis an velint stare simplici indicationi<span class=\"line-break\"><br></span>vel copiae infra seù scriptu<em>m</em> Iuriu<em>m</em> V<em>idelice</em>t Instr<em>ument</em>i Phidantiaru<em>m</em><span class=\"line-break\"><br></span>inter is Hercule<em>m</em> Iacobatiu<em>m</em>, ac Franciscu<em>m</em> Rentium<span class=\"line-break\"><br></span>con<em>tra</em> Pro<em>curato</em>rem resp<em>ecti</em>ve rogat<em>ionibus</em> p<em>ro</em> acta Successoris<span class=\"line-break\"><br></span>Grilli sub 30 Iulii 1598 Seu etc. nec non locat<em>io</em>nis<span class=\"line-break\"><br></span>d<em>ictae</em> vineae seu rationes ad mediu<em>m</em> rogat<em>ionibus</em> pro acta<span class=\"line-break\"><br></span>Saraceni sub die 19 <em>novem</em>bris 1624 al<em>ia</em>s vidend<em>um</em> tam<span class=\"line-break\"><br></span>copia<em>m</em> qua<em>m</em> publicu<em>m</em> Instr<em>ument</em>u<em>m</em> mandari confici eius<span class=\"line-break\"><br></span>sumptibus, et expensibus vidend<em>um</em> fieri p<em>ro</em>testate<em>m</em><span class=\"line-break\"><br></span>interpellatione<em>m</em> dicendum contra et m<em>anda</em>ri afficere<span class=\"line-break\"><br></span>ad p<em>rimam </em>d<em>iem</em> Inst<em>an</em>te ead<em>em</em> p<em>ri</em>n<em>cipa</em>le sive etc. R<em>elatione facta comparu</em>it D. (…) p<em>rocurato</em>r<span class=\"line-break\"><br></span>et p<em>etii</em>t p<em>rou</em>t in fol. (…) et acc<em>usata contumaci</em>a etc. p<em>etii</em>t et Inst<em>eti</em>t ut s<em>upr</em>a<span class=\"line-break\"><br></span>et ob<em>tinui</em>t p<em>ro</em>testat<em>ione</em>m p<em>rae</em>d<em>ict</em>am recipi, et ad<em>mit</em>ti si et in q<em>uan</em>tu<em>m</em><span class=\"line-break\"><br></span>et m<em>anda</em>ri afficere p<em>rou</em>t de iure et copias p<em>rae</em>d<em>ict</em>as confici in <span class=\"line-break\"><br></span>pub<em>lic</em>a<em>m</em> f<em>orm</em>a<em>m</em> sumptibus ad<em>mittunt</em>ur nisi ad p<em>rimam</em> d<em>iem</em> <em>cum intimation</em>e omni etc.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/canvas/2/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/canvas/2#xywh=664,937,231,141",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>vinea (vineyard)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/canvas/2/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/canvas/2#xywh=2060,747,268,130",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>locationis (rent: ground)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
