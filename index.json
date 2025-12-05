@@ -20,11 +20,6 @@
       "id": "https://https://nationalgalleryofart.github.io/accademia-iiif/documents/index.json",
       "type": "Collection",
       "label": { "en": ["Documents"] }
-    },
-    {
-      "id": "https://https://nationalgalleryofart.github.io/accademia-iiif/maps/index.json",
-      "type": "Collection",
-      "label": { "en": ["Maps"] }
     }
   ]
 }
