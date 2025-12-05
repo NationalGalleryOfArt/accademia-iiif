@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280411b/043b23128eb2c6b877fbc9f49547a149",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "width": 256
+    }
+  ],
+  "width": 2295,
+  "height": 3396,
+  "sizes": [
+    {
+      "width": 202,
+      "height": 300
+    },
+    {
+      "width": 1352,
+      "height": 2000
+    }
+  ]
+}
