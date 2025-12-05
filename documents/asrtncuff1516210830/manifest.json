@@ -1,0 +1,613 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1516210830"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 15 Pt. 3 Vol. 89 fols. 591r-v, 592r-v, 597r-v"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1621"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Erasto Spannocchia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Agreement"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Sant'Eustachio (Rione); Rome"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Michelangelo Marchesini; Alfonso Valena; Duca San Gemini (di); Lucrezia Passerina; Antonio Carcarasi; Luca Ciamberlano; Guidobaldi Bergamini; Timoteo Jimenez; Cesare Seriusto; Giuliano Cipollini"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Procurator",
+                    "Cameral obligation",
+                    "Work (labor)",
+                    "Agreement",
+                    "Obligation",
+                    "Quittance",
+                    "Litigation",
+                    "Apostolic Camera",
+                    "Interest",
+                    "Doctor",
+                    "Loan with interest",
+                    "Account",
+                    "Sacro Monte di Pietà"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/fe4550daf962012c3b88de647472cdf1/full/215,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 215
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/1",
+            "type": "Canvas",
+            "height": 2210,
+            "width": 1582,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516210830f591r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/fe4550daf962012c3b88de647472cdf1/full/215,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 215
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/fe4550daf962012c3b88de647472cdf1/full/1432,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1432,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/fe4550daf962012c3b88de647472cdf1",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p><a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">Cesare Seriusto</a> and <a href=\"https://www.nga.gov/accademia/en/persons/luca-ciamberlano.html\">Luca Ciamberlano</a>, procurator to <a href=\"https://www.nga.gov/accademia/en/persons/lucrezia-passerina.html\">Lucrezia Passerina</a>, stipulate an agreement. They end the litigation over a loan with interest (<em>società d'ufficio</em>). The loan had originally been made by Seriusto (December 22, 1614) with part of the money he had received on behalf of the Società di San Luca.</p><p></p><p>[Italian version]</p><p><a href=\"https://www.nga.gov/accademia/it/persons/cesare-seriusto.html\">Cesare Seriusto</a> e <a href=\"https://www.nga.gov/accademia/it/persons/luca-ciamberlano.html\">Luca Ciamberlano</a>, procuratore di <a href=\"https://www.nga.gov/accademia/it/persons/lucrezia-passerina.html\">Lucrezia Passerina</a>, stipulano una concordia. Essi mettono fine alla lite che avevano a proposito di una società d'ufficio. Tale società era stata fatta da Cesare (il 22 dicembre 1614) con parte del denaro che egli aveva ricevuto in nome della società di San Luca.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/2",
+            "type": "Canvas",
+            "height": 2152,
+            "width": 1612,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516210830f591v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/927f306928d6f31ddd845aafe472a140/full/225,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 225
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/927f306928d6f31ddd845aafe472a140/full/1498,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1498,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/927f306928d6f31ddd845aafe472a140",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 591v]</p><p>Unde ortis pluribus litibus, et differentiis inter eosd<em>em</em><span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">Caesarem</a>, ac D. <a href=\"https://www.nga.gov/accademia/en/persons/lucrezia-passerina.html\">Lucretiam</a>, seù D. <a href=\"https://www.nga.gov/accademia/en/persons/luca-ciamberlano.html\">Lucam Ciam-<span class=\"line-break\"><br></span>berlanum </a>eius Maritum, et pro<em>curato</em>rem, prout latius de<span class=\"line-break\"><br></span>p<em>redic</em>tis asseruerunt Constare per acta D. Caesii Not<em>ar</em>ii<span class=\"line-break\"><br></span>Vicarii Urbis, Et Volentes modo omnes lites, contro-<span class=\"line-break\"><br></span>versias, et differentias amicab<em>i</em>l<em>ite</em>r truncare, et ea quae<span class=\"line-break\"><br></span>oretinus firmaru<em>n</em>t Instrum<em>en</em>to Corroborare<span class=\"line-break\"><br></span>Hinc est quod die et anno p<em>rese</em>ntis In mei etc., ac Testium in-<span class=\"line-break\"><br></span>fra<em>scri</em>ptorum p<em>rese</em>ntia p<em>rese</em>ntes, et personal<em>ite</em>r Constituti dictus<span class=\"line-break\"><br></span>R. D. <a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">Caesar Seriustus</a> q. Vincentii Lucen<em>s</em>, et D'nus<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/luca-ciamberlano.html\">Lucas Ciamberlanus</a> q. D. Paoli Urbinus, qui non<span class=\"line-break\"><br></span>modo proprio, privato, et part<em>icula</em>ri no<em>m</em>i<em>n</em>e, ac pro omni et<span class=\"line-break\"><br></span>quocu<em>m</em>q<em>ue</em> suo iure et Interesse, sed et<em>iam</em> uti Maritus,<span class=\"line-break\"><br></span>procu<em>rato</em>r, et legitimus Administrator dicta<em>e</em> D'nae <a href=\"https://www.nga.gov/accademia/en/persons/lucrezia-passerina.html\">Lucretia</a><em><a href=\"https://www.nga.gov/accademia/en/persons/lucrezia-passerina.html\">e</a></em><a href=\"https://www.nga.gov/accademia/en/persons/lucrezia-passerina.html\"><span class=\"line-break\"><br></span>Passarinae</a>, et resp<em>ectiv</em>e eius dotis, et bonoru<em>m</em>, pro qua D.<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/lucrezia-passerina.html\">Lucretia</a> nihil<em>ominu</em>s de rata etc. promisit, et quod ratifica-<span class=\"line-break\"><br></span>bit p<em>rese</em>ns Instru<em>mentu</em>m, ac omnia et singula in eo contenta<span class=\"line-break\"><br></span>cum solemnitatibus statutariis ad omnem Simplicem<span class=\"line-break\"><br></span>requisitionem dicti D. <a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">Ca</a><em><a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">e</a></em><a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">saris</a>, Alias ultra p<em>re</em>cisam<span class=\"line-break\"><br></span>observantia<em>m</em></p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/2/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/2#xywh=1039,318,232,126",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>pro<em>curato</em>rem (procurator)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/2/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/2#xywh=1323,513,131,110",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>lites (litigation)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/2/annopage-2/anno-4",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/2#xywh=829,1285,279,141",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Interesse (interest)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/3",
+            "type": "Canvas",
+            "height": 2100,
+            "width": 1569,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516210830f592r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/390a90429b73c0dc9f9453446747ada1/full/224,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 224
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/3/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/3/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/3",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/390a90429b73c0dc9f9453446747ada1/full/1494,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1494,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/390a90429b73c0dc9f9453446747ada1",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/3/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/3/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/3",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 592r]</p><p>observantiam ad quam etc. teneri et<em>iam</em> voluit de proprio etc.<span class=\"line-break\"><br></span>ita quod etc., et quol<em>ibe</em>t ex no<em>m</em>i<em>ni</em>bus p<em>redic</em>tis Insolid<em>um</em> sponte etc.,<span class=\"line-break\"><br></span>ac omni meliori modo etc. renunciarunt invicem,<span class=\"line-break\"><br></span>et vicissim, ac reciproce omnibus, et singulis contro-<span class=\"line-break\"><br></span>versiis, differentiis, litibus, et quaestionibus, quas usq<em>ue</em> in<span class=\"line-break\"><br></span>p<em>rese</em>ntem diem habuissent, haberent, vel habere possent<span class=\"line-break\"><br></span>ex Causa, et occasione dictaru<em>m</em> Societatu<em>m</em>, seù depositor<em>um</em><span class=\"line-break\"><br></span>ac resp<em>ectiv</em>e obligationu<em>m</em> ad favorem dicta<em>e</em> D. <a href=\"https://www.nga.gov/accademia/en/persons/lucrezia-passerina.html\">Lucretia</a><em><a href=\"https://www.nga.gov/accademia/en/persons/lucrezia-passerina.html\">e</a></em><span class=\"line-break\"><br></span>dictiq<em>ue</em> D. <a href=\"https://www.nga.gov/accademia/en/persons/alfonso_valena.html\">Alphonsi Valena</a><em><a href=\"https://www.nga.gov/accademia/en/persons/alfonso_valena.html\">e</a></em> respectivè factarum,<span class=\"line-break\"><br></span>ac omnibus, et singulis mandatis, executionibus, expressis<span class=\"line-break\"><br></span>ac aliis quae unus ab altero, et alter ab uno petere,<span class=\"line-break\"><br></span>Seù pretendere quom<em>odo</em>l<em>ibe</em>t posset in futuru<em>m</em> praeter<span class=\"line-break\"><br></span>infradict<em>is</em>, Et hoc quià factis inter ipsos ami-<span class=\"line-break\"><br></span>cabilit<em>er</em> Computis, subductisq<em>ue</em> subducendis, ac<span class=\"line-break\"><br></span>mature omnibus discussis Conveneru<em>n</em>t quod d<em>ictu</em>s<span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">Caesar Seriustus</a> teneat<em>u</em>r et debeat, prout promisit<span class=\"line-break\"><br></span>solvere scuta Viginti m<em>one</em>t<em>a</em>e pro residuo sortis p<em>erso</em>n<em>a</em>lis<span class=\"line-break\"><br></span>dicta<em>e</em> D. <a href=\"https://www.nga.gov/accademia/en/persons/lucrezia-passerina.html\">Lucretia</a><em><a href=\"https://www.nga.gov/accademia/en/persons/lucrezia-passerina.html\">e</a></em> eaq<em>ue</em> deponere in Sacro Monte<span class=\"line-break\"><br></span>pietatis ad eff<em>ect</em>um reinvestiendi, imò ex d<em>ict</em>o Monte<span class=\"line-break\"><br></span>levari, et amoveri non possint, nisi prius d<em>ictu</em>s D.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/3/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/3#xywh=1114,1702,366,93",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Sacro Monte<span class=\"line-break\"><br></span>pietatis (Sacro Monte di Pietà)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/4",
+            "type": "Canvas",
+            "height": 2192,
+            "width": 1624,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516210830f592v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/a7d028a6e3208874035edbc18f8d4691/full/222,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 222
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/4/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/4/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/4",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/a7d028a6e3208874035edbc18f8d4691/full/1482,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1482,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/a7d028a6e3208874035edbc18f8d4691",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/4/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/4/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/4",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 592v]</p><p>Caesar pro dicta rata Scutoru<em>m</em> Viginti t<em>ame</em>n fuerit liberatus<span class=\"line-break\"><br></span>à fideiussione, quam pra<em>e</em>stitit ad favorem d<em>ict</em>i q<em>uondam</em> <a href=\"https://www.nga.gov/accademia/en/persons/timoteo-jimenez.html\">Thimothei<span class=\"line-break\"><br></span>Ximenez</a>, et pro reliquis scutis Centu<em>m</em> triginta remaneat<span class=\"line-break\"><br></span>in Suo robore Investimentu<em>m</em> alias factum, et ab ipso D Caesare<span class=\"line-break\"><br></span>ut asseruerunt approbatum super quad<em>am</em> fabrica facta<span class=\"line-break\"><br></span>in situ, et proprietate Exc.mi D. <a href=\"https://www.nga.gov/accademia/en/persons/duca-san-Gemini-di.html\">Ducis Sancti Gemini</a> posit<em>a</em><span class=\"line-break\"><br></span>supra plateam Capitis Domoru<em>m</em> è Conspectu Via<em>e</em> nuncupat<em>ae</em><span class=\"line-break\"><br></span>Purificationis iuxta bona DD. de Spadarinis Pictoris ita<span class=\"line-break\"><br></span>ut nec et<em>iam</em> suppleat<em>ur</em> per Investimentu<em>m</em> si quod pro ista<span class=\"line-break\"><br></span>rata offerrat d<em>icta</em> D. <a href=\"https://www.nga.gov/accademia/en/persons/lucrezia-passerina.html\">Lucretia</a>, se amoveri non possint à dicto<span class=\"line-break\"><br></span>Monte, nisi prius actu fu<em>e</em>rit liberatus dictus D. <a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">Caesar</a> à<span class=\"line-break\"><br></span>d<em>ict</em>a fid<em>eiussio</em>ne dict<em>ae</em> rata<em>e</em> scutoru<em>m</em> Viginti tr<em>i</em>a, et no<em>n</em> altra, nisi si<span class=\"line-break\"><br></span>et quatenus d<em>ict</em>a D. <a href=\"https://www.nga.gov/accademia/en/persons/lucrezia-passerina.html\">Lucretia</a> ead<em>em</em> scuta Viginti vellet ero-<span class=\"line-break\"><br></span>gare in perfici[...],<sup>[1]</sup> seù Continuanda dicta fabrica, quo<span class=\"line-break\"><br></span>casu possit illa implicare in dicta fabrica, et<em>aim</em> si dictus D.<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">Caesar</a> liberatus non fu<em>e</em>rit, quale depositu<em>m</em> scutoru<em>m</em> Viginti<span class=\"line-break\"><br></span>ipse D. <a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">Caesar</a> teneatur facere hinc, et per totum mensem<span class=\"line-break\"><br></span>decembris prox<em>imi</em> ventur<em>i</em> hic <a href=\"https://www.nga.gov/accademia/en/places/Rome.html\">Roma</a><em><a href=\"https://www.nga.gov/accademia/en/places/Rome.html\">e</a></em> Liberé etc.<span class=\"line-break\"><br></span>Et quia pariter ipse D. <a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">Caesar</a> occ<em>asi</em>one fructuu<em>m</em>, expensaru<em>m</em>, et alioru<em>m</em><span class=\"line-break\"><br></span>quorumcu<em>m</em>q<em>ue</em>, qua<em>e</em> d<em>ictu</em>s D. <a href=\"https://www.nga.gov/accademia/en/persons/luca-ciamberlano.html\">Lucas</a> dicto no<em>m</em>i<em>n</em>e petere, seu p<em>re</em>tendere<span class=\"line-break\"><br></span>posset</p><p></p><p>[1]&nbsp;Unclear.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/5",
+            "type": "Canvas",
+            "height": 2198,
+            "width": 1588,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516210830f597r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/90f7e3750eb9af14957047b062c877cb/full/217,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 217
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/5/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/5/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/5",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/90f7e3750eb9af14957047b062c877cb/full/1445,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1445,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/90f7e3750eb9af14957047b062c877cb",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/5/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/5/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/5",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 597r]</p><p>posset nunc manualiter, et in Contanti soluit, et exbursa-<span class=\"line-break\"><br></span>vit dictus D. <a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">Ca</a><em><a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">e</a></em><a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">sar</a> eid<em>em</em> D. <a href=\"https://www.nga.gov/accademia/en/persons/luca-ciamberlano.html\">Luca</a><em><a href=\"https://www.nga.gov/accademia/en/persons/luca-ciamberlano.html\">e</a></em> p<em>rese</em>nti etc. scuta decem m<em>one</em>ta<em>e</em><span class=\"line-break\"><br></span>qua<em>e</em> ipse D. <a href=\"https://www.nga.gov/accademia/en/persons/luca-ciamberlano.html\">Lucas</a> in tot Iuliis, et testonibus argenteis<span class=\"line-break\"><br></span>ad se traxit etc., et de illis eumdem D. <a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">Ca</a><em><a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">e</a></em><a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">sarem</a> p<em>rese</em>ntem etc.<span class=\"line-break\"><br></span>quietavit etc. exc<em>eptio</em>ni etc. speiq<em>ue</em> etc. ren<em>unciavi</em>t et<em>iam</em> p<em>er</em> pactum etc., et scuta<span class=\"line-break\"><br></span>quindecim dictus D. <a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">Ca</a><em><a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">e</a></em><a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">sar</a> solvere promisit eid<em>em</em> D.<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/luca-ciamberlano.html\">Luca</a><em><a href=\"https://www.nga.gov/accademia/en/persons/luca-ciamberlano.html\">e</a></em> p<em>rese</em>nti etc. in festo nativitatis S<em>anctissi</em>mi D<em>omini</em> N<em>ostri</em> Chri<em>st</em>i prox<em>imae</em><span class=\"line-break\"><br></span>ventur<em>ae</em> hic <a href=\"https://www.nga.gov/accademia/en/places/Rome.html\">Roma</a><em><a href=\"https://www.nga.gov/accademia/en/places/Rome.html\">e&nbsp;</a></em><a href=\"https://www.nga.gov/accademia/en/places/Rome.html\"> </a>liberè etc. alias etc. et<em>iam</em> ad omnia damna etc.<span class=\"line-break\"><br></span>dequibus etc., et salvis pra<em>e</em>missis dictus D. <a href=\"https://www.nga.gov/accademia/en/persons/luca-ciamberlano.html\">Lucas</a> quo s<em>upr</em>a<span class=\"line-break\"><br></span>no<em>m</em>i<em>n</em>e, et Cum d<em>ict</em>a promiss<em>ion</em>e de rato Cons<em>ens</em>it restitutioni<span class=\"line-break\"><br></span>quoru<em>m</em>cu<em>m</em>q<em>ue</em> pignoru<em>m</em>, et resp<em>ectiv</em>e Cassationu<em>m</em> quaru<em>m</em>cu<em>m</em>q<em>ue</em><span class=\"line-break\"><br></span>fid<em>eiussio</em>nu<em>m</em> ipsi D <a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">Ca</a><em><a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">e</a></em><a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">sari</a> ablat<em>orum</em>, vel p<em>er</em> ipsu<em>m</em> quom<em>odo</em>l<em>ibe</em>t hac de<span class=\"line-break\"><br></span>causa pra<em>e</em>stitaru<em>m</em> libere etc.<span class=\"line-break\"><br></span>Qua<em>e</em> o<em>mn</em>ia etc. Alias etc. etiam ad omnia damna etc. de quibus etc.<span class=\"line-break\"><br></span>Pro quibus etc., dictus Do <a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">Ca</a><em><a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">e</a></em><a href=\"https://www.nga.gov/accademia/en/persons/cesare-seriusto.html\">sar</a> se etc. heredes etc. bona etc. d<em>ictu</em>s<span class=\"line-break\"><br></span>vero D. <a href=\"https://www.nga.gov/accademia/en/persons/luca-ciamberlano.html\">Lucas</a> se ip<em>su</em>m, ac dicta<em>m</em> D. <a href=\"https://www.nga.gov/accademia/en/persons/lucrezia-passerina.html\">Lucretiam</a> eius Ux<em>or</em>is<span class=\"line-break\"><br></span>et p<em>erso</em>n<em>a</em>lem, Suosq<em>ue</em> et illius heredes etc. bona etc. in forma Cam<em>e</em>ra<em>e</em><span class=\"line-break\"><br></span>Ap<em>osto</em>lica<em>e</em> cum solitis cl<em>ausul</em>is, et […]runt<sup>[2]</sup> etc. obligarunt etc. consenti<em>ens</em> etc.<span class=\"line-break\"><br></span>Unica etc., et sic tactis etc. Iurarunt, super quibus etc., Actum<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/places/Rome.html\">Roma</a><em><a href=\"https://www.nga.gov/accademia/en/places/Rome.html\">e</a></em> in Domo habitationis Ill.ris et Ex.is D. <a href=\"https://www.nga.gov/accademia/en/persons/antonio-carcarasi.html\">Antonii</a></p><p></p><p>[2]&nbsp;Unclear.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/5/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/5#xywh=1102,1597,399,131",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>in forma Cam<em>e</em>ra<em>e </em>(Cameral obligation)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/6",
+            "type": "Canvas",
+            "height": 2198,
+            "width": 1612,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516210830f597v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/552736cc07d4982c0d248a107f36aab3/full/220,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 220
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/6/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/6/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/6",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/552736cc07d4982c0d248a107f36aab3/full/1467,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1467,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/552736cc07d4982c0d248a107f36aab3",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/6/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/6/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/canvas/6",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 597v]</p><p><a href=\"https://www.nga.gov/accademia/en/persons/antonio-carcarasi.html\">Carcarasii</a> <a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">Regionis sancti Eustachii</a> p<em>re</em>sen<em>tibus</em> etc. Ill et Ex. D<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/giuliano-cipollini.html\">Iuliano Cipollino </a>Sarzanen<em>se</em> I<em>uris</em> U<em>triusque</em> D<em>octore</em>, et <a href=\"https://www.nga.gov/accademia/en/persons/michelangelo-marchesini.html\">Michaele Angelo<span class=\"line-break\"><br></span>q. Ioannis Marchesini</a> Rom<em>an</em>o Sutore t<em>es</em>t<em>ibus</em> etc.<span class=\"line-break\"><br></span>Bosusfort.s</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
