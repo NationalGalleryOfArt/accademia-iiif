@@ -1,0 +1,356 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1516240428"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 15 Pt. 2 Vol. 100 fols. 264r-v, 290r"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1624"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Erasto Spannocchia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Meeting"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Roman Forum (Campo Vaccino)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Antiveduto Gramatica; Giovanni Lanfranco; Annibale Durante; Agostino Ciampelli; Paul Bril; Alessandro Turchi; Pietro Paolo Bonzi; Giovanni Baglione; Lorenzo Bartolomeo Ciarpi; Cristoforo Greppi, Giacomo Cavezzi; Girolamo Boerio"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Italian"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Painter",
+                    "Sculptor",
+                    "Rector",
+                    "Mason",
+                    "Treasurer",
+                    "Principe",
+                    "Meeting (private)",
+                    "Secretary",
+                    "Chaplain",
+                    "Advisor",
+                    "Proctor",
+                    "Register of payments"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/ffe7847c99c2d0eb2a8ce2f249e711a8/full/226,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 226
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/canvas/1",
+            "type": "Canvas",
+            "height": 2168,
+            "width": 1636,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240428f264r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/ffe7847c99c2d0eb2a8ce2f249e711a8/full/226,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 226
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/ffe7847c99c2d0eb2a8ce2f249e711a8/full/1509,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1509,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/ffe7847c99c2d0eb2a8ce2f249e711a8",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p>At a private meeting of painters and sculptors, <a href=\"https://www.nga.gov/accademia/en/persons/girolamo-boerio.html\">Girolamo Boerio</a> is elected as chaplain of the church of San Luca, with an annual stipend of 38 scudi and allows the possibility of living in two rooms in the church. He also must perform a certain number of duties for the church. The Congregazione dei Pittori e Scultori wants to hire a mason for the renovation of the church. The mason will be paid 100 scudi and will be responsible for all of the expenses related to the job. The expenses allowed for the feast days of Saint Luke, Saint Martina, and the Assumption of the Virgin are reduced. <a href=\"https://www.nga.gov/accademia/en/persons/girolamo-boerio.html\">Girolamo Boerio</a> is appointed secretary of the register of payments, as a substitute for <a href=\"https://www.nga.gov/accademia/en/persons/francesco-grigiotti.html\">Francesco Grigiotti</a>.</p><p></p><p>[Italian version]</p><p><a href=\"https://www.nga.gov/accademia/it/persons/girolamo-boerio.html\">Girolamo Boerio</a> viene eletto, in congregazione segreta, cappellano della chiesa di San Luca, con lo stipendio di 38 scudi annui e la possibilità di occupare due stanze, nonché con l'obbligo di una serie di incombenze da svolgere. Si decide che, per la realizzazione di lavori di muratura, venga preso un muratore che li svolga a proprie spese dietro compenso di cento scudi annui. Inoltre, si decide di tagliare i fondi per le spese relative alle feste patronali. <a href=\"https://www.nga.gov/accademia/it/persons/girolamo-boerio.html\">Girolamo Boerio</a> viene inoltre eletto Segretario del Registro dei mandati, in sostituzione di <a href=\"https://www.nga.gov/accademia/it/persons/francesco-grigiotti.html\">Francesco Grigiotti</a>.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/canvas/2",
+            "type": "Canvas",
+            "height": 2192,
+            "width": 1641,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240428f264v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/255e9e7b5ea2b1f5491ff2ecc414826c/full/224,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 224
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/255e9e7b5ea2b1f5491ff2ecc414826c/full/1497,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1497,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/255e9e7b5ea2b1f5491ff2ecc414826c",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 264v]</p><p>et à sue spese sia obligato pigliar Cura del Chie-<span class=\"line-break\"><br></span>rico ostie vino scope lume imbiancatura di panni,<span class=\"line-break\"><br></span>et [al]tre cose con forme se ne doverà fare Instru-<span class=\"line-break\"><br></span>mento dalli Sig.ri Prencipe, et Rettori, et Camerlengo<span class=\"line-break\"><br></span>insolido quali viva voce à tale effetto viva vo-<span class=\"line-break\"><br></span>ce insolido furno deputati con facolta dè fare<span class=\"line-break\"><br></span>sopra di cio Instru<em>ment</em>o et obligo con le clausule ne-<span class=\"line-break\"><br></span>cessarie solite et requisite<span class=\"line-break\"><br></span>Item fu messo à partito se si devono fabricare le Ca-<span class=\"line-break\"><br></span>sette et parte della Chiesa da fabricarse da<span class=\"line-break\"><br></span>un Muratore che faccia la fabrica à sue spese<span class=\"line-break\"><br></span>con il pagamento di Cento scudi l'anno fenito che<span class=\"line-break\"><br></span>haverà la fabrica, et non trovandosi Muratore<span class=\"line-break\"><br></span>che vogli fabricare à sue spese che si pigli seicen-<span class=\"line-break\"><br></span>to, o, settecento scudi al più à Censo con risposta<span class=\"line-break\"><br></span>de frutti à sei per Cento al più per pattuire<span class=\"line-break\"><br></span>poi con li Muratori, le fave nere dice di si et le<span class=\"line-break\"><br></span>fave bianche dice di no et corse il bussolo e<span class=\"line-break\"><br></span>fu vinto il p[a]rtito per tutti voti neri favore-<span class=\"line-break\"><br></span>voli<span class=\"line-break\"><br></span>It[em f]ù [mes]so à partito se si devono moderare le<span class=\"line-break\"><br></span>spese delle feste, et ridurle cioè che p<em>er</em> l'avenire<span class=\"line-break\"><br></span>si</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/canvas/3",
+            "type": "Canvas",
+            "height": 2162,
+            "width": 1635,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240428f290r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/805517bc12d92beae0d72a141a5cb6f5/full/227,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 227
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/canvas/3/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/canvas/3/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/canvas/3",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/805517bc12d92beae0d72a141a5cb6f5/full/1512,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1512,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/805517bc12d92beae0d72a141a5cb6f5",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/canvas/3/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/canvas/3/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/canvas/3",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 290r]</p><p>si spendano scudi diece per la festa di San<span class=\"line-break\"><br></span>Luca altri scudi diece per la festa di Santa<span class=\"line-break\"><br></span>Martina et altri scudi Cinque per la festa<span class=\"line-break\"><br></span>dell'Asumpta della Madonna<span class=\"line-break\"><br></span>et corse il bussolo, et fu vinto il partito<span class=\"line-break\"><br></span>et decreto per undeci voti neri favorevoli<span class=\"line-break\"><br></span>no<em>n</em> ostante una fava bianca in con[t]rario<span class=\"line-break\"><br></span>Item fu deputato viva voce per Segretario del<span class=\"line-break\"><br></span>Registro de Mandati il R. Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/girolamo-boerio.html\">Gironymo Boerio</a><span class=\"line-break\"><br></span>Cappellano come sopra deputato in loco del Sig.r<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/francesco-grigiotti.html\">Francesco Griggiotti</a></p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

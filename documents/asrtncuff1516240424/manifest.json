@@ -1,0 +1,283 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1516240424"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 15 Pt. 2 Vol. 100 fols. 175r-v"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1624"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Erasto Spannocchia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Tenancy"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Roman Forum (Campo Vaccino)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Antiveduto Gramatica; Pietro Paolo Bonzi; Giacomo Gimignani"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Italian and Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Painter",
+                    "Garden",
+                    "Sculptor",
+                    "Meeting",
+                    "Farm",
+                    "Tenancy"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/8f804014b4ca32c0b6868224b9d3251d/full/210,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 210
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/canvas/1",
+            "type": "Canvas",
+            "height": 3000,
+            "width": 2100,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240421bf175r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/8f804014b4ca32c0b6868224b9d3251d/full/210,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 210
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/8f804014b4ca32c0b6868224b9d3251d/full/1400,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1400,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/8f804014b4ca32c0b6868224b9d3251d",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p><a href=\"https://www.nga.gov/accademia/en/persons/antiveduto-gramatica.html\">Antiveduto Gramatica</a> and <a href=\"https://www.nga.gov/accademia/en/persons/pietro-paolo-bonzi.html\">Pietro Paolo Bonzi</a> rent (as in a tenancy) a farm to <a href=\"https://www.nga.gov/accademia/en/persons/giacomo-gimignani.html\">Giacomo Gimignani</a>. The farm is known as Il Giardinetto (the little garden). The rent is 8 scudi per year. Giacomo Gimignani will be responsible for the maintenance of the farm and its trees, especially during wintertime.</p><p></p><p>[Italian version]</p><p><a href=\"https://www.nga.gov/accademia/it/persons/antiveduto-gramatica.html\">Antiveduto Gramatica</a> e <a href=\"https://www.nga.gov/accademia/it/persons/pietro-paolo-bonzi.html\">Pietro Paolo Bonzi</a> concedono in usufrutto a <a href=\"https://www.nga.gov/accademia/it/persons/giacomo-gimignani.html\">Giacomo Gimignani</a> un podere, detto <em>Il Giardinetto</em>, per 8 scudi annui. Il locatario dovrà prendersi cura della manutenzione del podere e dei suoi alberi, anche e soprattutto nella stagione invernale.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/canvas/2",
+            "type": "Canvas",
+            "height": 3000,
+            "width": 2100,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240421bf175v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/6ae8d1e6ad190c40fec817cf6368f99e/full/210,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 210
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/6ae8d1e6ad190c40fec817cf6368f99e/full/1400,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1400,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/6ae8d1e6ad190c40fec817cf6368f99e",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 175v]</p><p>di d<em>ett</em>a Ven<em>erabile</em> Cong<em>regatio</em>ne a sei mesi in sei mesi anticipatamente p[...]<span class=\"line-break\"><br></span>rata q[...] in Roma liberamente etc. et con patti et capituli<span class=\"line-break\"><br></span>In presenti cioè: Che d<em>ett</em>o Affittuario debba come promette potare le vite che saranno<span class=\"line-break\"><br></span>in d<em>ett</em>o Giardino ogni anno, et accomodarle di legnami secondo<span class=\"line-break\"><br></span>che sarà di bisogno per mantenimento di essi et anco man[te]-<span class=\"line-break\"><br></span>nere la spalliera delli [...] che saranno al muro del detto Giar-<span class=\"line-break\"><br></span>dino, et guardino [...] dal freddo<span class=\"line-break\"><br></span>In tempo di neve d<em>ett</em>o affittuario sia obligato come<sup>[2]</sup> prontare<span class=\"line-break\"><br></span>[...] l’angolo con uno portico [...]<span class=\"line-break\"><br></span>[...] et anco mantenere li arbori prugni [...] et<span class=\"line-break\"><br></span>altri arbori, et anco mantenere la spalliera del Giardino<span class=\"line-break\"><br></span>ad una spina et [...]irle bene et diligentemente ad [...]<span class=\"line-break\"><br></span>de bono affictuario et mantenere il [...] valore c[...]<span class=\"line-break\"><br></span>nel d<em>ett</em>o giardinetto liberamente etc.<span class=\"line-break\"><br></span>Che d<em>ett</em>o affittuario sia obligato come promette [...] lavorare [...]<span class=\"line-break\"><br></span>re d<em>ett</em>o Giardino [...] e da farsi [...]<span class=\"line-break\"><br></span>[...] temp[...]<span class=\"line-break\"><br></span>Item ab [...] arbori vite spalliere [...] si [...]<span class=\"line-break\"><br></span>[...] et nulla [...]</p><p></p><p>[2]&nbsp;Uncertain.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

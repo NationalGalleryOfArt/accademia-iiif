@@ -1,0 +1,420 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1516240106"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 15 Pt. 1 Vol. 99 fols. 113r-v, 146r-v"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1624"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Erasto Spannocchia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Meeting (private)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Roman Forum (Campo Vaccino)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Agostino Ciampelli; Prospero Orsi; Paul Bril; Mario Arconio; Paolo Franchi; Giulio Cesare Belvisi; Ascanio Barigioni; Francesco Grigiotti; Girolamo Massei; Andrea Lilio; Antiveduto Gramatica; Alessandro Turchi; Pietro Cortona (da); Trophime Bigot; Domenico Chiavarino; Giovanni Lanfranco; Nicola Ranieri; Siegmund Lair; Pietro Contini; Giovanni Contini; Giacomo Cavezzi; Rocco Pasquini; Annibale Durante; Pasquale Benedetti (de); Ippolito Butti; Giovanni Maria Ferrera"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Italian and Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Procurator",
+                    "Rector",
+                    "Principe",
+                    "Meeting (private)",
+                    "Secretary",
+                    "Advisor",
+                    "Proctor",
+                    "Colletta",
+                    "Service"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/b90e9bfdf9879aae41f67f07c9ab4cda/full/227,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 227
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/1",
+            "type": "Canvas",
+            "height": 2109,
+            "width": 1594,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240106f113r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/b90e9bfdf9879aae41f67f07c9ab4cda/full/227,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 227
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/b90e9bfdf9879aae41f67f07c9ab4cda/full/1512,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1512,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/b90e9bfdf9879aae41f67f07c9ab4cda",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p>At a private meeting of painters and sculptors, names are listed of those who will be elected (by drawing lots), including the <em>principe</em> of the <em>colletta</em> (a select governing body sanctioned by Pope Gregory XV). In addition, lots are drawn to elect the second rectors. Finally, it is decided to pay 6 scudi to <a href=\"https://www.nga.gov/accademia/en/persons/pasquale-benedetti-de.html\">Pasquale de Benedetti</a>, procurator, for his services.</p><p></p><p>[Italian version]</p><p>Durante la congregazione segreta dei pittori e scultori vengono elencati i nomi tra i quali si farà l'estrazione per gli ufficiali della colletta. Inoltre, viene fatta una serie di estrazioni per nominare i secondi rettori. Infine, viene deciso di pagare a <a href=\"https://www.nga.gov/accademia/it/persons/pasquale-benedetti-de.html\">Pasquale de Benedetti</a>, procuratore, 6 scudi per i servizi prestati alla congregazione.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/2",
+            "type": "Canvas",
+            "height": 3626,
+            "width": 2600,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240106f113v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/6ff7ef6f8a772675669225df3e9c16e5/full/215,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 215
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/6ff7ef6f8a772675669225df3e9c16e5/full/1434,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1434,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/6ff7ef6f8a772675669225df3e9c16e5",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 113v]</p><p>dalla Colletta del Prencipe, et disse essere stati<span class=\"line-break\"><br></span>[nominati et i]mbussolati l'Infrascritti cioè<span class=\"line-break\"><br></span>Il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/girolamo-massei.html\">Gironimo Massei</a><span class=\"line-break\"><br></span>Il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/andrea-lilio.html\">Andrea Lilii</a><span class=\"line-break\"><br></span>Il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/ippolito-butti.html\">Hippolito Butii</a><span class=\"line-break\"><br></span>Il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/antiveduto-gramatica.html\">Anteviduto Gra</a><em><a href=\"https://www.nga.gov/accademia/en/persons/antiveduto-gramatica.html\">m</a></em><a href=\"https://www.nga.gov/accademia/en/persons/antiveduto-gramatica.html\">matica</a> et<span class=\"line-break\"><br></span>[Il Sig.r] <a href=\"https://www.nga.gov/accademia/en/persons/alessandro-turchi.html\">Alessandro Turchi</a><span class=\"line-break\"><br></span>It<em>em</em> furno messi à partito, et corse il bossolo p<em>er</em> li pri<span class=\"line-break\"><br></span>mi Rettori nominati dal Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/prospero-orsi.html\">Prospero Orsi</a> P<em>rim</em>o<span class=\"line-break\"><br></span>Rettore et corse il bossolo di piu persone le fave<span class=\"line-break\"><br></span>nere dice di si et le bianche di no et forno<span class=\"line-break\"><br></span>vinti l'Infr<em>ascritti</em> cioe<span class=\"line-break\"><br></span>Il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/pietro-cortona-da.html\">Pietro Berrettini</a> fu [vinto p<em>er</em>] fave et voti 14 ne-<span class=\"line-break\"><br></span>ri favorevoli no<em>n</em> ostante tre [bia]nche in contrario<span class=\"line-break\"><br></span>Il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/trophime-bigot.html\">Teofilo Bigotti</a> fù vinto p<em>er</em> tredici fave<span class=\"line-break\"><br></span>nere no<em>n</em> ostante tre bianche<span class=\"line-break\"><br></span>Il Sig.re <a href=\"https://www.nga.gov/accademia/en/persons/domenico-chiavarino.html\">Domenico Chiavanno</a> fu vinto p<em>er</em> dodeci<span class=\"line-break\"><br></span>f[ave] nere no<em>n</em> ostante cinq<em>ue</em> bianche in contrario<span class=\"line-break\"><br></span>Il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-lanfranco.html\">Gio: Lanfranchi</a> fu vinto p<em>er</em> dodeci fa-<span class=\"line-break\"><br></span>ve</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/3",
+            "type": "Canvas",
+            "height": 2150,
+            "width": 1702,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240106f146r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/5b1115aaa886ef803991412a9be4eacf/full/237,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 237
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/3/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/3/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/3",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/5b1115aaa886ef803991412a9be4eacf/full/1583,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1583,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/5b1115aaa886ef803991412a9be4eacf",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/3/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/3/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/3",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 146r]</p><p>ve nere no<em>n</em> ostante 5 bianche<span class=\"line-break\"><br></span>Il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/nicola-ranieri.html\">Nicolo Ranieri</a> fu vinto p<em>er</em> nove fave<span class=\"line-break\"><br></span>nere no<em>n</em> ostante otto bianche<span class=\"line-break\"><br></span>Il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/siegmund-lair.html\">Sigismondo Laier</a> tra li altri persi fu perso<span class=\"line-break\"><br></span>et di novo messo à part[i]to, corse il bossolo nova-<span class=\"line-break\"><br></span>mente, e fu poi vinto [p<em>er</em>] und[e]ci fave nere no<em>n</em> osta<em>n-</em><span class=\"line-break\"><br></span>te sei bianche in contrario<span class=\"line-break\"><br></span>Il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/pietro-contini.html\">Pietro Contini</a> [P<em>rim</em>o] Rettore nominò più perso-<span class=\"line-break\"><br></span>ne p<em>er</em> li <em>second</em>i Rettori et corse il bossolo et furno vinti<span class=\"line-break\"><br></span>p<em>er</em> <em>second</em>i Rettori l'Infrascritti cioè<span class=\"line-break\"><br></span>Il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-contini.html\">Gio: Contini</a> fú vinto p<em>er</em> quindeci ^fave e^ voti neri<span class=\"line-break\"><br></span>favorevoli<span class=\"line-break\"><br></span>Il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/giacomo-cavezzi.html\">Iacomo Cavezza</a> fu vinto p<em>er</em> fave e voti neri<span class=\"line-break\"><br></span>dieci favorevoli<span class=\"line-break\"><br></span>Il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/paolo-franchi.html\">Paolo Franco</a> fu vinto p<em>er</em> fave nere n<em>umer</em>o tre-<span class=\"line-break\"><br></span>deci<span class=\"line-break\"><br></span>Il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/rocco-pasquini.html\">Roccho Pasquini</a> fu vinto p<em>er</em> voti et fave<span class=\"line-break\"><br></span>nere num<em>er</em>o Sedeci<span class=\"line-break\"><br></span>Il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/annibale-durante.html\">Anibale Durante</a> fu vinto p<em>er</em> fave nere</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/4",
+            "type": "Canvas",
+            "height": 2174,
+            "width": 1570,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240106f146v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/f017823d85766c7bb613bb41b1af2890/full/217,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 217
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/4/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/4/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/4",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/f017823d85766c7bb613bb41b1af2890/full/1444,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1444,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/f017823d85766c7bb613bb41b1af2890",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/4/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/4/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/canvas/4",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 146v]</p><p>num<em>er</em>o dodeci favorevoli<span class=\"line-break\"><br></span>It<em>em</em> viva voce fù ordinato, et decretato che si paghi al Sig.<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/pasquale-benedetti-de.html\">Pasquale de Benedetti</a> Procuratore p<em>er</em> le fatighe<span class=\"line-break\"><br></span>fatte p<em>er</em> Regalo scudi sei, et che se ne facci mandato<span class=\"line-break\"><br></span>del Pagamento Et che p<em>er</em> l'avenire da oggi in<span class=\"line-break\"><br></span>poi se [gl]i paghi p<em>er</em> la [procu]ra diece scudi l'a[n]-<span class=\"line-break\"><br></span>n</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
