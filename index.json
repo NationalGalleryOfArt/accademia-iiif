@@ -17,7 +17,7 @@
   ],
   "items": [
     {
-      "id": "https://https://nationalgalleryofart.github.io/accademia-iiif/documents/index.json",
+      "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/index.json",
       "type": "Collection",
       "label": { "en": ["Documents"] }
     }
