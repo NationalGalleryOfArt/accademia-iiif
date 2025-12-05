@@ -1,0 +1,234 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321215/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTCSVol054916321215"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Vol. 549 fol. 1093r"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1632"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Tommaso Salvatore"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Audientia (court hearing)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Giovanni Paolo Garcia; Pier Francesco Rossi; Giulio Cesare Mere"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Debt",
+                    "Rent (ground)",
+                    "Executive mandate"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321215/07fc83c21bee329c3d733b44c28fef2e/full/204,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 204
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321215/canvas/1",
+            "type": "Canvas",
+            "height": 3422,
+            "width": 2323,
+            "label": {
+                "none": [
+                    "ASR_TCS_vol549_1632_f1093R"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321215/07fc83c21bee329c3d733b44c28fef2e/full/204,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 204
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321215/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321215/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321215/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321215/07fc83c21bee329c3d733b44c28fef2e/full/1358,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1358,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321215/07fc83c21bee329c3d733b44c28fef2e",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321215/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321215/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321215/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p>The Accademia di San Luca, represented by its <em>camerario</em> [treasurer] Pier Francesco Rossi, petitions the civil court of the senator of Rome against Giovanni Paolo Garcia, Giulio Mere, and the brothers Tiberio and Francesco de Alberini, children and heirs of Paolo de Alberini, for payment owed on rent.</p><p></p><p>[Italian version]</p><p>L’Accademia di San Luca ricorre presso il tribunale civile del senatore di Roma, assistita dal proprio camerario [tesoriere] Pier Francesco Rossi, contro Giovanni Paolo Garcia, Giulio Mere e i fratelli Tiberio e Francesco de Alberini, figli ed eredi di Paolo Alberini, in obbligo al pagamento di un affitto.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321215/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321215/canvas/1#xywh=1269,1995,304,129",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>canones (rent)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321215/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321215/canvas/1#xywh=1161,2095,253,109",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>debitos (debt)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321215/canvas/1/annopage-2/anno-4",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321215/canvas/1#xywh=1121,2232,369,126",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>mandat<em>um</em> ex<em>ecutivu</em>m (executive mandate)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
