@@ -1,0 +1,975 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1115930330"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 11 Vol. 25 Fols. 543r-v, 544r-v, 545r, 546r-v, 547r-v, 548r-v, 555r"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1593"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Ottaviano Saravezzi"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Sale"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Asdrubale Mattei; Bernardo Alberti; Bernardo Giusto; Cesare Nebbia; Ciriaco Mattei; Francesco Branchi; Giovanni Pietro Paolo Piccioni; Girolamo Muziano; Pietro Paolo Tarduzio; Ruggerio Ranulfi; Antonio Sutori; Girolamo Nardo; Restauro Poliziano; Francesco Ranulfi; Giulio Masso; Orazio Romanini"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Italian and Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Painter",
+                    "Heir",
+                    "Sale",
+                    "Inheritance",
+                    "Last will",
+                    "Painting",
+                    "Price"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/2270799b72eb4403d5c9d04ee9d992fc/full/209,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 209
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/1",
+            "type": "Canvas",
+            "height": 3536,
+            "width": 2464,
+            "label": {
+                "none": [
+                    "ASRTNCUff1115930330f543r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/2270799b72eb4403d5c9d04ee9d992fc/full/209,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 209
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/2270799b72eb4403d5c9d04ee9d992fc/full/1394,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1394,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/2270799b72eb4403d5c9d04ee9d992fc",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p>The Società di San Luca sells<a href=\"https://www.nga.gov/accademia/en/persons/girolamo-muziano.html\"> Girolamo Muziano</a>'s paintings, which he had left to the Società as an inheritance. The document contains a list of the purchased paintings and their buyers.</p><p></p><p>[Italian version]</p><p>La società di San Luca vende i dipinti di <a href=\"https://www.nga.gov/accademia/it/persons/girolamo-muziano.html\">Girolamo Muziano</a>, che egli ha lasciato in eredità. Il documento contiene la lista dei dipinti venduti e i relativi compratori.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/1#xywh=298,100,443,199",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>picturar<em>um </em>(painting)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/1#xywh=1360,758,333,116",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>pictore (painter)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/1/annopage-2/anno-4",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/1#xywh=819,976,362,183",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>testam<em>en</em>tu<em>m </em>(will)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/2",
+            "type": "Canvas",
+            "height": 3592,
+            "width": 2544,
+            "label": {
+                "none": [
+                    "ASRTNCUff1115930330f543v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/57808ef380b2c24f82caccec15b50c3d/full/212,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 212
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/57808ef380b2c24f82caccec15b50c3d/full/1416,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1416,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/57808ef380b2c24f82caccec15b50c3d",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 543v]</p><p>M. D.<a href=\"https://www.nga.gov/accademia/en/persons/ruggerio-ranulfi.html\"> Roggerio Ranulfo</a>, una testa d'un Salvatore corniciata, pro<span class=\"line-break\"><br></span>pretio Iulior<em>um</em> dece<em>m</em>, et septe<em>m</em> cum dimidio<span class=\"line-break\"><br></span>_____________________________________________________scudi 1 ______ 75<span class=\"line-break\"><br></span>D.<a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\"> Francisco de Branchis</a>, un quadro d'un Cenaculo pro pretio scutor<em>um</em><span class=\"line-break\"><br></span>decem, et ba<em>ioccorum</em> octuaginta ___________________scudi 10_______80<span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">Io: Paulo Picciolo</a>, un mezzo Salvatore pro pretio Iulior<em>um</em> septe<em>m</em><span class=\"line-break\"><br></span>_____________________________________________________scudi 0 ______70<span class=\"line-break\"><br></span>M. D. <a href=\"https://www.nga.gov/accademia/en/persons/ruggerio-ranulfi.html\">Roggerio Ranulfo</a>, Tre teste, una di leone, una di bove, et<span class=\"line-break\"><br></span>una di Somaro pro pretio Iulior<em>um</em> duodecim, et ba<em>ioccorum</em> trium<span class=\"line-break\"><br></span>_______________________________________________________scudi 1 ______23<span class=\"line-break\"><br></span>Sup<em>rascrip</em>to D. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">Io: Paulo</a>, un quadro d'una Madalena pro pretio scutor<em>um</em><span class=\"line-break\"><br></span>quinq<em>ue</em>, et ba<em>ioccorum</em> quinq<em>ue</em> ________________________scudi 5 ________ 5<span class=\"line-break\"><br></span>Eid<em>em</em> <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">Io: Paulo</a> un San Geronimo pro pretio scutor<em>um</em> duor<em>um</em>, et ba<em>ioccorum</em><span class=\"line-break\"><br></span>sexaginta __________________________________________scudi 2 _______ 60<span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\">Francisco de Branchis</a>, un quadro di Santa Maria Maggiore p<em>ro</em><span class=\"line-break\"><br></span>pretio scutor<em>um</em> quinq<em>ue</em>_______________________________scudi 5 _____ ____<span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">Io: Paulo Picciolo</a>, una historietta della Madonna pro pretio<span class=\"line-break\"><br></span>scutor<em>um</em> duor<em>um</em>, et ba<em>ioccorum</em> sexaginta duor<em>um</em> cu<em>m</em> dimid<em>i</em>o ___scudi___ 62 2/1<span class=\"line-break\"><br></span>Eid<em>em</em><a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\"> Io: Paulo</a>, un San Geronimo pro pretio scutor<em>um</em> trium,<span class=\"line-break\"><br></span>et ba<em>ioccorum</em> duor<em>um</em> cum dimid<em>i</em>o ______________________scudi 3 _____ 2 1/1<span class=\"line-break\"><br></span>Eid<em>em</em>, un Christo con la Croce in spalla pro pretio scutor<em>um</em> quatuor,<span class=\"line-break\"><br></span>et ba<em>ioccorum</em> viginti __________________________________scudi 4 ______20</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/3",
+            "type": "Canvas",
+            "height": 3432,
+            "width": 2592,
+            "label": {
+                "none": [
+                    "ASRTNCUff1115930330f544r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/deacc0d338ff2d59885e915e55a3fcd8/full/227,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 227
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/3/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/3/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/3",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/deacc0d338ff2d59885e915e55a3fcd8/full/1510,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1510,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/deacc0d338ff2d59885e915e55a3fcd8",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/3/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/3/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/3",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 544r]</p><p>M. D.<a href=\"https://www.nga.gov/accademia/en/persons/ruggerio-ranulfi.html\"> Roggerio Ranulfo</a>, un altro Cristo simile pro pretio scutor<em>um</em><span class=\"line-break\"><br></span>quatuor, et ba<em>ioccorum</em> sexaginta __________________________ scudi 4 _____60<span class=\"line-break\"><br></span>D.<a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\"> Francisco de Branchis</a> un San Francesco pro pretio scutor<em>um</em><span class=\"line-break\"><br></span>duor<em>um</em> et ba<em>ioccorum</em> quinq<em>ue</em> ___________________________ scudi 2 ______5<span class=\"line-break\"><br></span>Ill.mo D.<a href=\"https://www.nga.gov/accademia/en/persons/ciriaco-mattei.html\"> Ciriaco de Mattheis</a>, una historietta del Cieco nato pro pr<em>e</em>tio<span class=\"line-break\"><br></span>scut<em>orum</em> novem, et ba<em>ioccorum</em> quinquaginta ______________scudi 9 _______50<span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\">Francisco de Branchis</a>, l'Historia del Centurione pro pretio<span class=\"line-break\"><br></span>scutor<em>um</em> quindecim, et ba<em>ioccorum</em> sexaginta ______________scudi 15 ______ 60<span class=\"line-break\"><br></span>M. D.<a href=\"https://www.nga.gov/accademia/en/persons/ruggerio-ranulfi.html\"> Roggerio Ranulfo</a>, l'Istoria de San Matteo pro pretio<span class=\"line-break\"><br></span>scutor<em>um</em> quinque ____________________________________scudi 5 ______ ___<span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">Io: Paulo Picciolo</a>, un Santo Antonio, pro pretio scutor<em>um</em> duor<em>um</em><span class=\"line-break\"><br></span>et ba<em>ioccorum</em> nonaginta ________________________________scudi 2 ______ 90<span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/bernardo-alberti.html\">Bernardino de Albertis</a> l'Istoria della Madonna pro pret<em>io</em><span class=\"line-break\"><br></span>scutor<em>um</em> tresdecim cum dimidio _________________________scudi 13 ______50<span class=\"line-break\"><br></span>Sup<em>rascrip</em>to D. Io: Paulo, Il Presepio pro pretio scutor<em>um</em> quinq<em>ue</em><span class=\"line-break\"><br></span>____________________________________________________scudi 5______ __<span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\">Francisco de Branchis</a>, un San Francesco pro pretio scut[orum]<span class=\"line-break\"><br></span>quinq<em>ue</em> cum dimedio____________________________________scudi 5 _____ 50<span class=\"line-break\"><br></span>Quae omnia habuer<em>unt</em> etc. et omnes g<em>e</em>n<em>er</em>ali<em>ter</em> etc. d<em>i</em>c<em>t</em>os heredes quieta[...]<span class=\"line-break\"><br></span>per pact<em>um</em> super quibus, etc.<span class=\"line-break\"><br></span>Act<em>ae</em> fuer<em>un</em>t Hec Rom<em>a</em>e in domo solit<em>a</em> habitat<em>ione</em> sup<em>radic</em>ti q. D.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/4",
+            "type": "Canvas",
+            "height": 3352,
+            "width": 2480,
+            "label": {
+                "none": [
+                    "ASRTNCUff1115930330f544v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/a855efd7201915caa27069e95d7b3857/full/222,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 222
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/4/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/4/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/4",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/a855efd7201915caa27069e95d7b3857/full/1480,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1480,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/a855efd7201915caa27069e95d7b3857",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/4/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/4/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/4",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 544v]</p><p>onimo Nardo Rom<em>ano</em>, et <a href=\"https://www.nga.gov/accademia/en/persons/restauro-poliziano.html\">Restauro Politiano</a> de Monte Leone testibus<span class=\"line-break\"><br></span>Die vero 31 Martii 1593<span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\">Francisco de Branchis</a>, un San Gregorio, pro pretio scutor<em>um</em><span class=\"line-break\"><br></span>quatuor _______________________________________________scudi 4 ___ ___<span class=\"line-break\"><br></span>M. D. <a href=\"https://www.nga.gov/accademia/en/persons/ruggerio-ranulfi.html\">Ruggerio Ranulfo</a>, un San Francesco pro pretio scut<em>orum</em><span class=\"line-break\"><br></span>octo cum dimidio ______________________________________scudi 8 ______50<span class=\"line-break\"><br></span>Sup<em>rascrip</em>to D.<a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\"> Francisco de Branchis</a> un San Geronimo, pro pretio<span class=\"line-break\"><br></span>scutor<em>um</em> septem ______________________________________scudi 7 ____ ___<span class=\"line-break\"><br></span>Sup<em>rascrip</em>to M. D. <a href=\"https://www.nga.gov/accademia/en/persons/ruggerio-ranulfi.html\">Ruggerio Ranulfo</a>, un mezzo San Geronimo, pro<span class=\"line-break\"><br></span>pretio scutor<em>um</em> quatuor, et ba<em>ioccorum</em> quatraginta ____________________________________________________scudi 4 ______ 40<span class=\"line-break\"><br></span>Eid<em>em</em> D. <a href=\"https://www.nga.gov/accademia/en/persons/ruggerio-ranulfi.html\">Ruggerio</a>, un mezzo San Geronimo pro pretio scutor<em>um</em><span class=\"line-break\"><br></span>septem, et ba<em>ioccorum</em> viginti ___________________________scudi 7 ______ 20<span class=\"line-break\"><br></span>Eid<em>em</em>, tre teste colorite, pro pretio scut<em>orum</em> unius, et ba<em>ioccorum</em> octuaginta<span class=\"line-break\"><br></span>quinq<em>ue</em> ______________________________________________scudi 1 _____ 85<span class=\"line-break\"><br></span>D. Antonio . . . un ritratto d'una Contessa pro pretio<span class=\"line-break\"><br></span>scut<em>orum</em> unius, et ba<em>ioccorum</em> dece<em>m</em> ___________________scudi 1 ________ 10<span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\">Francisco de Branchis</a>, un ritratto di Papa Gregorio<span class=\"line-break\"><br></span>pro pretio scut<em>orum</em> trium cu<em>m</em> dimidio ____________________scudi 3 ______ 50</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/5",
+            "type": "Canvas",
+            "height": 3424,
+            "width": 2568,
+            "label": {
+                "none": [
+                    "ASRTNCUff1115930330f545r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/07b71befd321cce04ea071eeb98093aa/full/225,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 225
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/5/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/5/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/5",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/07b71befd321cce04ea071eeb98093aa/full/1500,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1500,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/07b71befd321cce04ea071eeb98093aa",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/5/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/5/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/5",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 545r]</p><p>M. D. <a href=\"https://www.nga.gov/accademia/en/persons/pietro-paolo-tarduzio.html\">Petro Paulo Tardutio</a>, un San Geronimo, pro pretio scu[tor<em>um</em>]<span class=\"line-break\"><br></span>novem, et ba<em>ioccorum</em> viginti ________________________________scudi 9___ 20<span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/antonio-sutori.html\">Antonio Sutori</a>, un'Annuntiata sbozzata pro pretio<span class=\"line-break\"><br></span>scutor<em>um</em> duor<em>um</em>, et ba<em>ioccorum</em> viginti ____________________scudi 2 ______ 20<span class=\"line-break\"><br></span>M. D. <a href=\"https://www.nga.gov/accademia/en/persons/ruggerio-ranulfi.html\">Ruggerio Ranulfo</a> Doi Re, pro pretio scut<em>orum</em> sex, et<span class=\"line-break\"><br></span>ba<em>ioccorum</em> viginti ______________________________________scudi 6 _____ 20<span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\">Francisco de Branchis</a>, una historia de Cristo pro pretio<span class=\"line-break\"><br></span>scutor<em>um</em> triginta quinq<em>ue</em> ________________________________scudi 35 __ ____<span class=\"line-break\"><br></span>M. D. <a href=\"https://www.nga.gov/accademia/en/persons/pietro-paolo-tarduzio.html\">Petro Paulo Tardutio</a>, Un Cenaculo grande, pro<span class=\"line-break\"><br></span>pretio scuto<em>rum</em> triginta trium ____________________________scudi 33 __ ___<span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\">Francisco de Branchis</a>, l'Istoria de Santi Antonio<span class=\"line-break\"><br></span>et Paulo primi Eremiti pro pretio scut<em>orum</em> quinquaginta ________scudi 50 __ ___<span class=\"line-break\"><br></span>M. D. <a href=\"https://www.nga.gov/accademia/en/persons/cesare-nebbia.html\">Cesari Nebbi</a>, l'Istoria de San Giovanni decollati<span class=\"line-break\"><br></span>pro pretio scutor<em>um</em> viginti _______________________________scudi 20 __ ___<span class=\"line-break\"><br></span>Quae o<em>m</em>nia similiter habuer<em>un</em>t de quibus, etc. g<em>e</em>n<em>er</em>al<em>ite</em>r etc. quietaver<em>un</em>t<span class=\"line-break\"><br></span>etc. et per pattum etc. super quibus etc.<span class=\"line-break\"><br></span>Act<em>um</em> ubi supra ibid<em>em</em> pr<em>ese</em>ntibus D. D.<a href=\"https://www.nga.gov/accademia/en/persons/girolamo-nardo.html\"> Hieronimo Nardo</a> Romano<span class=\"line-break\"><br></span>et <a href=\"https://www.nga.gov/accademia/en/persons/restauro-poliziano.html\">Restauro Politiano</a> de Monte Leone testibus etc.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/6",
+            "type": "Canvas",
+            "height": 3440,
+            "width": 2320,
+            "label": {
+                "none": [
+                    "ASRTNCUff1115930330f546r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/ff9b2926922a34049b5c52437db52145/full/202,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 202
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/6/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/6/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/6",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/ff9b2926922a34049b5c52437db52145/full/1349,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1349,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/ff9b2926922a34049b5c52437db52145",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/6/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/6/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/6",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 546r]</p><p>Nota de tutti quadri, disegni, teste colorite, stampe, paesi, et altre cose perti-<span class=\"line-break\"><br></span>nenti alla pittura, et dissegno, vendute, et che si venderanno all'in-<span class=\"line-break\"><br></span>canto à Lume di candela ad istan<em>za</em> delli heredi del q. M.<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/girolamo-muziano.html\">Gerolimo Mutiano</a> pictore, et anco del prezzo d'esse pitture che<span class=\"line-break\"><br></span>si venderanno giornata per giornata alla p<em>rese</em>ntia dell'in-<span class=\"line-break\"><br></span>f<em>rascript</em>i testimonii.<span class=\"line-break\"><br></span>In p<em>rim</em>is<span class=\"line-break\"><br></span>Una Oratione nell'orto, fatta in un quadro in chiaro oscuro<span class=\"line-break\"><br></span>Una historia di San Matteo in quadretto di chiaro oscuro<span class=\"line-break\"><br></span>Una historia del Sacrificio de Ippolito, overo delle muse in<span class=\"line-break\"><br></span>chiaro oscuro.<span class=\"line-break\"><br></span>Un altra historia de Imperatore in chiaro oscuro.<span class=\"line-break\"><br></span>Tutti quattro liberati al Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/orazio-romanini.html\">Oratio Romanini</a> per prezzo<span class=\"line-break\"><br></span>de scudi trenta _________________________________________scudi 30 ___ ___<span class=\"line-break\"><br></span>It<em>em</em> tutti dissegni, teste colorite, et altre cose che erano dentro una<span class=\"line-break\"><br></span>cassa mentre era nella vendita, liberate a M. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">Gio: Paulo Piccio</a><em><a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">lo</a></em><span class=\"line-break\"><br></span>per prezzo di cento trentanove scudi ______________________scudi 139 __ __ __<span class=\"line-break\"><br></span>It<em>em</em> un San Geronimo deliberato al Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/ciriaco-mattei.html\">Ciriaco Mattei</a> per p<em>re</em>zzo<span class=\"line-break\"><br></span>de scudi quattordici ___________________________________scudi 14 ___ ____<span class=\"line-break\"><br></span>It<em>em</em> una historietta del Cieco nato, un altra historia del Tolle cra-<span class=\"line-break\"><br></span>batum tuum et ambula, et un' altra historia del Battesi-<span class=\"line-break\"><br></span>mo, et Predica di San Gioanni, tutti tre deliberati al<span class=\"line-break\"><br></span>Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/pietro-paolo-tarduzio.html\">Pietro Paulo Tardutii </a>per scudi quarantasette et b<em>aiocchi</em><span class=\"line-break\"><br></span>venti _________________________________________________scudi 47 ____ 20<span class=\"line-break\"><br></span>_____________________sc 230 _____ 20</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/7",
+            "type": "Canvas",
+            "height": 3058,
+            "width": 2297,
+            "label": {
+                "none": [
+                    "ASRTNCUff1115930330f546v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/eca653b5a9142b3161362d9c4fef98b0/full/225,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 225
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/7/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/7/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/7",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/eca653b5a9142b3161362d9c4fef98b0/full/1502,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1502,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/eca653b5a9142b3161362d9c4fef98b0",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/7/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/7/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/7",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 546v]</p><p>It<em>em</em> La Resurectione de San Lazzaro deliberata a' M. <a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\">Francesco Bra</a><em><a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\">n</a></em><a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\">chi</a><span class=\"line-break\"><br></span>per scudi venti tre, et ba<em>iocchi</em> venti _______________________scudi 23 ______ 20<span class=\"line-break\"><br></span>It<em>em</em> un mezzo quadro di Sant'Antonio primo Eremita, deliberata<span class=\"line-break\"><br></span>al Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/asdrubale-mattei.html\">Asdrubale Mattei </a>per scudi dodici, et ba<em>iocchi</em> cinqua<em>n</em>ta _________________________________________________scudi 12 ______ 50<span class=\"line-break\"><br></span>It<em>em</em> La Ressurectione del figliolo della Vidua, deliberata a' M.<span class=\"line-break\"><br></span>Francesco Branchi per prezzo de scudi venti tre<span class=\"line-break\"><br></span>___________________________________________________scudi 23 ___ ____<span class=\"line-break\"><br></span>It<em>em</em> una historietta de Christo alla Colonna, deliberata al med<em>esi</em>mo<span class=\"line-break\"><br></span>M. Francesco per prezzo de scudi quattordici, et mezzo ____________________________________________________scudi 14 ______ 50<span class=\"line-break\"><br></span>It<em>em</em> una testa di Salvatore deliberata a' M. <a href=\"https://www.nga.gov/accademia/en/persons/giulio-masso.html\">Giulio Masso</a><sup>[3]</sup><span class=\"line-break\"><br></span>per prezzo de scudi doi, et ba<em>iocchi</em> cinquanta<span class=\"line-break\"><br></span>____________________________________________________scudi 2 ______ 50<span class=\"line-break\"><br></span>It<em>em</em> un quadro di Santi Antonio, et Paulo primi Eremiti, deli<span class=\"line-break\"><br></span>berata a' M. <a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\">Francesco Branchi</a> per prezzo de scudi tre, <em>et</em> ba<em>iocchi</em> cinquanta ______________________________________scudi 3 _____ 50<span class=\"line-break\"><br></span>P<em>rese</em>ntibus venditionibus, et deliberationibus sup<em>radic</em>tis Ill.mo et R.mo<span class=\"line-break\"><br></span>P. D. Bonviso Bonvisio[4] C. A. Eletto, et . Ill.mo D. <a href=\"https://www.nga.gov/accademia/en/persons/ciriaco-mattei.html\">Ciriasco Mattheis</a>, etc.<span class=\"line-break\"><br></span>Die 30 Martii 1593<span class=\"line-break\"><br></span>Una testa Colorita deliberata a' M. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">Gio: Paulo Piccioli</a> per giulii<span class=\"line-break\"><br></span>quattro _________________________________________________scudi 0____ 40<span class=\"line-break\"><br></span>Scudi 79____60<span class=\"line-break\"><br></span>______________</p><p></p><p>[3]&nbsp;Or \"Mazzo.\"</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/8",
+            "type": "Canvas",
+            "height": 3174,
+            "width": 2375,
+            "label": {
+                "none": [
+                    "ASRTNCUff1115930330f547r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/c22ccccb2e03aef024ca40450b368114/full/224,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 224
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/8/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/8/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/8",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/c22ccccb2e03aef024ca40450b368114/full/1497,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1497,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/c22ccccb2e03aef024ca40450b368114",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/8/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/8/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/8",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 547r]</p><p>Una testa di Salvatore, deliberata al med<em>esi</em>mo M. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">Gio: Paulo</a> per<span class=\"line-break\"><br></span>giulii cinque ___________________________________________scudi 0 _____ 50<span class=\"line-break\"><br></span>Un mezzo Salvatore con Le mani dinanzi deliberato a' <a href=\"https://www.nga.gov/accademia/en/persons/bernardo-giusto.html\">Ber- <span class=\"line-break\"><br></span>nardo Giusto </a>per giulii sedeci, et mezzo grosso _____________________________________________________scudi 1 ____ 62½<span class=\"line-break\"><br></span>Un Ecce homo, deliberato a' M.<a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\"> Gio: Paulo Piccioli </a>per ba<em>iocchi</em> ottanta<span class=\"line-break\"><br></span>cinque ________________________________________________scudi 0 ____ 85<span class=\"line-break\"><br></span>Un mezzo Salvatore deliberato al med<em>esi</em>mo M. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">Gio: Paulo</a> per<span class=\"line-break\"><br></span>ba. sessanta cinque _______________________________________scudi 0 ____ 65<span class=\"line-break\"><br></span>Una testa d'una Salvatore corniciata deliberata al Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/ruggerio-ranulfi.html\">Rug-<span class=\"line-break\"><br></span>giero Ranulfi&nbsp;</a>&nbsp;per prezzo de giulii diecesette, et mezzo ______________________________________________________scudi 1 ____ 75<span class=\"line-break\"><br></span>Un quadro d'un Cenaculo deliberato a' M. <a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\">Francesco Branchi</a><span class=\"line-break\"><br></span>per scudi diece, et ba<em>iocchi</em> ottanta _________________________scudi 10 _____ 80<span class=\"line-break\"><br></span>Un mezzo Salvatore deliberato a' M.<a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\"> Gio: Paulo Piccioli </a>per<span class=\"line-break\"><br></span>giulii sette _____________________________________________scudi 0 _____ 70<span class=\"line-break\"><br></span>Tre teste, una di Leone, una di Somaro, et una di bove, deli-<span class=\"line-break\"><br></span>berate al Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/ruggerio-ranulfi.html\">Ruggerio Ranulfi</a>&nbsp;per giulii dodici, et ba<em>iocchi</em> tre _________________________________________scudi 1 ______ 23<span class=\"line-break\"><br></span>Un quadro d'una Madalena deliberata a' M. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">Gio: Paulo Piccio-<span class=\"line-break\"><br></span>li </a>per prezzo de scudi cinque, et ba<em>iocchi</em> cinque _____________________________________________________scudi 5 _______ 5<span class=\"line-break\"><br></span>Un San Geronimo deliberato al med<em>esi</em>mo M. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">Gio: Paulo</a><span class=\"line-break\"><br></span>per scudi doi, et ba<em>iocchi</em> sessanta ___________________________scudi 2 ____ 60<span class=\"line-break\"><br></span>__________________scudi 25 _75 ½</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/9",
+            "type": "Canvas",
+            "height": 3512,
+            "width": 2472,
+            "label": {
+                "none": [
+                    "ASRTNCUff1115930330f547v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/435bee0d9ed9762aeabddbe0bf4c9ac4/full/211,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 211
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/9/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/9/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/9",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/435bee0d9ed9762aeabddbe0bf4c9ac4/full/1408,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1408,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/435bee0d9ed9762aeabddbe0bf4c9ac4",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/9/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/9/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/9",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 547v]</p><p>Un quadro di Santa Maria Maggiore, deliberato a' <a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\">M. France-<span class=\"line-break\"><br></span>sco Branch</a>i per prezzo de scudi cinque _____________________________________________________scudi 5___ _____<span class=\"line-break\"><br></span>Una historietta della Madonna deliberata a' M. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">Gio: Paulo<span class=\"line-break\"><br></span>Piccioli </a>&nbsp;per scudi doi, et ba<em>iocchi</em> sessanta doi, et mezzo<span class=\"line-break\"><br></span>______________________________________________________scudi 2 ___62 ½<span class=\"line-break\"><br></span>Un San Geronimo deliberato al med<em>esi</em>mo M. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">Gio: Paulo</a> per prez<em>zo</em><span class=\"line-break\"><br></span>de scudi tre, et ba<em>iocchi</em> doi, et mezzo _____________________scudi 3 _______2 ½<span class=\"line-break\"><br></span>Un Christo con la Croce in spalla, deliberata al med<em>esi</em>mo M.<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">Gio: Paulo</a> per prezzo de scudi quattro, et ba<em>iocchi</em> venti _______________________________________________________scudi 4 ____ 20<span class=\"line-break\"><br></span>Un'altro Christo simile, deliberato al Sig.r Francesco Ranul-<span class=\"line-break\"><br></span>fi per scudi quattro, et ba<em>iocchi</em> sessanta ______________________scudi 4 ____ 60<span class=\"line-break\"><br></span>Un' San Francesco, deliberato a' M.<a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\"> Francesco Branchi</a><span class=\"line-break\"><br></span>per scudi doi, et ba<em>iocchi</em> cinque _____________________________scudi 2 ____ 5<span class=\"line-break\"><br></span>Un'Historietta del Cieco nato deliberata al Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/ciriaco-mattei.html\">Ciriasco<span class=\"line-break\"><br></span>Mattei </a>per scudi nove, et ba<em>iocchi</em> sessanta _____________________scudi 9 ___ 60<span class=\"line-break\"><br></span>Una historia de'Centurione deliberata a' M.<a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\"> Francesco<span class=\"line-break\"><br></span>Branchi</a> per scudi quindici et ba<em>iocchi</em> sessanta _______________________________________________________scudi 15 ___ 60<span class=\"line-break\"><br></span>L'Istoria de San Matteo deliberata al Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/ruggerio-ranulfi.html\">Ruggiero<span class=\"line-break\"><br></span>Ranulfi </a>per scudi cinque __________________________________scudi 5 __ ___<span class=\"line-break\"><br></span>scudi 51 ____ 10</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/10",
+            "type": "Canvas",
+            "height": 3584,
+            "width": 2528,
+            "label": {
+                "none": [
+                    "ASRTNCUff1115930330f548r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/f6784d14263aada52a3b76b6bb185dbb/full/212,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 212
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/10/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/10/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/10",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/f6784d14263aada52a3b76b6bb185dbb/full/1411,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1411,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/f6784d14263aada52a3b76b6bb185dbb",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/10/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/10/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/10",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 548r]</p><p>Un Santo Antonio, deliberato a' M. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">Gio: Paulo Piccioli</a><span class=\"line-break\"><br></span>per giulii venti nove _____________________________________scudi 2 _____ 90<span class=\"line-break\"><br></span>L'Istoria della Madonna deliberata a' M. <a href=\"https://www.nga.gov/accademia/en/persons/bernardo-alberti.html\">Bernardino<span class=\"line-break\"><br></span>Alberti</a>, per prezzo de scudi tredici, et mezzo _____________________________________________________scudi 13 _____50<span class=\"line-break\"><br></span>Il Presepio, deliberato a' M. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">Gio: Paulo Piccioli </a>&nbsp;per scudi<span class=\"line-break\"><br></span>cinque ________________________________________________scudi 5 ___ ___<span class=\"line-break\"><br></span>Un San Francesco, deliberato a' M. <a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\">Francesco Branchi</a><span class=\"line-break\"><br></span>per prezzo de scudi cinq<em>ue</em>, et mezzo _________________________scudi 5 ____ 50<span class=\"line-break\"><br></span>Pr<em>ese</em>ntibus sup<em>rascrip</em>tis venditionibus, et deliberationibus Ill.mo<span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/ciriaco-mattei.html\">Ciriaco Matteio</a>, e M. D. <a href=\"https://www.nga.gov/accademia/en/persons/ruggerio-ranulfi.html\">Ruggerio Ranulfo</a> etc.<span class=\"line-break\"><br></span>Die 31 Martii 1593<span class=\"line-break\"><br></span>Un San Gregorio, deliberato a' M. <a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\">Francesco Branchi</a> per<span class=\"line-break\"><br></span>prezzo de scudi quattro ____________________________________scudi 4 ___ __<span class=\"line-break\"><br></span>It<em>em</em> un San Francesco, deliberato al Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/ruggerio-ranulfi.html\">Ruggiero<span class=\"line-break\"><br></span>Ranulfi</a> per prezzo de scudi otto, et mezzo<span class=\"line-break\"><br></span>_______________________________________________________scudi 8 ____ 50<span class=\"line-break\"><br></span>It<em>em</em> un San Geronimo deliberato a' M.<a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\"> Francesco Branchi</a><span class=\"line-break\"><br></span>per prezzo de scudi sette ____________________________________scudi 7 __ __<span class=\"line-break\"><br></span>It<em>em</em> un Mezzo San Geronimo, deliberato al Sig.r<a href=\"https://www.nga.gov/accademia/en/persons/ruggerio-ranulfi.html\"> Ruggiero<span class=\"line-break\"><br></span>Ranulfi</a> per prezzo de scudi quattro, et ba<em>iocchi</em> quara<em>n</em>ta<span class=\"line-break\"><br></span>_______________________________________________________scudi 4 ____ 40<span class=\"line-break\"><br></span>43 ____ 80</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/11",
+            "type": "Canvas",
+            "height": 3240,
+            "width": 2316,
+            "label": {
+                "none": [
+                    "ASRTNCUff1115930330f548v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/99939d849b6229d6c3310b7ebfd132a5/full/214,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 214
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/11/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/11/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/11",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/99939d849b6229d6c3310b7ebfd132a5/full/1430,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1430,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/99939d849b6229d6c3310b7ebfd132a5",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/11/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/11/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/11",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 548v]</p><p>Un Mezzo San Geronimo, deliberato al Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/ruggerio-ranulfi.html\">Ruggero<span class=\"line-break\"><br></span>Ranulfi</a> per prezzo de scudi sette, et ba<em>iocchi</em> venti<span class=\"line-break\"><br></span>______________________________________________________scudi 7 _____ 20<span class=\"line-break\"><br></span>It<em>em</em> tre teste colorite, deliberate al Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/ruggerio-ranulfi.html\">Ruggiero Ranulfi</a><span class=\"line-break\"><br></span>per prezzo de giulii dieceotto, et mezzo<span class=\"line-break\"><br></span>_____________________________________________________scudi 1 ______ 85<span class=\"line-break\"><br></span>It<em>em</em> un ritratto d'una contessa deliberata a' M. Antonio . . . per<span class=\"line-break\"><br></span>prezzo de scudo, uno, et ba<em>iocchi</em> diece<span class=\"line-break\"><br></span>______________________________________________________scudi 1 _____10<span class=\"line-break\"><br></span>It<em>em</em> un paese deliberato al Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/ruggerio-ranulfi.html\">Ruggiero Ranulfi</a><span class=\"line-break\"><br></span>per prezzo de scudo uno, et ba<em>iocchi</em> diece<span class=\"line-break\"><br></span>_______________________________________________________scudi 1 ____ 10<span class=\"line-break\"><br></span>It<em>em</em> un Ritratto di Papa Gregorio, deliberata à M. <a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\">Fran-<span class=\"line-break\"><br></span>cesco Branchi </a>&nbsp;per prezzo de scudi tre, et mezzo<span class=\"line-break\"><br></span>________________________________________________________scudi 3 ___ 50<span class=\"line-break\"><br></span>It<em>em</em> un San Geronimo, deliberato al Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/pietro-paolo-tarduzio.html\">Pietro Paulo<span class=\"line-break\"><br></span>Tardutio</a> per prezzo de scudi nove, et ba<em>iocchi</em> venti ________________________________________________________scudi 9 ___ 20<span class=\"line-break\"><br></span>It<em>em</em> un'Annuntiata sbozzata deliberata a M. Anto-<span class=\"line-break\"><br></span>nio Sartore per prezzo de scudi doi, et ba<em>iocchi</em> venti ________________________________________________________scudi 2 ___ 20<span class=\"line-break\"><br></span>It<em>em</em> Doi Re deliberati, al Sig.r<a href=\"https://www.nga.gov/accademia/en/persons/ruggerio-ranulfi.html\"> Ruggiero Ranulfi</a>, per p<em>re</em>zzo<span class=\"line-break\"><br></span>de scudi sei et ba<em>iocchi</em> venti<span class=\"line-break\"><br></span>________________________________scudi 6 ___ 20<span class=\"line-break\"><br></span>scudi 32 _____ 33</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/12",
+            "type": "Canvas",
+            "height": 3504,
+            "width": 2480,
+            "label": {
+                "none": [
+                    "ASRTNCUff1115930330f555r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/75b1fb75593925fdb65eaf01914bb20b/full/212,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 212
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/12/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/12/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/12",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/75b1fb75593925fdb65eaf01914bb20b/full/1416,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1416,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/75b1fb75593925fdb65eaf01914bb20b",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/12/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/12/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/canvas/12",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 555r]</p><p>It<em>em</em> una historia de Christo, deliberata a' M. <a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\">Francesco<span class=\"line-break\"><br></span>Branchi</a> per prezzo de scudi trenta cinque _____________________________________________________scudi 35 _______<span class=\"line-break\"><br></span>It<em>em</em> un Cenaculo grande, deliberato al Sig.r<a href=\"https://www.nga.gov/accademia/en/persons/pietro-paolo-tarduzio.html\"> Pietro Paulo<span class=\"line-break\"><br></span>Tardutii</a> per prezzo de scudi trenta tre ______________________________________________________scudi 33 ___ __<span class=\"line-break\"><br></span>It<em>em</em> l'Historia de Santi Antonio, et Paulo primi<span class=\"line-break\"><br></span>Eremiti in un telaro, deliberata a' M. <a href=\"https://www.nga.gov/accademia/en/persons/francesco-branchi.html\">Francesco<span class=\"line-break\"><br></span>Branchi</a> per prezzo de scudi cinquanta<span class=\"line-break\"><br></span>_____________________________________________________scudi 50 ___ __<span class=\"line-break\"><br></span>It<em>em</em> l'Istoria de San Gioanni decollato, deliberata, al<span class=\"line-break\"><br></span>Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/cesare-nebbia.html\">Cesare Nebbi</a> per prezzo de scudi venti _____________________________________________________scudi 20 __ _____<span class=\"line-break\"><br></span>________________<span class=\"line-break\"><br></span>138 __ 00</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

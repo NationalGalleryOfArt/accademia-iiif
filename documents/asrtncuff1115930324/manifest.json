@@ -1,0 +1,305 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1115930324"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 11 Vol. 25 Fols. 524r-v"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1593"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Ottaviano Saravezzi"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Possession"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Borgo di Sant'Agata; Monti (Rione); Pigna (Rione); Church of Santa Martina"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Cecilia Muziano; Giovanni Vecchi (de); Giovanni Pietro Paolo Piccioni; Girolamo Muziano; Paolo Cattaneo; Tommaso Fonte (de); Tommaso Teseo; Vittoria Muziano; Pompeo Orsali; Restauro Poliziano"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Heir",
+                    "Treasurer",
+                    "House",
+                    "Inheritance",
+                    "Last will",
+                    "Property"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/49079bb2e9184e50a834961cf0b3e867/full/224,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 224
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/canvas/1",
+            "type": "Canvas",
+            "height": 2240,
+            "width": 1672,
+            "label": {
+                "none": [
+                    "ASRTNCUff1115930324f524r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/49079bb2e9184e50a834961cf0b3e867/full/224,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 224
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/49079bb2e9184e50a834961cf0b3e867/full/1493,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1493,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/49079bb2e9184e50a834961cf0b3e867",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p><a href=\"https://www.nga.gov/accademia/en/persons/girolamo-muziano.html\">Girolamo Muziano'</a>s heirs cede to the Società di San Luca the ownership of two houses, left to the Confraternita in the last will of Muziano.</p><p></p><p>[Italian version]</p><p>Gli eredi di <a href=\"https://www.nga.gov/accademia/it/persons/girolamo-muziano.html\">Girolamo Muziano </a>cedono alla società di San Luca la proprietà di due case, lasciate alla confraternita da Girolamo nel testamento di Girolamo.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/canvas/1#xywh=1039,413,217,80",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>testamento (will)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/canvas/1#xywh=481,1420,127,74",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>domus (house)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/canvas/2",
+            "type": "Canvas",
+            "height": 2240,
+            "width": 1648,
+            "label": {
+                "none": [
+                    "ASRTNCUff1115930324f524v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/ba87e110795a0e05804407a0ee8a217c/full/221,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 221
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/ba87e110795a0e05804407a0ee8a217c/full/1471,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1471,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/ba87e110795a0e05804407a0ee8a217c",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 524v]</p><p>uxor<em>um</em> absen<em>tium</em>, pro quibus de rato etc. ita quod etc. spon<em>te</em> etc. omni-<span class=\"line-break\"><br></span>bus etc. dederunt etc. eid<em>em</em> Societati absen<em>ti</em> etc. DD. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-vecchi-de.html\">Iohanne de<span class=\"line-break\"><br></span>Vecchiis</a> Consule, et <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">Io: Paulo Picciolo</a> di<em>cta</em>e Societatis Camerario,<span class=\"line-break\"><br></span>meq<em>ue</em> not<em>ari</em>o p<em>rese</em>ntib<em>us</em> etc. realem, actualem et corporalem poss<em>essi</em>onem<span class=\"line-break\"><br></span>d<em>i</em>c<em>ta</em>e domus, suor<em>um</em>q<em>ue</em> omnium Iurium, Iurisdictioum, us<em>u</em>um, com-<span class=\"line-break\"><br></span>moditatum actionum, pertinentiar<em>um</em> et adiacentiar<em>um</em> quo<em>ru</em>mcu<em>m</em>q<em>ue</em><span class=\"line-break\"><br></span>vel quarumcumq<em>ue</em> ut s<em>upr</em>a posit<em>ae</em>, et confinat<em>ae</em>, Eisd<em>em</em> pro d<em>i</em>c<em>t</em>a Ven<em>erabile</em><span class=\"line-break\"><br></span>Societate Dant[es] plenam, amplam, et liberam potestate<em>m</em><span class=\"line-break\"><br></span>et facultate<em>m</em> libere etc. d<em>i</em>c<em>t</em>am poss<em>essi</em>onem, adheundi, et accipien<em>di</em><span class=\"line-break\"><br></span>tot quot opus fuit, et ad omne d<em>i</em>c<em>t</em>or<em>um</em> d<em>omi</em>nor<em>um</em>, officialium,<span class=\"line-break\"><br></span>vel alior<em>um</em> pro t<em>em</em>p<em>or</em>e futuror<em>um</em> libitum voluntatis absq<em>ue</em> alia<span class=\"line-break\"><br></span>Iuris, vel facti necessaria solemnitate, vel decreto Iudicis,<span class=\"line-break\"><br></span>que o[m]nia [etc.] al<em>ia</em>s etc. de quibus <em>etc</em>. ^Iurar<em>un</em>t tactis^ Super quibus etc.<span class=\"line-break\"><br></span>Act<em>um</em> Roma<em>e</em> in off<em>ici</em>o mei etc. <a href=\"https://www.nga.gov/accademia/en/places/Pigna_Rione.html\">Reg</a><em><a href=\"https://www.nga.gov/accademia/en/places/Pigna_Rione.html\">io</a></em><a href=\"https://www.nga.gov/accademia/en/places/Pigna_Rione.html\">nis Pinea</a><em><a href=\"https://www.nga.gov/accademia/en/places/Pigna_Rione.html\">e</a></em> ibid<em>em</em> p<em>rese</em>ntibus DD.<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/pompeo-orsali.html\">Pompeio Orsalio</a> Rom<em>ano</em>, et <a href=\"https://www.nga.gov/accademia/en/persons/restauro-poliziano.html\">Restauro Politiano</a> de Monte<span class=\"line-break\"><br></span>leone testibus etc.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

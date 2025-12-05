@@ -1,0 +1,341 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1115981115"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 11 Vol. 40 Fols. 415r-v"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1598"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Ottaviano Saravezzi"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Power of attorney"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Roman Forum (Campo Vaccino); Church of Santa Martina"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Flaminio Vacca; Giovanni Paolo Gentili; Tommaso Laureti; Giovanni Vecchi (de); Pietro Facchetti; Girolamo Massei; Durante Alberti; Ranuccio Semprevivo; Giovanni Battista Riera; Mario Arconio; Cesare Nebbia; Michelangelo Ringherio; Agostino Fellini; Pietro Riera; Giovanni Maria Pomarancio; Annibale Corradini; Alessandro Spallieri; Domenico Folandoni; Fidele Valicella; Mario Barbini; Agapito Visconti; Alessandro Bonvisi; Gregorio Fellini; Riccio Bianchini; Paolo Venezia (da); Giovanni Pietro Paolo Piccioni; Ottaviano Nucci; Lorenzo Mandatario; Giovanni Angelo Martini; Rosato Parasole"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Goods",
+                    "Painter",
+                    "Procurator",
+                    "Rector",
+                    "Mason",
+                    "Obligation",
+                    "Power of attorney",
+                    "Ciborium",
+                    "Damage"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/da231dab3d419dadf379302bbe746f34/full/209,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 209
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/1",
+            "type": "Canvas",
+            "height": 2198,
+            "width": 1528,
+            "label": {
+                "none": [
+                    "ASRTNCUff1115981115f415r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/da231dab3d419dadf379302bbe746f34/full/209,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 209
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/da231dab3d419dadf379302bbe746f34/full/1390,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1390,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/da231dab3d419dadf379302bbe746f34",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p>The Congregazione di San Luca appoints as its procurator the rector <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">Giovanni Pietro Paolo Piccioni</a>. The power of attorney is granted for appraisal of the damage done by the mason Francesco to the ciborium existing under the church.</p><p></p><p>[Italian version]</p><p>La congregazione di San Luca nomina come proprio procuratore <a href=\"https://www.nga.gov/accademia/it/persons/giovanni-pietro-paolo-piccioni.html\">Giovanni Pietro Paolo Piccioni</a>, rettore. La procura è data per stimare i danni fatti dal muratore Francesco al ciborio esistente sotto la chiesa.</p><p></p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/1#xywh=672,505,246,90",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Princepes (principe)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/1#xywh=736,596,166,73",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Rector (rector)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/2",
+            "type": "Canvas",
+            "height": 4169,
+            "width": 2766,
+            "label": {
+                "none": [
+                    "ASRTNCUff1115981115f415v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/3bfb0fd76b290bdf8bb70545546d47b3/full/199,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 199
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/3bfb0fd76b290bdf8bb70545546d47b3/full/1327,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1327,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/3bfb0fd76b290bdf8bb70545546d47b3",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 415v]</p><p>D <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-angelo-martini.html\">Io Angelus Martini</a><span class=\"line-break\"><br></span>D <a href=\"https://www.nga.gov/accademia/en/persons/mario-barbini.html\">Marius Barbini</a><span class=\"line-break\"><br></span>D <a href=\"https://www.nga.gov/accademia/en/persons/agapito-visconti.html\">Agabbitus Visconti</a><span class=\"line-break\"><br></span>D <a href=\"https://www.nga.gov/accademia/en/persons/alessandro-bonvisi.html\">Alexander Bonvisti</a><span class=\"line-break\"><br></span>D <a href=\"https://www.nga.gov/accademia/en/persons/gregorio-fellini.html\">Gregorius Fellinus</a><span class=\"line-break\"><br></span>D<a href=\"https://www.nga.gov/accademia/en/persons/riccio-bianchini.html\"> Riccius Bianchetus</a><span class=\"line-break\"><br></span>D<a href=\"https://www.nga.gov/accademia/en/persons/paolo-venezia-da.html\"> Paulus Venetus</a> sponte etc. cu<em>m</em> promisione de<span class=\"line-break\"><br></span>rato etc. ac alias o<em>mn</em>i meliori modo etc. Constituerunt<span class=\"line-break\"><br></span>Procuratore<em>m</em> d<em>icta</em>e Cong<em>regatio</em>nis D <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">Io Paulu</a><em><a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">m</a></em><a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\"> Piccioldu</a><em><a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">m</a></em><a href=\"https://www.nga.gov/accademia/en/persons/giovanni-angelo-martini.html\"><span class=\"line-break\"><br></span></a>Rectore<em>m</em> d<em>icta</em>e Cong<em>regatio</em>nis Presente<em>m</em> etc. ad ipsius Cong<em>regatio</em>nis nomi-<span class=\"line-break\"><br></span>ne et pro et elegendu<em>m</em> eligiq<em>ue</em> videndu<em>m</em> unu<em>m</em><span class=\"line-break\"><br></span>vel plures Peritos ad effectu<em>m</em> extimandi Damnu<em>m</em><span class=\"line-break\"><br></span>Datu<em>m</em> p<em>er</em> Mag. ru<em>m</em> Franciscu<em>m</em> Murator<em>em</em> seu alia<em>m</em> p<em>er</em>so-<span class=\"line-break\"><br></span>na<em>m</em> de et sup<em>ra</em> Ciborio existens subtus suprad<em>ict</em>a<span class=\"line-break\"><br></span>Eccl<em>esi</em>a Nec no<em>n</em> de sup<em>ra</em> premissis obligandu<em>m</em> se<span class=\"line-break\"><br></span>ac eius bona ac bona d<em>icta</em>e Cong<em>regatio</em>nis, de stando<sup>[1]</sup> Iuri<span class=\"line-break\"><br></span>et Iudicatu<em>m</em> solvens ad eff<em>ectu</em>m revocandi quaecunq<em>ue</em><span class=\"line-break\"><br></span>sequestra con<em>tra</em> d<em>icta</em>m Cong<em>regatio</em>ne<em>m</em> obtentus Nec no<em>n</em> cu<em>m</em> clausula<span class=\"line-break\"><br></span>ad lites ampliss<em>i</em>mas et general<em>ite</em>r etc. Promettens etc.<span class=\"line-break\"><br></span>Relevans etc. sup<em>er</em> quib<em>us</em>etc. Actu<em>m</em> in suprad<em>ict</em>o loco p<em>r</em>esentib<em>us</em><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/lorenzo-mandatario.html\">Laurentio Mandatario</a> d<em>icta</em>e Cong<em>regatio</em>nis et <a href=\"https://www.nga.gov/accademia/en/persons/ottaviano-nucci.html\">Oct</a><em><a href=\"https://www.nga.gov/accademia/en/persons/ottaviano-nucci.html\">avia</a></em><a href=\"https://www.nga.gov/accademia/en/persons/ottaviano-nucci.html\">no Nuccio</a> Eug<em>ubi</em>no Test<em>ibus</em> [etc.]<sup>[2]</sup></p><p></p><p>[1] Uncertain.</p><p>[2] Cut off at margin.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/2/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/2#xywh=2378,2103,372,165",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Damnu<em>m </em>(damage)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/2/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/2#xywh=1751,2261,530,179",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Murator<em>em </em>(mason)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/2/annopage-2/anno-4",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/canvas/2#xywh=1371,2502,423,210",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Ciborio (ciborium)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
