@@ -1,0 +1,186 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311129b/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTCSVol054816311129b"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Vol. 548 fols. 1269r-v"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1631"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Debtor",
+                    "Congregazione dell’assettamento",
+                    "Dowry"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311129b/ccb22f990bd733c9c43bfc721e0fc7f0/full/225,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 225
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311129b/canvas/1",
+            "type": "Canvas",
+            "height": 2848,
+            "width": 2136,
+            "label": {
+                "none": [
+                    "ASR_TCS_vol548_1631_f1269V"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311129b/ccb22f990bd733c9c43bfc721e0fc7f0/full/225,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 225
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311129b/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311129b/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311129b/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311129b/ccb22f990bd733c9c43bfc721e0fc7f0/full/1500,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1500,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311129b/ccb22f990bd733c9c43bfc721e0fc7f0",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311129b/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311129b/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311129b/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p>The Accademia di San Luca petitions the civil court of the senator of Rome against Angelo Salvato, Leonardo Miceno, Matteo Belsartino (represented by the procurator Ippolito), Felice Nazzarolo, Mazzio “Gerente,” Franchino “Cardelmenio,” and Curio “Lonanna,” debtors of the Accademia. There is also talk of profit on the “quarto dotale” [the fourth part of the dowry of a bride] and of the inheritance of Giovanni Antonio Virlini. The judge requests the vote of the <em>congregazione dell’assettamento </em>[that includes the two collateral judges and the criminal judge].</p><p></p><p>[Italian version]</p><p>L'Accademia di San Luca presenta ricorso al tribunale civile del senatore di Roma contro Angelo Salvato, Leonardo Miceno, Matteo Belsartino (rappresentato dal procuratore Ippolito), Felice Nazzarolo, Mazzio “Gerente”, Franchino “Cardelmenio” e Curio “Lonanna”, debitori dell'Accademia. Si parla anche di guadagno sul “quarto dotale” [la quarta parte della dote di una sposa] e dell'eredità di Giovanni Antonio Virlini. Il giudice chiede il voto della <em>congregazione dell'assettamento</em> [che comprende i due giudici collaterali e il giudice penale].</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311129b/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311129b/canvas/1#xywh=1917,163,179,121",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>dotem (dowry)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311129b/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311129b/canvas/1#xywh=1300,1062,686,116",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>DD. de assettamento (<em>congregazione dell’assettamento:&nbsp;</em>that includes the two collateral judges and the criminal judge)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
