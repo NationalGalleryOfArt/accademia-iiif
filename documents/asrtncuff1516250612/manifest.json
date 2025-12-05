@@ -1,0 +1,287 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1516250612"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 15 Pt. 2 Vol. 104 fols. 563r-v"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1625"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Lorenzo Tigrino"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Meeting (private)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Rome; Via Frattina; Church of Santi Luca e Martina (San Luca and Santa Martina)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Simon Vouet; Giovanni Lanfranco; Simone Lagi; Nicolas La Fage (de); Orazio Riminaldi; Pietro Ferrerio; Ottavio Mario Leoni; Tommaso Salini; Bartolomeo Balducci; Silvio Capio; Girolamo Nanni; Andrea Sacchi; Lorenzo González; Pietro Paolo Bonzi; Ercole Bertolucci; Giacomo Adimari"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Italian"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Painter",
+                    "Sculptor",
+                    "Rector",
+                    "Treasurer",
+                    "Academy",
+                    "House",
+                    "Principe",
+                    "Meeting (private)",
+                    "Creditor",
+                    "Chaplain"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/9a28664daef43d76d56df72f890e78d8/full/213,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 213
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/canvas/1",
+            "type": "Canvas",
+            "height": 2216,
+            "width": 1576,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516250612f563r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/9a28664daef43d76d56df72f890e78d8/full/213,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 213
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/9a28664daef43d76d56df72f890e78d8/full/1422,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1422,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/9a28664daef43d76d56df72f890e78d8",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p>At a private meeting of painters and sculptors, <a href=\"https://www.nga.gov/accademia/en/persons/pietro-paolo-bonzi.html\">Pietro Paolo Bonzi</a>, treasurer, is replaced with a new appointee, <a href=\"https://www.nga.gov/accademia/en/persons/lorenzo-gonzalez.html\">Lorenzo González</a>. The participants also decide that chaplain <a href=\"https://www.nga.gov/accademia/en/persons/giacomo-adimari.html\">Giacomo Adimari</a> must collect 11 scudi owed by<a href=\"https://www.nga.gov/accademia/en/persons/ercole-bertolucci.html\"> Ercole Bertolucci </a>as rent for the house where Bertolucci lives.</p><p></p><p>[Italian version]</p><p>La congregazione segreta dei pittori e scultori sostituisce il camerlengo, <a href=\"https://www.nga.gov/accademia/it/persons/pietro-paolo-bonzi.html\">Pietro Paolo Bonzi</a>, con quello nuovo, <a href=\"https://www.nga.gov/accademia/it/persons/lorenzo-gonzalez.html\">Lorenzo González</a>. Inoltre, i partecipanti decidono che il cappellano debba riscuotere 11 scudi, dovuti da <a href=\"https://www.nga.gov/accademia/it/persons/ercole-bertolucci.html\">Ercole Bertolucci</a> come pensione della casa in cui vive.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/canvas/2",
+            "type": "Canvas",
+            "height": 2240,
+            "width": 1642,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516250612f563v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/caed9e8f54c005dce8d4ecb15d9fc873/full/220,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 220
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/caed9e8f54c005dce8d4ecb15d9fc873/full/1466,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1466,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/caed9e8f54c005dce8d4ecb15d9fc873",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 563v]</p><p>et offit[iali] onde ne sono state mosse molte lite<span class=\"line-break\"><br></span>con spes[a], et danno della Chiesa p<em>er</em>ciò viva voce<span class=\"line-break\"><br></span>[e]t nemine contradicente fù risoluto che si facci<span class=\"line-break\"><br></span>un novo Camerlengo et vogliono che da hora ina<em>n-</em><span class=\"line-break\"><br></span>zi d<em>ett</em>o Sig.r Pietro Paolo non habbia più facolta<span class=\"line-break\"><br></span>alcuna d'esercitare d<em>ett</em>o offitio<span class=\"line-break\"><br></span>It<em>em</em> fu deputato viva voce, et nessuno contradicente p<em>er</em> Ca-<span class=\"line-break\"><br></span>merlengo p<em>er</em> tutto il presente anno Il Sig.re <a href=\"https://www.nga.gov/accademia/en/persons/lorenzo-gonzalez.html\">Lorenzo<span class=\"line-break\"><br></span>Gonz[a]les</a> presente, et acce[tt]ante<span class=\"line-break\"><br></span>It<em>em</em> fu decretato che il R. Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/giacomo-adimari.html\">Iacomo Adimari </a>Cap-<span class=\"line-break\"><br></span>pelano di S. Luca riscoti scudi undici di S. Luca<span class=\"line-break\"><br></span>che si devono p<em>er</em> resto delle pigioni decorse et<span class=\"line-break\"><br></span>da decorrere p<em>er</em> tutto il presente mese della Casa<span class=\"line-break\"><br></span>che habita Il Sig.re <a href=\"https://www.nga.gov/accademia/en/persons/ercole-bertolucci.html\">Hercole Bartoluccio</a> da esso<span class=\"line-break\"><br></span>Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/ercole-bertolucci.html\">Hercole</a> et quelli se li ritenghi à Conto del[la]<span class=\"line-break\"><br></span>sua mercede p<em>er</em> il servitio della Chiesa con<span class=\"line-break\"><br></span>[fac]olta di quie[t]are et consentire alla restitu-<span class=\"line-break\"><br></span>tione de pegni</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

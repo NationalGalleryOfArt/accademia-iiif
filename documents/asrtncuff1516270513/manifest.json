@@ -1,0 +1,287 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1516270513"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 15 Pt. 2 Vol. 112 fols. 323r-v"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1627"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Tommaso Salvatore"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Meeting (private)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Campo Marzio (Rione); Rome; Via Frattina"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Alessandro Bottoni; Benedetto Benedetti (de); Francesco Barberini; Francesco Nappi; Lorenzo González; Michele Castello (da); Nicolas La Fage (de); Orazio Riminaldi; Ottavio Mario Leoni; Paolo Franchi; Silvio Capio; Simon Vouet; Simone Lagi; Trophime Bigot; Francesco Maria Monte (del)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Italian"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Painter",
+                    "Sculptor",
+                    "Rector",
+                    "Treasurer",
+                    "Principe",
+                    "Cardinal",
+                    "Protector",
+                    "Brief",
+                    "Advisor",
+                    "Embroiderer"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/c6b561f3a5a208c80f3c51be9ca3bf31/full/221,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 221
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/canvas/1",
+            "type": "Canvas",
+            "height": 2180,
+            "width": 1606,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516270513f323r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/c6b561f3a5a208c80f3c51be9ca3bf31/full/221,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 221
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/c6b561f3a5a208c80f3c51be9ca3bf31/full/1473,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1473,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/c6b561f3a5a208c80f3c51be9ca3bf31",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p><a href=\"https://www.nga.gov/accademia/en/persons/simon-vouet.html\">Simon Vouet</a>, <em>principe</em>, relates that <a href=\"https://www.nga.gov/accademia/en/persons/francesco-barberini.html\">Cardinal Barberini</a> has accepted the position as new protector of the Accademia, <a href=\"https://www.nga.gov/accademia/en/persons/francesco-maria-monte-del.html\">Cardinal del Monte</a> having died. <a href=\"https://www.nga.gov/accademia/en/persons/simon-vouet.html\">Simon Vouet </a>and <a href=\"https://www.nga.gov/accademia/en/persons/lorenzo-gonzalez.html\">Lorenzo González</a>, treasurer, are charged with obtaining money from the embroiderers to pay the expenses of promulgating the new brief.</p><p></p><p>[Italian version]</p><p><a href=\"https://www.nga.gov/accademia/it/persons/simon-vouet.html\">Simon Vouet</a>, principe, riferisce che il <a href=\"https://www.nga.gov/accademia/it/persons/francesco-barberini.html\">cardinale Barberini</a> ha accettato di diventare protettore dell'Accademia, essendo morto il <a href=\"https://www.nga.gov/accademia/it/persons/francesco-maria-monte-del.html\">cardinal del Monte</a>. Inoltre, vengono deputati <a href=\"https://www.nga.gov/accademia/it/persons/simon-vouet.html\">Simon Vouet</a> e <a href=\"https://www.nga.gov/accademia/it/persons/lorenzo-gonzalez.html\">Lorenzo González</a>, camerlengo, a riscuotere il denaro dai ricamatori per la spesa di spedire il nuovo breve.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/canvas/2",
+            "type": "Canvas",
+            "height": 2192,
+            "width": 1642,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516270513f323v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/4482d38ff6b67d6b4692e58388e018f1/full/224,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 224
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/4482d38ff6b67d6b4692e58388e018f1/full/1498,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1498,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/4482d38ff6b67d6b4692e58388e018f1",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 323v]</p><p>accettare questa protettione quale dopo l'haverne<span class=\"line-break\"><br></span>[dato] conto alla Santita di N<em>ostro</em> Sig<em>no</em>re ha ac-<span class=\"line-break\"><br></span>cettato sopr[a] il che [fu] risoluto viva voce et<span class=\"line-break\"><br></span>[nemine] disc[repante] chè [se dov]esse render<span class=\"line-break\"><br></span>gratia à sua S. Ill.ma<span class=\"line-break\"><br></span>It<em>em</em> furno deputati viva voce et nemine discre-<span class=\"line-break\"><br></span>pante li Sig.ri <a href=\"https://www.nga.gov/accademia/en/persons/simon-vouet.html\">Simone Vuett</a>. Prencipe et <a href=\"https://www.nga.gov/accademia/en/persons/lorenzo-gonzalez.html\">Lorenzo<span class=\"line-break\"><br></span>Gonzales</a> Ca[merlengo acciò riscotino] et piglino<span class=\"line-break\"><br></span>dalli S.ri Raccamatori li d[e]nari p<em>er</em> far la spesa<span class=\"line-break\"><br></span>del novo Breve d[a] spedir[si]</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

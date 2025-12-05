@@ -1,0 +1,359 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1516290101"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 15 Pt. 1 Vol. 119 fols. 13r-v, 14r"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1629"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Tommaso Salvatore"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Meeting"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Roman Forum (Campo Vaccino); Church of Santi Luca e Martina (San Luca and Santa Martina)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Agostino Ranucci; Alessandro Turchi; Antonio Tempesta; Ascanio Barigioni; Bartolomeo Innocenti (d'); Domenico Carnaccia; Fausto Luzio; Fausto Tucci; Filippo Napoletano; Francesco Fortunati; Francesco Mazzone; Giovanni Antonio Carosi; Giovanni Baglione; Giovanni Battista Grassi (de); Giovanni Battista Mandellini; Giovanni Battista Vendetta; Giovanni Contini; Giovanni Lanfranco; Girolamo Nanni; Gismondo Traccia; Giulio Cesare Conventi; Giuseppe Cesari (Cavaliere d'Arpino); Leonardo Santi (de); Marcantonio Aliprandi; Marcello Macchianti; Matteo Pagani; Giovanni Mercurio Roberti; Michelangelo Guidi; Ottavio Mario Leoni; Paolo Senese; Pasquale Pasqualini; Pier Francesco Rossi; Prospero Orsi; Scipione Quintilio; Siegmund Lair; Simone Aprosio; Vincenzo Monte (de); Domenico Tonacini; Giovanni Antonio Lutti (de); Francesco Pacini"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Italian and Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Painter",
+                    "Official",
+                    "Sculptor",
+                    "Rector",
+                    "Treasurer",
+                    "Academy",
+                    "Principe",
+                    "Appraiser",
+                    "Advisor",
+                    "Proctor",
+                    "Supervisor",
+                    "Peacemaker",
+                    "Embroiderer",
+                    "Visitor to the infirm",
+                    "Administrator of foreigners"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/20031b2a8866bf5ea78d16473f477940/full/213,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 213
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/canvas/1",
+            "type": "Canvas",
+            "height": 3984,
+            "width": 2832,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516290101f13r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/20031b2a8866bf5ea78d16473f477940/full/213,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 213
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/20031b2a8866bf5ea78d16473f477940/full/1422,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1422,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/20031b2a8866bf5ea78d16473f477940",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p>At a general meeting, the <em>principe</em>, the rectors, and the advisors assume their offices. The Accademia confirms and appoints the following officials: treasurer, proctor, appraisers, peacemakers, supervisors, visitors to the infirm, and administrators of foreigners.</p><p></p><p>[Italian version]</p><p>Durante la congregazione generale il principe, i rettori e i consiglieri prendono possesso del loro ufficio, confermano e creano i seguenti ufficiali: camerlengo, censori, provveditore, stimatori, pacieri, visitatorie degli infermi, curatori dei forestieri.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/canvas/2",
+            "type": "Canvas",
+            "height": 3884,
+            "width": 2726,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516290101f13v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/33ead50f79dd99b89c5e221d349692d0/full/211,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 211
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/33ead50f79dd99b89c5e221d349692d0/full/1404,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1404,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/33ead50f79dd99b89c5e221d349692d0",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 13v]</p><p>Ne[ll]a quale Congregatione detti Sig.ri Prencipe Rettori<span class=\"line-break\"><br></span>et Consiglieri pigliorno il possesso del loro offitio<span class=\"line-break\"><br></span>Di piu detto Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/giuseppe-cesari-cavaliere-d-arpino.html\">Cavalier Giuseppe</a> Prencipe con Consenso<span class=\"line-break\"><br></span>et Volonta delli sud<em>et</em>ti Sig.ri Rettori et Conseglieri Unitam<em>en</em>te<span class=\"line-break\"><br></span>et concordemente confirmorno et Creorno respettivamente<span class=\"line-break\"><br></span>l'infr<em>ascritt</em>i offitiali cioe<span class=\"line-break\"><br></span>Confermorno in Camerlengho il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/pier-francesco-rossi.html\">Pier Fran.co de Rosci</a><span class=\"line-break\"><br></span>Confermorno in Censore il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/alessandro-turchi.html\">Alessandro Turcho</a>, et deputano<span class=\"line-break\"><br></span>in altro Censore il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-lanfranco.html\">Cavalier Lanfranchi</a><span class=\"line-break\"><br></span>Confermano in Proveditore il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/michelangelo-guidi.html\">M[iche]l Angelo Guidi</a><span class=\"line-break\"><br></span>Furno deputati in Stimatori l'infra<em>scritt</em>i cioe<span class=\"line-break\"><br></span>il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/girolamo-nanni.html\">Girolamo Nanni</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; \\<span class=\"line-break\"><br></span>il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/antonio-tempesta.html\">Antonio Tempesta</a>&nbsp;&nbsp;&nbsp; &nbsp; } Pittori <sup>[2]</sup><span class=\"line-break\"><br></span>il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/pasquale-pasqualini.html\">Pasquale Pasqualini</a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; \\<span class=\"line-break\"><br></span>il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/giulio-cesare-conventi.html\">Giulio Cesare Convento</a>&nbsp;&nbsp; } Scultori <sup>[3]</sup><span class=\"line-break\"><br></span>il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/prospero-orsi.html\">Prospero Orsi</a><span class=\"line-break\"><br></span>il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/matteo-pagani.html\">Mattheo Pagani</a><span class=\"line-break\"><br></span>il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/fausto-luzio.html\">Fausto Lutio</a> &nbsp; &nbsp; \\<span class=\"line-break\"><br></span>il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/paolo-senese.html\">Paolo Senese</a>&nbsp;&nbsp;&nbsp;&nbsp; } Indoratori <sup>[4]</sup><span class=\"line-break\"><br></span>il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/domenico-tonacini.html\">Dom.co Tonacini </a>&nbsp; &nbsp; \\<span class=\"line-break\"><br></span>il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-antonio-lutti-de.html\">Antonio Lutti</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; } Recamatori <sup>[5]</sup><span class=\"line-break\"><br></span>Furno deputati l'altri [infr<em>ascritt</em>i offitia]li cioe<span class=\"line-break\"><br></span>il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/scipione-quintilio.html\">Scipione Quintilio</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \\<span class=\"line-break\"><br></span>il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/gismondo-traccia.html\">Sigismundo Trucchi&nbsp;</a> &nbsp; &nbsp; } Pacieri <sup>[6]</sup><span class=\"line-break\"><br></span>il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/siegmund-lair.html\">Gismondo Laier</a>&nbsp; &nbsp; &nbsp; &nbsp; \\<span class=\"line-break\"><br></span>il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-antonio-carosi.html\">Gio: Ant.o Carosio</a> &nbsp; &nbsp;&nbsp; } Visitatori d'infermi <sup>[7]</sup><span class=\"line-break\"><br></span>il Sig.r</p><p></p><p>[2]&nbsp;\"Pittori\" refers to Girolamo Nanni and Antonio Tempesta.</p><p>[3]&nbsp;\"Scultori\" refers to Giulio Cesare Conventi and Pasquale Pasqualini.</p><p>[4]&nbsp;\"Indoratori\" refers to Fausto Luzio and Paolo Senese.</p><p>[5]&nbsp;\"Recamatori\" refers to Domenico Tonacini and Giovanni Antonio de Lutti.</p><p>[6]&nbsp;\"Pacieri\" refers to Scipione Quintilio and Gismondo Traccia.</p><p>[7]&nbsp;\"Visitatori d'infermi\" refers to Siegmund Lair and Giovanni Antonio Carosi.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/canvas/3",
+            "type": "Canvas",
+            "height": 4109,
+            "width": 2759,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516290101f14r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/b75468f127391d98faad8f5bcaf666bb/full/201,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 201
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/canvas/3/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/canvas/3/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/canvas/3",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/b75468f127391d98faad8f5bcaf666bb/full/1343,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1343,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/b75468f127391d98faad8f5bcaf666bb",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/canvas/3/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/canvas/3/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/canvas/3",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 14r]</p><p>il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/francesco-pacini.html\">Fran.co Pacini</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \\<span class=\"line-break\"><br></span>il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/ascanio-barigioni.html\">Ascanio Barigioni</a>&nbsp;&nbsp; } Curatori de forastieri <sup>[8]</sup><span class=\"line-break\"><br></span>Pro D <a href=\"https://www.nga.gov/accademia/en/persons/tommaso-salvatore.html\">Thoma Salvatorio</a><span class=\"line-break\"><br></span>Martius de Mecis etc.</p><p></p><p>[8]&nbsp;\"Curatori de forastieri\" refers to Francesco Pacini and Ascanio Barigioni.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,354 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1516250626"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 15 Pt. 2 Vol. 104 fols. 681r-v, 694r"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1625"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Lorenzo Tigrino"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Meeting (private)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Rome; Via Frattina"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Giovanni Baglione; Giovanni Antonio Longo; Girolamo Nanni; Simone Lagi; Ascanio Barigioni; Giovanni Contini; Pietro Ferrerio; Bartolomeo Balducci; Lorenzo González; Nicolas La Fage (de); Antiveduto Gramatica; Pietro Paolo Bonzi; Pompeo Lazzari; Maffeo Barberini (Pope Urban VIII)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Italian"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Painter",
+                    "Official",
+                    "Procurator",
+                    "Sculptor",
+                    "Agreement",
+                    "Notarial act",
+                    "Academy",
+                    "Litigation",
+                    "Principe",
+                    "Credit"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/8eeb12a423d245846fee93d3bde1b6ba/full/221,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 221
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/canvas/1",
+            "type": "Canvas",
+            "height": 2198,
+            "width": 1618,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516250626f681r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/8eeb12a423d245846fee93d3bde1b6ba/full/221,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 221
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/8eeb12a423d245846fee93d3bde1b6ba/full/1472,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1472,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/8eeb12a423d245846fee93d3bde1b6ba",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p>The Accademia dei Pittori decides to approve the agreement made by procurator <a href=\"https://www.nga.gov/accademia/en/persons/pompeo-lazzari.html\">Pompeo Lazzari</a>. The agreement has been made with the mason Pompeo about the allotment of a credit of 88 scudi and 30 baiocchi. The Accademia decides to undertake a legal discussion in order to review the accounts of former officials.</p><p></p><p>[Italian version]</p><p>L'Accademia decide di approvare l'atto di concordia fatto dal procuratore <a href=\"https://www.nga.gov/accademia/it/persons/pompeo-lazzari.html\">Pompeo Lazzari</a>. La concordia è stata stipulata con Pompeo muratore a proposito dell'assegnazione di un credito di 88 scudi e 30 baiocchi. Inoltre, l'Accademia decide di intraprendere una causa per rivedere i conti dei passati ufficiali.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/canvas/2",
+            "type": "Canvas",
+            "height": 2246,
+            "width": 1648,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516250626f681v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/895a6e42e4c5a833002a36dfed505136/full/220,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 220
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/895a6e42e4c5a833002a36dfed505136/full/1467,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1467,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/895a6e42e4c5a833002a36dfed505136",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 681v]</p><p><a href=\"https://www.nga.gov/accademia/it/persons/lorenzo-gonzalez.html\">Lorenzo Gonzales</a>, et<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/it/persons/nicolas-la-fage-de.html\">Nicolò della Faggia</a>.<span class=\"line-break\"><br></span>Nella quale ratificato l'Instromento di Concordia<span class=\"line-break\"><br></span>et transattione fatto dal s.r <a href=\"https://www.nga.gov/accademia/it/persons/pompeo-lazzari.html\">Pompeo Lazzaro</a><span class=\"line-break\"><br></span>in nome dell'Accademia soprad<em>ett</em>a con Mastro<span class=\"line-break\"><br></span>Pompeo Muratore circa l'assegnamento di un<span class=\"line-break\"><br></span>credito di scudi ottantaotto [baiocchi]<sup>[1]</sup> 30. m<em>one</em>ta à favore di<span class=\"line-break\"><br></span>d<em>ett</em>o m.ro Pompeo da pagarsi tra lesto<sup>[2]</sup> tempo<span class=\"line-break\"><br></span>et altrim<em>en</em>te come s'asserisce constare per<span class=\"line-break\"><br></span>Instromento rogato per li atti del s.re Michelan-<span class=\"line-break\"><br></span>gelo Cesi Not<em>ar</em>o dell'Ill.mo et R.mo s.r Card.le Vicario<span class=\"line-break\"><br></span>sotto li 20. del p<em>rese</em>nte mese di Giugno, ò altro<span class=\"line-break\"><br></span>più vero tempo, al quale Si habbi relatione<span class=\"line-break\"><br></span>fù anco risoluto che si agitasse giuditialmente<span class=\"line-break\"><br></span>per la revisione de conti degl'offitiali<span class=\"line-break\"><br></span>passati, et in particolare del s.r <a href=\"https://www.nga.gov/accademia/it/persons/antiveduto-gramatica.html\">Antiveduto<span class=\"line-break\"><br></span>Grammatica</a>, et del s.r <a href=\"https://www.nga.gov/accademia/it/persons/pietro-paolo-bonzi.html\">Pietro Paolo Bonzi</a> già</p><p></p><p>[1]&nbsp;Uncertain. demo</p><p>[2]&nbsp;Uncertain.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/canvas/3",
+            "type": "Canvas",
+            "height": 2204,
+            "width": 1654,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516250626f694r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/ed1dfb02de8a12b012d1c013932d36a8/full/225,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 225
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/canvas/3/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/canvas/3/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/canvas/3",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/ed1dfb02de8a12b012d1c013932d36a8/full/1501,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1501,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/ed1dfb02de8a12b012d1c013932d36a8",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/canvas/3/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/canvas/3/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/canvas/3",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 694r]</p><p>Camerlengo, et à ciascheduno di loro<span class=\"line-break\"><br></span>indifferentemente, et cosi hanno ratificato,<span class=\"line-break\"><br></span>et risoluto rispettivamente no<em>n</em> Solo in<span class=\"line-break\"><br></span>questo, mà in ogn'altro mig<em>lio</em>r modo<span class=\"line-break\"><br></span>Sup<em>er</em> quibus etc.<span class=\"line-break\"><br></span>Luus etc.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

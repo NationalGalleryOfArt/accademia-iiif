@@ -1,0 +1,285 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1516250613"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 15 Pt. 2 Vol. 104 fols. 563v, 568r"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1625"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Lorenzo Tigrino"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Not specified"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Sant'Eustachio (Rione); Church of Santi Luca e Martina (San Luca and Santa Martina)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Giacomo Adimari; Ercole Bertolucci; Felice Testoni; Mario Alerante"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Rent",
+                    "Painter",
+                    "Sculptor",
+                    "Notarial act",
+                    "Pact",
+                    "Quittance",
+                    "Salary",
+                    "Chaplain"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/498eb993efd1e91a43a70559747f1b15/full/220,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 220
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/canvas/1",
+            "type": "Canvas",
+            "height": 2240,
+            "width": 1642,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516250613f563v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/498eb993efd1e91a43a70559747f1b15/full/220,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 220
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/498eb993efd1e91a43a70559747f1b15/full/1466,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1466,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/498eb993efd1e91a43a70559747f1b15",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p>Following the act of June 12, 1625, <a href=\"https://www.nga.gov/accademia/en/persons/giacomo-adimari.html\">Giacomo Adimari</a>, chaplain of the Congregazione dei Pittori e Scultori, agrees to collect 11 scudi from <a href=\"https://www.nga.gov/accademia/en/persons/ercole-bertolucci.html\">Ercole Bertolucci</a>, as decided during the meeting of the previous day. Adimari will keep the 11 scudi as his salary.</p><p></p><p>[Italian version]</p><p>In seguito all'atto del 12 giugno 1625, <a href=\"https://www.nga.gov/accademia/it/persons/giacomo-adimari.html\">Giacomo Adimari</a>, cappellano della congregazione dei pittori e scultori, accetta di riscuotere 11 scudi da <a href=\"https://www.nga.gov/accademia/it/persons/ercole-bertolucci.html\">Ercole Bertolucci</a>, come stabilito dalla riunione del giorno precedente. Giacomo terrà gli 11 scudi come proprio salario.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/canvas/2",
+            "type": "Canvas",
+            "height": 2186,
+            "width": 1600,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516250613f568r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/778b2c107b4800d357637f595e9b4ac0/full/220,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 220
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/778b2c107b4800d357637f595e9b4ac0/full/1464,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1464,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/778b2c107b4800d357637f595e9b4ac0",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 568r]</p><p>ad p<em>rese</em>ns Cappellanus Cong<em>regatio</em>nis DD Pictor<em>um</em> et Sculptor<em>um</em> In <a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">Ecc</a><em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">lesi</a></em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">a S</a><em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">a</a></em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">n</a><em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">cti</a></em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\"> Luca</a><em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">e</a></em><span class=\"line-break\"><br></span>de Urbe mihi etc. cog<em>nitu</em>s etc. asserens haber[e] plena<em>m</em> notitia<em>m</em> certa<em>m</em>q<em>ue</em> scie[n]-<span class=\"line-break\"><br></span>tia<em>m</em> de sup<em>radic</em>to decreto heri facto a cong<em>regatio</em>ne secreta dd DD Pictor<em>um</em> et<span class=\"line-break\"><br></span>Sulptor<em>um</em><sup>[2]</sup> assig<em>natio</em>nis scutor<em>um</em> Undeci<em>m</em> m<em>one</em>te debitor<em>um</em> à D <a href=\"https://www.nga.gov/accademia/en/persons/ercole-bertolucci.html\">Herculi Bartholomeo</a><span class=\"line-break\"><br></span>pro pensionib<em>us</em> domus decursis et n<em>on</em> solutis ac de o<em>mni</em>s et Sing<em>ul</em>is In d<em>ict</em>o decreto<span class=\"line-break\"><br></span>cont<em>ent</em>is nihil<em>ominu</em>s p<em>er</em> me etc. certioratus sponte etc. ac omni mel<em>ior</em>i modo etc. dictum de-<span class=\"line-break\"><br></span>cretu<em>m</em> assig<em>natio</em>nis dd scutor<em>um</em> Undeci<em>m</em> ad bonu<em>m</em> computu<em>m</em> sua<em>e</em> mercedis et servitutis<span class=\"line-break\"><br></span>fact<em>um</em> In d<em>ict</em>a Ecc<em>lesi</em>a acceptavit et acceptat etc. et p<em>re</em>d<em>ict</em>a summa scutorum 11 m<em>one</em>ta<em>e</em> etc. d<em>icta</em>m Congre-<span class=\"line-break\"><br></span>gatione<em>m</em> absen<em>tem</em> me etc. quietavit etc. p<em>er</em> pactu<em>m</em> nec n<em>on</em> d<em>ictu</em>s R D Iacobus ad facien<em>dum</em><span class=\"line-break\"><br></span>re<em>m</em> grata<em>m</em> d<em>ict</em>[o] Hercul[e] et sine preiud<em>ici</em>o quor<em>um</em>cu<em>m</em>q<em>ue</em> suor<em>um</em> Iuriu<em>m</em> sibi quol<em>ibe</em>t<span class=\"line-break\"><br></span>competen<em>tis</em><sup>[3]</sup> et competituor<em>um</em> et<em>iam</em> mand<em>a</em>ti con<em>tra</em> eund<em>em</em> Hercule<em>m</em> relaxati quo<span class=\"line-break\"><br></span>quandocu<em>m</em>q<em>ue</em> uti Intendit cons<em>ens</em>it restitut<em>io</em>ni pignor<em>um</em> Urg.e d<em>ict</em>i man<em>dati</em> In exeq<em>utio</em>ne<span class=\"line-break\"><br></span>eid<em>em</em> ablator<em>um</em> et sic hu<em>iusm</em>o<em>d</em>i concu<em>m</em>q<em>ue</em> promisit etc. hebere ratum etc. con<em>tra</em>q<em>ue</em> n<em>on</em> facere etc.<span class=\"line-break\"><br></span>quovis pretextu [...]<sup>[4]</sup> etc. et ita tacto pectore more sacerdotali Iuravit etc. Sup<em>er</em><span class=\"line-break\"><br></span>quib<em>us</em> etc.<span class=\"line-break\"><br></span>Actu<em>m</em> Roma<em>e</em> In off<em>iti</em>o mei etc. <a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">Reg</a><em><a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">ion</a></em><a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">is S</a><em><a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">anc</a></em><a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">t</a><em><a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">i</a></em><a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\"> Eustachii</a> P<em>rese</em>nt<em>i</em>b<em>us</em> etc. DD <a href=\"https://www.nga.gov/accademia/en/persons/felice-testoni.html\">Felice q Ant'ii<span class=\"line-break\"><br></span>Testoni </a>Aquilano et <a href=\"https://www.nga.gov/accademia/en/persons/mario-alerante.html\">Martio q Iulii Alerante</a> de Ispelli Spole-<span class=\"line-break\"><br></span>tan[a<em>e</em>] dioc<em>esi</em>s t<em>es</em>t<em>ibus</em> etc.<span class=\"line-break\"><br></span>AldeAS rog etc.</p><p></p><p>[2]&nbsp;<em>Sic</em>.</p><p>[3]&nbsp;Uncertain.</p><p>[4]&nbsp;Unclear.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

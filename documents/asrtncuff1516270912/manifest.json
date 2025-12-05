@@ -1,0 +1,287 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1516270912"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 15 Pt. 3 Vol. 113 fols. 489r-v"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1627"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Tommaso Salvatore"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Meeting"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Borgo di Sant'Agata"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Ottavio Mario Leoni; Nicolas La Fage (de); Alessandro Bottoni; Girolamo Nanni; Tommaso Campana; Pier Francesco Rossi; Michele Castello (da); Giovanni Antonio Ferrera; Pietro Ferrerio; Giacomo Stella; Giovanni Giacomo Costa; Giacomo Macciano; Giovanni Antonio Rotieri; Simone Aprosio; Giovanni Mercurio Roberti; Giovanni Battista Gaeta; Giovanni Alessandro Bonafede; Giovanni Alberto Valtrotti; Tommaso Clerici; Gabriele Testa; Giovanni Battista Panari; Cristoforo Negri; Michelangelo Guidi; Silvio Capio; Ascanio Barigioni; Giovanni Antonio Lutti (de)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Italian and Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Painter",
+                    "Alms",
+                    "Academy",
+                    "House",
+                    "Principe",
+                    "Feast day",
+                    "Advisor",
+                    "Framers and gilders",
+                    "Academician",
+                    "Embroiderer"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/644eb05265b7b13e7b606c4dbb8a5e82/full/221,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 221
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/canvas/1",
+            "type": "Canvas",
+            "height": 2174,
+            "width": 1600,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516270912f489r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/644eb05265b7b13e7b606c4dbb8a5e82/full/221,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 221
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/644eb05265b7b13e7b606c4dbb8a5e82/full/1472,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1472,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/644eb05265b7b13e7b606c4dbb8a5e82",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p><a href=\"https://www.nga.gov/accademia/en/persons/giovanni-antonio-ferrera.html\">Giovanni Antonio Ferrera</a> and <a href=\"https://www.nga.gov/accademia/en/persons/michele-castello-da.html\">Michele da Castello</a> are charged with building a staircase in the courtyard of a house belonging to the Accademia, on the request of the tenant. The alms boxes are then given to the members charged with collecting contributions for the feast day of Saint Luke.</p><p></p><p>[Italian version]</p><p><a href=\"https://www.nga.gov/accademia/it/persons/giovanni-antonio-ferrera.html\">Giovanni Antonio Ferrera</a> e <a href=\"https://www.nga.gov/accademia/it/persons/michele-castello-da.html\">Michele da Castello</a> sono incaricati di costruire una scala nel cortile di una casa dell'Accademia, su istanza dell'inquilino di tale casa. In seguito, vengono distribuite le cassette alle persone incaricate di raccogliere le elemosine per la festa di San Luca.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/canvas/2",
+            "type": "Canvas",
+            "height": 2174,
+            "width": 1582,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516270912f489v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/eddad99442c4960ac8ca66be146f8d79/full/218,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 218
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/eddad99442c4960ac8ca66be146f8d79/full/1455,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1455,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/eddad99442c4960ac8ca66be146f8d79",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 489v]</p><p>per far una scala in un cortile d'una casa dell'accademi[a]<sup>[2]</sup><span class=\"line-break\"><br></span>posta nel <a href=\"https://www.nga.gov/accademia/en/places/Borgo_di_Sant_Agata.html\">Borgo di S. Agata</a> contigua alla casa de SS.ria<span class=\"line-break\"><br></span>p<em>er</em> uso et comodità della casa sua et à viva voce<span class=\"line-break\"><br></span>furno deputati il S.r Cav.r <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-antonio-ferrera.html\">Gio: Ant.o Ferserii</a>, architetto<span class=\"line-break\"><br></span>et il S.r <a href=\"https://www.nga.gov/accademia/en/persons/michele-castello-da.html\">Michele Castelli</a> con facoltà di vedere et<span class=\"line-break\"><br></span>riferire nella seguente Cong<em>regatio</em>ne<span class=\"line-break\"><br></span>Furono distribuite le cassette per la pross<em>im</em>a festa di S<em>an</em> Luca<span class=\"line-break\"><br></span>all'inf<em>ascritt</em>i SS.ri pittori presenti et accettanti d<em>ett</em>e cassette<span class=\"line-break\"><br></span>Al S.r <a href=\"https://www.nga.gov/accademia/en/persons/giacomo-stella.html\">Iacomo Stella</a> p<em>er</em> la nat<em>ion</em>e fra<em>n</em>zese<span class=\"line-break\"><br></span>Al S.r <a href=\"https://www.nga.gov/accademia/en/persons/pietro-ferrerio.html\">Pietro Ferri </a>p<em>er</em> l'indoratori<span class=\"line-break\"><br></span>Al S.r <a href=\"https://www.nga.gov/accademia/en/persons/simone-aprosio.html\">Simone Approsio</a> p<em>er</em> li racamatori<span class=\"line-break\"><br></span>Al S.r <a href=\"https://www.nga.gov/accademia/en/persons/michele-castello-da.html\">Michele Castelli</a> [et]<sup>[3]</sup> S.r <a href=\"https://www.nga.gov/accademia/en/persons/alessandro-bottoni.html\">Ales.ro Bottoni</a> p<em>er</em> gl'accademici</p><p></p><p>[2]&nbsp;Brackets at end of lines denote illegible passages due to words cut off at margins.</p><p>[3]&nbsp;Uncertain.</p><p></p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

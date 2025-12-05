@@ -1,0 +1,361 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1516241020b"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 15 Pt. 4 Vol. 102 fols. 233r-v, 246r"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1624"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Erasto Spannocchia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Meeting"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Rome; Via Frattina"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Alessandro Bottoni; Antonio Tempesta; Andrea Sacchi; Benedetto Benedetti (de); Cristoforo Roncalli; Francesco Stati; Gian Lorenzo Bernini; Giovanni Antonio Longo; Giovanni Baglione; Giovanni Battista Ricci; Giovanni Lanfranco; Giuseppe Cesari (Cavaliere d'Arpino); Michele Castello (da); Nicolas La Fage (de); Nicola Ranieri; Orazio Riminaldi; Ottavio Mario Leoni; Pietro Cortona (da); Robert Picou; Simon Vouet; Tommaso Salini; Domenico Longhi"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Italian"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Official",
+                    "Rector",
+                    "Treasurer",
+                    "Principe",
+                    "Appraiser",
+                    "Meeting (private)",
+                    "Secretary",
+                    "Cardinal",
+                    "Protector",
+                    "Advisor",
+                    "Proctor",
+                    "Supervisor",
+                    "Peacemaker",
+                    "Visitor to the infirm",
+                    "Studio",
+                    "Administrator of foreigners",
+                    "Master of ceremonies"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/a19c6b0d25331adf67a4305dfe480169/full/220,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 220
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/canvas/1",
+            "type": "Canvas",
+            "height": 2163,
+            "width": 1587,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241020bf233r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/a19c6b0d25331adf67a4305dfe480169/full/220,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 220
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/a19c6b0d25331adf67a4305dfe480169/full/1467,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1467,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/a19c6b0d25331adf67a4305dfe480169",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p>A private meeting of painters and sculptors is held on request of cardinal protector del Monte. The following officials are elected: rectors of the Studio, <em>principi</em>, rectors, councilors or advisors (for guilds), magistrates, supervisors of the church, appraisers, treasurer, administrators of foreigners, visitors to the infirm, peacemakers, secretary of the Accademia, and masters of ceremonies.</p><p></p><p>[Italian version]</p><p>La riunione viene fatta su istanza del Cardinale protettore del Monte. Vengono eletti i seguenti ufficiali: rettori dello studio, principi, rettori, consiglieri, censori, provveditori dello studio, stimatori, camerlengo, curatori dei forestieri, visitatori degli infermi, pacieri, provveditori della chiesa, segretario dell'Accademia, maestri di cerimonie.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/canvas/2",
+            "type": "Canvas",
+            "height": 2163,
+            "width": 1588,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241020bf233v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/7ad5f04f8758fa39e4b3b1c71377f44a/full/221,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 221
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/7ad5f04f8758fa39e4b3b1c71377f44a/full/1468,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1468,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/7ad5f04f8758fa39e4b3b1c71377f44a",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 233v]</p><p>francese Proveditore deputato in piena<span class=\"line-break\"><br></span>Cong<em>regatio</em>ne<span class=\"line-break\"><br></span>It<em>em</em> Per la <em>second</em>a Domenica<span class=\"line-break\"><br></span>Si prega nel modo su[d]<em>ett</em>o L'[Ill].' Sig.re <a href=\"https://www.nga.gov/accademia/en/persons/cristoforo-roncalli.html\">Christofaro<span class=\"line-break\"><br></span>o Pomarancia Roncallo</a> al quale si aggiugne<span class=\"line-break\"><br></span>Prov<em>edito</em>re Il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/nicola-ranieri.html\">Nicolò Ranieri</a><span class=\"line-break\"><br></span>It<em>em</em> Per la <em>terz</em>a Domenica si prega come sop<em>r</em>a l'Ill.'<span class=\"line-break\"><br></span>Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/antonio-tempesta.html\">Antonio Tempesta</a> [e]t si aggiugne Provedi-<span class=\"line-break\"><br></span>tore il Sig.re <a href=\"https://www.nga.gov/accademia/en/persons/andrea-sacchi.html\">Andrea Sacchi</a><span class=\"line-break\"><br></span>It<em>em</em> Per la <em>quart</em>a Domenica Si prega il Sig.r Cav.re<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/giovanni-baglione.html\">Gio: Baglione</a> nel med<em>esm</em>o modo et se gli<span class=\"line-break\"><br></span>da p<em>er</em> agiunto Proveditore Il Sig.re <a href=\"https://www.nga.gov/accademia/en/persons/alessandro-bottoni.html\">Alessandro<span class=\"line-break\"><br></span>Bottoni</a><span class=\"line-break\"><br></span>It<em>em</em> p<em>er</em> la <em>quint</em>a Domenica Si preg[a] l'Ill'Sig.re Cav.re <a href=\"https://www.nga.gov/accademia/en/persons/ottavio-mario-leoni.html\">Ottavio<span class=\"line-break\"><br></span>Leoni</a> nel medemo modo et se gli agiugne p<em>er</em><span class=\"line-break\"><br></span>suo Proveditor[e] I[l S]ig.r <a href=\"https://www.nga.gov/accademia/en/persons/pietro-cortona-da.html\">Pietro Cortonese</a><span class=\"line-break\"><br></span>It<em>em</em> p<em>er</em> la <em>sext</em>a Domenica L'Ill'Sig.r Cav.re<a href=\"https://www.nga.gov/accademia/en/persons/gian-lorenzo-bernini.html\"> Gio: Bernino</a><span class=\"line-break\"><br></span>et segli agiugne p<em>er</em> Proveditore Il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-antonio-longo.html\">Dome-<span class=\"line-break\"><br></span>[ni]co Longo</a> Scultore et fenito il torno or-<span class=\"line-break\"><br></span>dinato che si cominci da Capo et con questo<span class=\"line-break\"><br></span>ordine si continui vicentevolmente sino alla<span class=\"line-break\"><br></span>mutatione de novi o[ff]itiali<span class=\"line-break\"><br></span>It<em>em</em> fu parimente decretato et risoluto viva voce<span class=\"line-break\"><br></span>che</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/canvas/3",
+            "type": "Canvas",
+            "height": 2145,
+            "width": 1732,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241020bf246r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/f6ad17b9c69096fe5ce8b7bf1f83b269/full/242,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 242
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/canvas/3/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/canvas/3/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/canvas/3",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/f6ad17b9c69096fe5ce8b7bf1f83b269/full/1615,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1615,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/f6ad17b9c69096fe5ce8b7bf1f83b269",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/canvas/3/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/canvas/3/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/canvas/3",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 246r]</p><p>Che si consegni al Sig.r Prencipe tutte le robbe<span class=\"line-break\"><br></span>de Credenzone p<em>er</em> l'Inventario presente doi offi-<span class=\"line-break\"><br></span>tiali con tutte le altre robbe che sono nell'<span class=\"line-break\"><br></span>accademia<span class=\"line-break\"><br></span>It<em>em</em> fu decretato viva voce che li Cenzori<span class=\"line-break\"><br></span>n<em>on</em> possino riveder conti ne Saldare senza l'in-<span class=\"line-break\"><br></span>tervento et consenzo del Procuratore<span class=\"line-break\"><br></span>It<em>em</em> fu decretato viva voce che li Rettori della<span class=\"line-break\"><br></span>Cong<em>regatio</em>ne debbano rivedere le robbe della<span class=\"line-break\"><br></span>Sacrestia et Altari, et consegnarle p<em>er</em> inventa-<span class=\"line-break\"><br></span>rio al Cappellano</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

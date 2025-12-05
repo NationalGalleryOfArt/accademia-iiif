@@ -1,0 +1,626 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1516241027"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 15 Pt. 4 Vol. 102 Fols. 231r-v, 232r-v, 247r-v, 248r"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1624"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Erasto Spannocchia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Meeting"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Church of Santi Luca e Martina (San Luca and Santa Martina); Campitelli (Rione); Roman Forum (Campo Vaccino); Rome"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Francesco Maria Monte (del); Tommaso Fortunati; Trophime Bigot; Alessandro Canori; Giacomo Adimari; Cristoforo Roncalli; Domenico Silvestri; Lorenzo Bartolomeo Ciarpi; Orazio Riminaldi; Siegmund Lair; Girolamo Nanni; Verruccio Toti; Simone Lagi; Giovanni Francesco Franceschi; Michelangelo Muti; Tommaso Salini; Alessandro Salucci; Francesco Nappi; Jacques Stella; Simone Maria; Lattanzio Nicoli; Prospero Orsi; Antonio Tempesta; Pietro Contini; Andrea Sacchi; Michele Castello (da); Nicolas La Fage (de); Alessandro Bottoni; Guglielmo Rera; Antonio Sala; Michelangelo Guidi; Jacques Lhomme; Robert Picou; Giacomo Galli; Antonio Calicai; Giacomo Novel; Francesco Crescenzi; Pietro Paolo Bonzi; Simon Vouet; Nicola Ranieri; Pietro Cortona (da); Benedetto Benedetti (de); Giovanni Lanfranco; Enrico Pricencha; Johann Friedrich Greuter; Ottavio Mario Leoni; Tommaso Campana; Marcello Sacchetti; Stefano Vitalini; Giacomo Caselli (de); Antiveduto Gramatica; Girolamo Clerici; Giovan Battista Magnani; Marcantonio Mangiotti; Giovanni Baglione; Pompeo Lazzari; Girolamo Boerio; Bartolomeo Balducci; Pietro Ferrerio; Francesco Antonio Troiani; Silvio Capio; Claude Mellan; Francesco Stati; Leonardo Santi (de)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Italian and Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Procurator",
+                    "Rector",
+                    "Cameral obligation",
+                    "Treasurer",
+                    "Chapters",
+                    "Meeting",
+                    "Apostolic Camera",
+                    "Seal",
+                    "Chaplain",
+                    "Advisor",
+                    "Proctor",
+                    "Supervisor",
+                    "Studio",
+                    "Solicitor"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/dd2d0ee6bc761b840c16ceba53b3ffbb/full/216,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 216
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/1",
+            "type": "Canvas",
+            "height": 3771,
+            "width": 2720,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241027f231r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/dd2d0ee6bc761b840c16ceba53b3ffbb/full/216,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 216
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/dd2d0ee6bc761b840c16ceba53b3ffbb/full/1443,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1443,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/dd2d0ee6bc761b840c16ceba53b3ffbb",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p>At a general meeting of painters and sculptors, the decisions made during the private meeting of October 24, 1624, are reported. Moreover, the following decisions are made: <a href=\"https://www.nga.gov/accademia/en/persons/francesco-crescenzi.html\">Francesco Crescenzi </a>and <a href=\"https://www.nga.gov/accademia/en/persons/andrea-sacchi.html\">Andrea Sacchi</a> are appointed rector and supervisor for the seventh Sunday of the opening of the Studio, and <a href=\"https://www.nga.gov/accademia/en/persons/marcello-sacchetti.html\">Marcello Sacchetti</a> and <a href=\"https://www.nga.gov/accademia/en/persons/pietro-cortona-da.html\">Pietro da Cortona</a> for the eighth; <a href=\"https://www.nga.gov/accademia/en/persons/giacomo-adimari.html\">Giacomo Adimari </a>is appointed solicitor and confirmed as chaplain; <a href=\"https://www.nga.gov/accademia/en/persons/jacques-stella.html\">Giacomo Stella</a> is appointed supervisor for the third Sunday of the opening of the Studio; <a href=\"https://www.nga.gov/accademia/en/persons/johann-friedrich-greuter.html\">Johann Friedrich Greuter</a> is appointed rector for the fifth Sunday of the opening of the Studio; <a href=\"https://www.nga.gov/accademia/en/persons/pompeo-lazzari.html\">Pompeo Lazzari</a> is appointed procurator.</p><p></p><p>[Italian version]</p><p>Durante la riunione vengono riferite le decisioni prese nella congregazione segreta del 24 ottobre 1624. Inoltre, la congregazione decide: di nominare <a href=\"https://www.nga.gov/accademia/it/persons/francesco-crescenzi.html\">Francesco Crescenzio</a> e <a href=\"https://www.nga.gov/accademia/it/persons/andrea-sacchi.html\">Andrea Sacchi</a> rettore e provveditore per la settima domenica di apertura dello studio, e per l'ottava <a href=\"https://www.nga.gov/accademia/it/persons/marcello-sacchetti.html\">Marcello Sacchetti </a>e <a href=\"https://www.nga.gov/accademia/it/persons/pietro-cortona-da.html\">Pietro da Cortona</a>;<a href=\"https://www.nga.gov/accademia/it/persons/giacomo-adimari.html\"> Giacomo Adimari </a>è nominato sollecitatore e confermato cappellano; <a href=\"https://www.nga.gov/accademia/it/persons/giacomo-stella.html\">Giacomo Stella</a> è nominato provveditore per la terza domenica di apertura dello studio; <a href=\"https://www.nga.gov/accademia/it/persons/johann-friedrich-greuter.html\">Johann Friedrich Greuter</a> è nominato rettore per la quinta domenica di apertura dello studio; <a href=\"https://www.nga.gov/accademia/it/persons/pompeo-lazzari.html\">Pompeo Lazzari </a>è nominato procuratore.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/2",
+            "type": "Canvas",
+            "height": 2192,
+            "width": 1591,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241027f231v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/8b51a38a95285f1168d10584f26b04c3/full/217,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 217
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/8b51a38a95285f1168d10584f26b04c3/full/1452,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1452,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/8b51a38a95285f1168d10584f26b04c3",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 231v]</p><p><a href=\"https://www.nga.gov/accademia/en/persons/girolamo-nanni.html\">Gironimo Nanni</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/michele-castello-da.html\">Michele Castelli</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/tommaso-campana.html\">Tomasso Campana</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/giacomo-novel.html\">Iacomo Novel</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/silvio-capio.html\">Silvio Capio</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/francesco-nappi.html\">Francesco Nappi</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/girolamo-clerici.html\">Gironimo Clerici</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/antonio-sala.html\">Antonio Sali</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/pietro-ferrerio.html\">Pietro Ferreri</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/verruccio-toti.html\">Guerruccio Totti</a><span class=\"line-break\"><br></span>[...]<sup>[2]</sup><span class=\"line-break\"><br></span>Gio: Francesco<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/jacques-lhomme.html\">I[ac]omo L'homo</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/guglielmo-rera.html\">Guglielmo Reria</a><span class=\"line-break\"><br></span>[...] <a href=\"https://www.nga.gov/accademia/en/persons/giacomo-caselli-de.html\">Iacomo de Casella</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/giovan-battista-magnani.html\">Gio: Bat'ta M[agn</a><em><a href=\"https://www.nga.gov/accademia/en/persons/giovan-battista-magnani.html\">i</a></em><a href=\"https://www.nga.gov/accademia/en/persons/giovan-battista-magnani.html\">]</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/bartolomeo-balducci.html\">Bartholomeo [B]alduccio</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/simone-maria.html\">Simone Marini</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/stefano-vitalini.html\">[S]tefano Vitalini</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/leonardo-santi-de.html\">Leonardo de Santi</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/francesco-antonio-troiani.html\">Francesco [A]ntonio Troiani</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/antonio-calicai.html\">Antonio Calicai</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/lattanzio-nicoli.html\">Lattantio Nic[o]lini</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/domenico-silvestri.html\">Dome[n]ico Silvestri </a>Nella quale Congregatione<span class=\"line-break\"><br></span>se</p><p></p><p>[2]&nbsp;Brackets denote illegible passages due to holes in the paper.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/3",
+            "type": "Canvas",
+            "height": 2192,
+            "width": 1575,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241027f232r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/3e2c6c63cb0cdcea8a5f7e4ab2952a4a/full/215,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 215
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/3/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/3/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/3",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/3e2c6c63cb0cdcea8a5f7e4ab2952a4a/full/1437,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1437,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/3e2c6c63cb0cdcea8a5f7e4ab2952a4a",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/3/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/3/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/3",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 232r]</p><p>se asserì che nella Co[ng]regazio[ne]<sup>[3]</sup> Segreta pross<em>im</em>a<span class=\"line-break\"><br></span>pass<em>at</em>a fatt[a] s[o]tt[o] li [de]l p[<em>rese</em>nte] fu p<em>er</em> decreto<span class=\"line-break\"><br></span>d[a]to autorità al[l]'Ill.mo et R.mo Sig.[re] <a href=\"https://www.nga.gov/accademia/en/persons/francesco-maria-monte-del.html\">Card.le del Monte</a><span class=\"line-break\"><br></span>P[rotett]ore p<em>er</em> l'agiustamento de Capitoli et bre-<span class=\"line-break\"><br></span>ve p<em>er</em> la satisfatio[n]e de tutti et giurisditione<span class=\"line-break\"><br></span>del Protettore quale decreto fu con-<span class=\"line-break\"><br></span>[firmat]o viva voce nemine discrepante<span class=\"line-break\"><br></span>It<em>em</em> [che f]urno accettati nella nostra Compagnia<span class=\"line-break\"><br></span>[et Cong<em>regation</em>e] li Sig.ri Raccam[a]tori, [et] si sono offerti<span class=\"line-break\"><br></span>di [fa]re la spesa del Breve sude[tto], [Q]uali Sig.ri Rac-<span class=\"line-break\"><br></span>c[a]m[atori] [nella presente] Cong<em>regation</em>e g[en]erale furno<span class=\"line-break\"><br></span>acce[tt]ati viva vose senza pregiuditio delli pri-<span class=\"line-break\"><br></span>[vi]l[egi]i et es[entio]ni dell'Accademia et Congre-<span class=\"line-break\"><br></span>gatione.<span class=\"line-break\"><br></span>It<em>em</em> che ne[lla] sud<em>ett</em>a [Con]g<em>regation</em>e Segreta fu[rno] deputati li<span class=\"line-break\"><br></span>Sig.ri [Cav.re <a href=\"https://www.nga.gov/accademia/en/persons/ottavio-mario-leoni.html\">Ottavio] Leoni </a>et <a href=\"https://www.nga.gov/accademia/en/persons/nicolas-la-fage-de.html\">Nicolò della Faggia</a><span class=\"line-break\"><br></span>p<em>er</em> [l'agiustamento] con [li Sig.]ri [Raccama]tori con l'<span class=\"line-break\"><br></span>itervento del Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/pompeo-lazzari.html\">Pompeo Lazzari </a>Procuratore<span class=\"line-break\"><br></span>[quali deputati p<em>er</em>] [...] fu[r]no nella pre-<span class=\"line-break\"><br></span>sente Congr[egat]ione [confir]mati viva voce<span class=\"line-break\"><br></span>It<em>em</em> fu d[ecretato] et nominato vi[va] voce Rettore</p><p></p><p>[3]&nbsp;There is damage to the document. Brackets denote illegible passages due to holes in the document or ink spots on paper.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/4",
+            "type": "Canvas",
+            "height": 2151,
+            "width": 1546,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241027f232v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/fc0de0af31f0adcc8aaff10e1ee8209c/full/216,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 216
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/4/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/4/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/4",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/fc0de0af31f0adcc8aaff10e1ee8209c/full/1437,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1437,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/fc0de0af31f0adcc8aaff10e1ee8209c",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/4/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/4/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/4",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 232v]</p><p>d[ell]o<sup>[4]</sup> Studio p<em>er</em> la settima Domenica l'Ill.mo<span class=\"line-break\"><br></span>[Si]g.r Conte <a href=\"https://www.nga.gov/accademia/en/persons/francesco-crescenzi.html\">[F]rancesco Crescentio</a> et p<em>er</em> Proveditore se<span class=\"line-break\"><br></span>agiunse p<em>er</em> quel giorno il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/andrea-sacchi.html\">Andrea Sacci</a> et<span class=\"line-break\"><br></span>che si p<em>re</em>ghi d<em>ett</em>o Sig.r Conte [nel mo]do contenuto nella<span class=\"line-break\"><br></span>Cong<em>regation</em>e Segreta [f]atta li 20 del p<em>rese</em>nte Et per<span class=\"line-break\"><br></span>l'ottava domenica de[c]re[ta]to et nominato p<em>er</em> [R]etto-<span class=\"line-break\"><br></span>re dello Studio et che si [preghi] c[o]me sopra<span class=\"line-break\"><br></span>l'Ill' sig.r <a href=\"https://www.nga.gov/accademia/en/persons/marcello-sacchetti.html\">Marcello Sacc[hetti</a> et] se gli agiunse<span class=\"line-break\"><br></span>p<em>er</em> [R]ett[ore] il Sig.r Pietro [...]ni Cortonese<span class=\"line-break\"><br></span>It<em>em</em> [f]u dato conto che nella s[ud<em>ett</em>a] Cong<em>regation</em>e Segreta<span class=\"line-break\"><br></span>[f]u decr[etato che si] fa[cc<em>ia</em>] un libro dove si deb-<span class=\"line-break\"><br></span>ba annotare gl'annali d[e]lle Cose notabile<span class=\"line-break\"><br></span>d[e]lli pi[tto]ri [et scultori da tene]rsi dal Sig.r<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/benedetto-benedetti-de.html\">Benedetto Benedetti </a>Secretario dell'Accademia<span class=\"line-break\"><br></span>It<em>em</em> fu dato conto [che] fur[no] prese le Chiavi<span class=\"line-break\"><br></span>[et] il Sigillo di S. [Luca dal Si]g.re<a href=\"https://www.nga.gov/accademia/en/persons/simon-vouet.html\"> Simone Vouet</a> Pren-<span class=\"line-break\"><br></span>[cipe] [...] in [mano del Sig.]re <a href=\"https://www.nga.gov/accademia/en/persons/antiveduto-gramatica.html\">Anteviduto della<span class=\"line-break\"><br></span>Grammatic[a]</a><span class=\"line-break\"><br></span>It<em>em</em> [fu proposto se si d]ev[e] d[eputare] p<em>er</em> Sollicitatore<span class=\"line-break\"><br></span>in [loco di esattore] il [R <a href=\"https://www.nga.gov/accademia/en/persons/giacomo-adimari.html\">Iacomo A]dimari</a> quale fu<span class=\"line-break\"><br></span>[se]con[do] la prop[osta deputato] viv[a] voce<span class=\"line-break\"><br></span>It<em>em</em></p><p></p><p>[4]&nbsp;There is damage to the document. Brackets denote illegible passages due to holes in the document or ink spots on paper.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/5",
+            "type": "Canvas",
+            "height": 2186,
+            "width": 1666,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241027f247r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/a717f4213faa13c3ee95ad38e3e4b6a1/full/229,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 229
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/5/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/5/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/5",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/a717f4213faa13c3ee95ad38e3e4b6a1/full/1524,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1524,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/a717f4213faa13c3ee95ad38e3e4b6a1",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/5/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/5/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/5",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 247r]</p><p>Item fu proposto se si deve confirmare p<em>er</em> Cappella-<span class=\"line-break\"><br></span>no della <a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">Chi[es]a</a><sup>[5]</sup> <a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">di San Luca</a> i[l sud<em>ett</em>o] R. <a href=\"https://www.nga.gov/accademia/en/persons/giacomo-adimari.html\">Iacomo<span class=\"line-break\"><br></span>Adima[ri</a> et] viva voce fu decretat[o] che si con[f] er-<span class=\"line-break\"><br></span>mi co[n li p]atti cap<em>ito</em>li conventioni [prov]esione et obli-<span class=\"line-break\"><br></span>ghi altre volte contenuti con il medemo R. Iacomo<span class=\"line-break\"><br></span>et à quest[o] eff[etto] furno dep[u]tati li sud<em>ett</em>i Sig.ri<span class=\"line-break\"><br></span>Prencipe et Rettori Insolido à fare sopra di ciò<span class=\"line-break\"><br></span>Instrum[en]to con le cl<em>ausul</em>e solite et patti come si e detto<span class=\"line-break\"><br></span>con faculta di obligare la Cong<em>regation</em>e et beni della<span class=\"line-break\"><br></span>Cong<em>regation</em>e et<em>iam</em> in forma Cam<em>e</em>ra Ap<em>ostoli</em>ca con le solite cl<em>ausul</em>e<span class=\"line-break\"><br></span>It<em>em</em> fu dato conto Che nella sud<em>ett</em>a Cong<em>regation</em>e Segreta fu<span class=\"line-break\"><br></span>confirmato Procura[tore] il Sig.re <a href=\"https://www.nga.gov/accademia/en/persons/pompeo-lazzari.html\">Pompeo Lazzaro</a><span class=\"line-break\"><br></span>[et] tutti gl'altri revocati et cio fu per decreto<span class=\"line-break\"><br></span>viva voce confirmato<span class=\"line-break\"><br></span>It<em>em</em> fu viva voce p<em>er</em>mutato il [P]roveditore dato al<span class=\"line-break\"><br></span>Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/antonio-tempesta.html\">antonio tempesta</a> p<em>er</em> la sua 3.a Domenica<span class=\"line-break\"><br></span>et dato il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/jacques-stella.html\">Iacomo Stella</a> francese<span class=\"line-break\"><br></span>It<em>em</em> viva voce come sop<em>r</em>a su p<em>er</em>mutato il Rettore dato al<span class=\"line-break\"><br></span>Sig.r Cav.re <a href=\"https://www.nga.gov/accademia/en/persons/ottavio-mario-leoni.html\">Ottavio Leoni</a>, p<em>er</em> la sua 5.ta Domenica et<span class=\"line-break\"><br></span>Dato p<em>er</em> Proveditore il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/johann-friedrich-greuter.html\">Federico Gruter</a><span class=\"line-break\"><br></span>Item [fu] dato conto de tutti li decreti fatti<span class=\"line-break\"><br></span>nella Congregatione Segreta [fa]tta sotto li venti<span class=\"line-break\"><br></span>del presente mese dopo pranzo in Casa di detto</p><p></p><p>[5]&nbsp;Brackets denote illegible passages due to holes in the document or ink spots on paper.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/6",
+            "type": "Canvas",
+            "height": 2200,
+            "width": 1604,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241027f247v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/e4905f0c9d412400ec547235a0c6317b/full/219,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 219
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/6/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/6/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/6",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/e4905f0c9d412400ec547235a0c6317b/full/1458,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1458,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/e4905f0c9d412400ec547235a0c6317b",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/6/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/6/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/6",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 247v]</p><p>Ill'Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/simon-vouet.html\">Simone Vouet </a>Prencipe et letti tutti li<span class=\"line-break\"><br></span>[detti]<sup>[6]</sup> decreti alta et intelligibili voce<span class=\"line-break\"><br></span>Deinde omnes sup<em>radict</em>i Co[ngreg]ati sponte etc. ac omni etc.<span class=\"line-break\"><br></span>[f]ecerunt constitueru<em>n</em>t etc. [...] [eo]r<em>um</em> Congregationis [DD.]<span class=\"line-break\"><br></span>Pictor<em>um</em> et Sculptor<em>um</em> de Urbe ac [e]or<em>um</em> <a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">Ecclesia</a><em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">e</a></em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\"> Sancti<span class=\"line-break\"><br></span>[L]uc[a</a><em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">e</a></em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">]</a> in <a href=\"https://www.nga.gov/accademia/en/places/roman-forum.html\">Campo [Bova]rio</a> de Urbe procurato-<span class=\"line-break\"><br></span>rem etc. Ill' et Ad.m Exc.te<em>m</em> D. <a href=\"https://www.nga.gov/accademia/en/persons/pompeo-lazzari.html\">Pompeum Lazzarum</a><span class=\"line-break\"><br></span>de Castru durantis I<em>uris</em> U<em>triusque</em> [D]<em>octorem</em> Rom. Cur. seq. P<em>rese</em>ntem etc.<span class=\"line-break\"><br></span>ad o<em>mn</em>es et singulas d<em>ict</em>a<em>e</em> Cong<em>regatio</em>nis et Eccl<em>es</em>ia<em>e</em> lites et causas<span class=\"line-break\"><br></span>[ci]viles, et criminales meras, et mixtas, motas et mo-<span class=\"line-break\"><br></span>vendas activas, et passivas contra quascu<em>m</em>q<em>ue</em> per-<span class=\"line-break\"><br></span>sonas etc. [et co]ra<em>m</em> quocu<em>m</em>q<em>ue</em> D. Iud<em>ic</em>e etc. I[n] quovis Iuditio etc.<span class=\"line-break\"><br></span>[c]omparendu<em>m</em> etc. agendu<em>m</em> et Iura d<em>icta</em>e eor<em>um</em> Congregationis et <a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">Eccle-<span class=\"line-break\"><br></span>sia</a><em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">e</a></em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\"> Sancti Luca</a><em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">e</a></em> in omnibus et p<em>er</em> omnia tuendu<em>m</em> et<span class=\"line-break\"><br></span>defendendu<em>m</em> etc. calumnia<em>e</em>q<em>ue</em>, et qua<em>e</em>vis alia Iura-<span class=\"line-break\"><br></span>menta licita tamen et honesta in animu<em>m</em><span class=\"line-break\"><br></span>d<em>icta</em>e Congregationis et<em>iam</em> suspicionis fuga<em>e</em> et sup<em>er</em> metu<span class=\"line-break\"><br></span>dilapidat<em>io</em>nis bonor<em>um</em> p<em>re</em>standu<em>m</em> et subeundum<span class=\"line-break\"><br></span>cum cl<em>ausul</em>a ad lites amplissima iuxtà stilum Rom<em>anae</em><span class=\"line-break\"><br></span>Curia<em>e</em> latissime e[xtenden<em>dum</em>] ac cum protestate unu<em>m</em><span class=\"line-break\"><br></span>seu plures pro<em>curato</em>res cum simili aut limitate pote-<span class=\"line-break\"><br></span>st[ate] substituendi etc. et generaliter etc. promit-<span class=\"line-break\"><br></span>tentes etc. relevantes etc. super quibus etc. Actum</p><p></p><p>[6]&nbsp;Brackets denote illegible passages due to holes in the document or ink spots on paper.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/7",
+            "type": "Canvas",
+            "height": 2200,
+            "width": 1623,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241027f248r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/b4e8e07c344c6134f953bd47d43d2b2d/full/221,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 221
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/7/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/7/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/7",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/b4e8e07c344c6134f953bd47d43d2b2d/full/1475,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1475,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/b4e8e07c344c6134f953bd47d43d2b2d",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/7/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/7/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/canvas/7",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 248r]</p><p><a href=\"https://www.nga.gov/accademia/en/places/Rome.html\">Roma</a><em><a href=\"https://www.nga.gov/accademia/en/places/Rome.html\">e</a></em> in <a href=\"https://www.nga.gov/accademia/en/places/Campitelli_Rione.html\">Reg</a><em><a href=\"https://www.nga.gov/accademia/en/places/Campitelli_Rione.html\">ion</a></em><a href=\"https://www.nga.gov/accademia/en/places/Campitelli_Rione.html\">e Campitelli </a>in Stantia Accademia<em>e</em><span class=\"line-break\"><br></span>Congregationis in <a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">Ecc</a><em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">lesi</a></em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">a Sancti Luca</a><em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">e</a></em> p<em>rese</em>ntibus etc. R. D.<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/girolamo-boerio.html\">Hieronymo Boerio</a> Albiganen<em>se</em> et D. <a href=\"https://www.nga.gov/accademia/en/persons/alessandro-canori.html\">Alexandro<span class=\"line-break\"><br></span>Canori</a> q. Christophori Perusino Testibus etc.<span class=\"line-break\"><br></span>Iosephus Pals etc.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
