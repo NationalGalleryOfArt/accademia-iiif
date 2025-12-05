@@ -1,0 +1,290 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTCSVol054416280609"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Vol. 544 fols. 599v, 600r"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1628"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Tommaso Salvatore"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Audientia (court hearing)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Pier Francesco Rossi"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Rent",
+                    "Executive mandate",
+                    "Oath of slander"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/964f07c17f87e320de27c5e0a12c8a7b/full/204,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 204
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/canvas/1",
+            "type": "Canvas",
+            "height": 3445,
+            "width": 2336,
+            "label": {
+                "none": [
+                    "ASR_TCS_vol544_1628_fol599V"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/964f07c17f87e320de27c5e0a12c8a7b/full/204,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 204
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/964f07c17f87e320de27c5e0a12c8a7b/full/1356,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1356,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/964f07c17f87e320de27c5e0a12c8a7b",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p>The Accademia di San Luca, represented by its <em>camerario</em> [treasurer] and procurator Pier Francesco Rossi, petitions the civil court of the senator of Rome against Felice Ferrario. Ferrario satisfies the request of the Accademia to testify under oath. The day after, Ferrario turns up in court and takes the <em>iuramentum de calumnia</em> [oath of slander].&nbsp;The Accademia di San Luca also petitions the civil court of the senator of Rome against Giulia, the wife of the mason Agostino, for payment of rent.</p><p></p><p>[Italian version]</p><p>L’Accademia di San Luca assistita dal proprio <em>camerario</em> [tesoriere] e procuratore Pier Francesco Rossi, ricorre presso il tribunale civile del senatore di Roma, contro Felice Ferrario, che soddisfa la richiesta della controparte di prestare testimonianza sotto giuramento. Il giorno seguente Ferrario si presenta e presta il <em>iuramentum de calumnia </em>[giuramento di calunnia]. Inoltre, l’Accademia di San Luca ricorre presso il tribunale civile contro Giulia, moglie del muratore Agostino, in obbligo al pagamento di un affitto.&nbsp;&nbsp;</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/canvas/2",
+            "type": "Canvas",
+            "height": 3450,
+            "width": 2304,
+            "label": {
+                "none": [
+                    "ASR_TCS_vol544_1628_fol600R"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/5aeb3319e90db0859a05b599c2901cf7/full/200,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 200
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/5aeb3319e90db0859a05b599c2901cf7/full/1336,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1336,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/5aeb3319e90db0859a05b599c2901cf7",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 600r]</p><p>se die 8 huius d<em>omi</em> d<em>imissa</em> C<em>opia</em> eid<em>e</em>m Intimasse qual<em>ite</em>r D. decre-<span class=\"line-break\"><br></span>vit, et relaxavit mand<em>a</em>tu<em>m</em> exeq<em>utivu</em>m et alias p<em>rou</em>t in<span class=\"line-break\"><br></span>actis Instant<em>ibus</em> eisd<em>e</em>m pr<em>incipa</em>lib<em>us</em> sivè etc.<span class=\"line-break\"><br></span>Ex <em>advers</em>o Id<em>em</em> <em>citr</em>a etc. et satisfaciendo importunitati partis ad<em>mis</em>se<span class=\"line-break\"><br></span>med<em>io iuramento tac</em>tis etc. Iuravit de Cal<em>umni</em>a super tota causa<span class=\"line-break\"><br></span>iuxta formam statutor<em>um</em>, et novae reformationis<span class=\"line-break\"><br></span>S.mi monitus etc.</p><p></p><p>Pro Ven.le Societate, et Accademia Pictor<em>um</em> Urbis p<em>ri</em>n<em>cipa</em>li contra<span class=\"line-break\"><br></span>Iuliam uxorem Augustini mu<em>ra</em>t<em>o</em>ris ex <em>adverso principa</em>le<em>m</em>. Nicolaus<span class=\"line-break\"><br></span>Cur<em>iae</em> Cap<em>itolii</em> Mand<em>atarius retulit in scrip</em>tis se die 8 huius d<em>omi </em>d<em>imissa</em> C<em>opia </em>eid<em>e</em>m Intimasse<span class=\"line-break\"><br></span>qual<em>ite</em>r D. decrevit, et relaxavit m<em>anda</em>tu<em>m</em> exeq<em>utivu</em>m, et de <span class=\"line-break\"><br></span>evacuando, et alias ut in actis Instant<em>e</em> ead<em>e</em>m p<em>ri</em>n<em>cipa</em>li sive etc.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/canvas/2/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/canvas/2#xywh=989,410,530,183",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>mand<em>a</em>tu<em>m</em> exeq<em>utivu</em>m (executive mandate)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/canvas/2/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/canvas/2#xywh=702,786,663,132",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p> Iuravit de Cal<em>umni</em>a (oath of slander)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
