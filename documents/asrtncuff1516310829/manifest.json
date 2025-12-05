@@ -1,0 +1,285 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1516310829"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 15 Pt. 3 Vol. 129 fols. 489r-v"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1631"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Tommaso Salvatore"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Meeting"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Church of Santi Luca e Martina (San Luca and Santa Martina); Roman Forum (Campo Vaccino); Rome"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Giovanni Lanfranco; Gian Lorenzo Bernini; Giovanni Baglione; Pier Francesco Rossi; Michelangelo Guidi; Andrea Sacchi; Giulio Cesare Bresciani; Bartolomeo Bombelli; Antonio Berto; Lorenzo Santis (de); Pietro Ferrerio; Tommaso Romano; Giacomo Fiandra (da); Angelo Ceccarelli; Bartolomeo Mentuccia; Pasquale Pasqualini; Francesco Vallone; Pompeo Lazzari; Giovanni Maria Stanti; Antonio Fide"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Italian and Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Painter",
+                    "Procurator",
+                    "Sculptor",
+                    "Rector",
+                    "Treasurer",
+                    "Academy",
+                    "Appraiser",
+                    "Drawing"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/fd1575829a14ed46ae0e4769041e6bf3/full/222,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 222
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/canvas/1",
+            "type": "Canvas",
+            "height": 2204,
+            "width": 1630,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516310829f489r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/fd1575829a14ed46ae0e4769041e6bf3/full/222,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 222
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/fd1575829a14ed46ae0e4769041e6bf3/full/1479,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1479,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/fd1575829a14ed46ae0e4769041e6bf3",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p>At a general meeting of the Accademia dei Pittori e Scultori, procurator <a href=\"https://www.nga.gov/accademia/en/persons/pompeo-lazzari.html\">Pompeo Lazzari</a> asks if prints must be considered drawings, and the group answers in the negative.</p><p></p><p>[Italian version]</p><p>Il procuratore <a href=\"https://www.nga.gov/accademia/it/persons/pompeo-lazzari.html\">Pompeo Lazzari </a>domanda se le stampe siano da considerarsi disegni, e la risposta è negativa.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/canvas/2",
+            "type": "Canvas",
+            "height": 2180,
+            "width": 1600,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516310829f489v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/2f4640bdcd1e7fb133e64791f6ed7c80/full/220,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 220
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/2f4640bdcd1e7fb133e64791f6ed7c80/full/1468,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1468,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/2f4640bdcd1e7fb133e64791f6ed7c80",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 489v]</p><p>D. <a href=\"https://www.nga.gov/accademia/en/persons/bartolomeo-mentuccia.html\">Bartholomeus Mentuccia</a> a Leonissa<span class=\"line-break\"><br></span>D <a href=\"https://www.nga.gov/accademia/en/persons/pasquale-pasqualini.html\">Pasqualis Pasqualinus </a>et<span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/francesco-vallone.html\">Franciscus Vellonus</a><span class=\"line-break\"><br></span>Quib<em>us</em> sic congregatis etc. Fu proposto dal s.r <a href=\"https://www.nga.gov/accademia/en/persons/pompeo-lazzari.html\">Pompeo<span class=\"line-break\"><br></span>Lazzari </a>se [...]a<sup>[1]</sup> nome di disegno si compendino<span class=\"line-break\"><br></span>le Carte stampate, o no et cio<span class=\"line-break\"><br></span>dechiari p<em>er</em> ogni bon fine<span class=\"line-break\"><br></span>Fu risoluto viva voce che le stampe no<em>n</em> sono disegni<span class=\"line-break\"><br></span>presentib<em>us</em> ubi s<em>upr</em>a etc. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-maria-stanti.html\">Ioanne Maria q. Dom.ci Stantii</a><span class=\"line-break\"><br></span>romano et <a href=\"https://www.nga.gov/accademia/en/persons/antonio-fide.html\">Antonio Fide</a> et<em>iam</em> ro<em>mano</em> t<em>es</em>t<em>ibus</em> etc.<span class=\"line-break\"><br></span>Titus Colus rog<em>avit</em> etc.</p><p></p><p>[1]&nbsp;Unclear.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

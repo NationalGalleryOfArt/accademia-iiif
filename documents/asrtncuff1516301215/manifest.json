@@ -1,0 +1,357 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1516301215"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 15 Pt. 4 Vol. 126 fols. 788r-v, 807r"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1630"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Tommaso Salvatore"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Meeting"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Roman Forum (Campo Vaccino); Rome; Church of Santi Luca e Martina (San Luca and Santa Martina)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Gian Lorenzo Bernini; Giovanni Baglione; Giovanni Lanfranco; Simone Lagi; Pier Francesco Rossi; Francesco Mochi; Pasquale Pasqualini; Marco Tullio Montagna; Tommaso Bolognini; Domenico Rossi (de); Domenico Moretti; Ippolito Leoni; Andrea Sacchi; Giovanni Antonio Carosi; Giovanni Stefano Villa; François Quesnoy (Du); Michelangelo Guidi; Stefano Speranza; Domenico Bombelli; Andrea Bolgi; Giacomo Facelli; Bartolomeo Tognoni; Francesco Vallone; Giacomo Tassetto; Giacomo Fiandra (da); Guglielmo Partassar; Raffaele Zucca; Luigi Bernini; Gian Domenico Prestinaro"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Italian and Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Painter",
+                    "Sculptor",
+                    "Rector",
+                    "Agreement",
+                    "Treasurer",
+                    "Meeting",
+                    "Litigation",
+                    "Guild",
+                    "Principe",
+                    "Stone carver",
+                    "Carpenter",
+                    "Advisor",
+                    "Supervisor"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/547ff18aa0e6448aa6851c390a6162c2/full/217,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 217
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/canvas/1",
+            "type": "Canvas",
+            "height": 2180,
+            "width": 1576,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516301215f788r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/547ff18aa0e6448aa6851c390a6162c2/full/217,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 217
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/547ff18aa0e6448aa6851c390a6162c2/full/1446,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1446,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/547ff18aa0e6448aa6851c390a6162c2",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p>The Accademia dei Pittori e Scultori ratifies the agreement made between the Accademia and the Università dei Falegnami. The Accademia decides that Vasco, sculptor, must pay 2 testoni each month for the litigation between sculptors and stone carvers.</p><p></p><p>[Italian version]</p><p>Viene ratificata la concordia fatta tra l'Accademia dei Pittori e Scultori e l'Università dei Falegnami. Viene deciso inoltre che per la lite tra gli Scalpellini e gli Scultori, Vasco scultore debba pagare 2 testoni al mese.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/canvas/2",
+            "type": "Canvas",
+            "height": 2168,
+            "width": 1594,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516301215f788v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/301f48e45bf571bb9aa9382f8e4c1e28/full/220,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 220
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/301f48e45bf571bb9aa9382f8e4c1e28/full/1470,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1470,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/301f48e45bf571bb9aa9382f8e4c1e28",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 788v]</p><p>D <a href=\"https://www.nga.gov/accademia/en/persons/andrea-sacchi.html\">And.as Sacchi</a><span class=\"line-break\"><br></span>D <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-antonio-carosi.html\">Io antonius Carosius</a><span class=\"line-break\"><br></span>D <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-stefano-villa.html\">Io. Stefanus Villa</a><span class=\"line-break\"><br></span>D <a href=\"https://www.nga.gov/accademia/en/persons/francois-quesnoy-du.html\">Franc.s Queri</a><span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/michelangelo-guidi.html\">Mich'Angelus Guidus</a> Proveditor<span class=\"line-break\"><br></span>D <a href=\"https://www.nga.gov/accademia/en/persons/bartolomeo-tognoni.html\">Bartholomeus Togliolius</a><span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/francesco-vallone.html\">Franc.s Valleinus</a><span class=\"line-break\"><br></span>D <a href=\"https://www.nga.gov/accademia/en/persons/giacomo-tassetto.html\">Iacobus Tassettus</a><span class=\"line-break\"><br></span>D <a href=\"https://www.nga.gov/accademia/en/persons/giacomo-fiandra-da.html\">Iacobus Flander</a><span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/guglielmo-partassar.html\">Guglielmus Partassar</a><span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/raffaele-zucca.html\">Raphael Zucchus</a><span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/alvise-bernini.html\">Aloysius Berninus</a><span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/stefano-speranza.html\">Stefanus Speranza</a><span class=\"line-break\"><br></span>D <a href=\"https://www.nga.gov/accademia/en/persons/domenico-bombelli.html\">Dom.cus Bombellus</a><span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/andrea-bolgi.html\">Andreas Bolgius</a><span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/giacomo-facelli.html\">Iacobus Facellus</a><span class=\"line-break\"><br></span>Nella quale congregat<em>ion</em>e fù ratificata p<em>er</em> li atti del<span class=\"line-break\"><br></span>Fonthia not<em>ari</em>o del A<em>uditor</em> C<em>amerae</em> la transactione, et con-<span class=\"line-break\"><br></span>cordi[a]<sup>[1]</sup> [...]ita trà l'Academia de Pictori<span class=\"line-break\"><br></span>et Sc[ultori di] <a href=\"https://www.nga.gov/accademia/en/places/Rome.html\">Roma</a>, et dal'altro l'Università</p><p></p><p>[1]&nbsp;There is a large tear in fols. 708v and 807r. Brackets denote illegible passages.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/canvas/3",
+            "type": "Canvas",
+            "height": 2222,
+            "width": 1528,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516301215f807r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/15410e2cb4ac8d0989487a43ac98b699/full/206,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 206
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/canvas/3/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/canvas/3/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/canvas/3",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/15410e2cb4ac8d0989487a43ac98b699/full/1375,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1375,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/15410e2cb4ac8d0989487a43ac98b699",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/canvas/3/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/canvas/3/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/canvas/3",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 807r]</p><p>de falegnami di <a href=\"https://www.nga.gov/accademia/en/places/Rome.html\">Roma</a>, della quale concor-<span class=\"line-break\"><br></span>dia, et transact<em>ion</em>e ne consta Instr<em>ument</em>o rogato come<span class=\"line-break\"><br></span>se due Insolido p<em>er</em> li atti del med<em>e</em>mo Fonthia<span class=\"line-break\"><br></span>et Guido Camillo co<em>n</em>not<em>ari</em>o, et not<em>ari</em>o de falegna-<span class=\"line-break\"><br></span>mi rogato sotto li 8 di octobre 1630<span class=\"line-break\"><br></span>Sup<em>er</em>venit D <a href=\"https://www.nga.gov/accademia/en/persons/gian-domenico-prestinaro.html\">Dom.cus Prestinarius </a>Sup<em>er</em> quibus etc.<span class=\"line-break\"><br></span>Fù resoluto inoltre, che p<em>er</em> la lite mossa dall'<span class=\"line-break\"><br></span>Università de Scarpellini con<em>tro</em> li SS.ri Scultori<span class=\"line-break\"><br></span>Vascho scultore dovesse pagare 2 testoni<span class=\"line-break\"><br></span>il mese si come Vascho p<em>rese</em>nte si obligha<span class=\"line-break\"><br></span>pagare, et quelli absenti che no<em>n</em> vor-<span class=\"line-break\"><br></span>ranno contribuire ex nunc se [...]<span class=\"line-break\"><br></span>[…]mo cassi da l'Accademia, [...]<span class=\"line-break\"><br></span>de S. Luca Sup<em>er</em> quib<em>us</em></p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

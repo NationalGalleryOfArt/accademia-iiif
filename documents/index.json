@@ -1,0 +1,4035 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "Notarial Documents"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054116130512/1a72ff278a39acc6b21f0e0775bf4168/full/206,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 206
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054116130512/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054116130512"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054216210522/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054216210522"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054216210524/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054216210524"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054216210524c/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054216210524c"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054216210527/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054216210527"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054216210609/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054216210609"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054216210618/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054216210618"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280313b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416280313b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280411b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416280411b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280414/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416280414"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280526/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416280526"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280527/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416280527"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280602/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416280602"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280607/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416280607"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280608/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416280608"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280609/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416280609"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280809/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416280809"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280824/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416280824"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280830/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416280830"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280905/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416280905"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280914/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416280914"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280916/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416280916"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280919/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416280919"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280922/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416280922"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280927/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416280927"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416280928/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416280928"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416281002/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416281002"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416281003/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416281003"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416281005/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416281005"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416281009/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416281009"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416281012/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416281012"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054416281013/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054416281013"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290111/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290111"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290113/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290113"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290119/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290119"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290119b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290119b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290130/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290130"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290209/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290209"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290313/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290313"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290317/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290317"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290401/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290401"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290403/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290403"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290404/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290404"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290510/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290510"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290516/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290516"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290519/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290519"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290525/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290525"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290526/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290526"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290528/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290528"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290601/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290601"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290616/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290616"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290622/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290622"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290705/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290705"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290712/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290712"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290715/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290715"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290718/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290718"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290721/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290721"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290801/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290801"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290806/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290806"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290823/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290823"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516290909/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516290909"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291010/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516291010"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516291201"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516291201b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291201c/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516291201c"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291203/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516291203"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291210/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516291210"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291214/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516291214"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291218/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516291218"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054516291219/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054516291219"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054616300116/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054616300116"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054616300116b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054616300116b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054616300123/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054616300123"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054616300124/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054616300124"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054616300305b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054616300305b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054616300530/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054616300530"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054616300608/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054616300608"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054616300614/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054616300614"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054616300619/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054616300619"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054616300704/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054616300704"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054616300807/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054616300807"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054616300808/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054616300808"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054616300810/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054616300810"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054616300902/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054616300902"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054616300907/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054616300907"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054616300910/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054616300910"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054616301205/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054616301205"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054616301209/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054616301209"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054616301211/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054616301211"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816310402/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054816310402"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816310404/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054816310404"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816310405/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054816310405"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816310502/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054816310502"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816310505/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054816310505"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816310513/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054816310513"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816310618/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054816310618"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816310812/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054816310812"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816310813/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054816310813"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816310916/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054816310916"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816310926/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054816310926"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311001/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054816311001"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311126/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054816311126"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311127/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054816311127"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311128/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054816311128"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311129b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054816311129b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054816311215/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054816311215"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916320109/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916320109"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916320427/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916320427"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916320428/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916320428"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916320504/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916320504"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916320505/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916320505"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916320507/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916320507"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916320602/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916320602"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916320607/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916320607"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916320608/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916320608"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916320713/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916320713"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916320723/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916320723"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916320724/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916320724"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916320729/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916320729"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916320730/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916320730"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916320827/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916320827"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916320830/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916320830"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916320917/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916320917"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916320918/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916320918"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321009/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916321009"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321011/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916321011"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321023/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916321023"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321025/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916321025"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321026/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916321026"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321211/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916321211"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321214/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916321214"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321215/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916321215"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054916321216/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054916321216"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055016350509/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055016350509"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055016350510/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055016350510"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055016350512/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055016350512"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055016350604/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055016350604"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055016350912/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055016350912"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055016350922/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055016350922"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055016351006/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055016351006"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055016351008/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055016351008"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055016351031/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055016351031"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055116370115/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055116370115"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055116370116/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055116370116"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055116370123/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055116370123"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055116370422/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055116370422"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055116370424/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055116370424"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055116370427/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055116370427"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055116370522/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055116370522"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055216390119/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055216390119"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055216390507/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055216390507"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055216390509/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055216390509"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055216390510c/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055216390510c"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055216390510d/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055216390510d"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055216390511/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055216390511"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055216390511b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055216390511b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055216390517/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055216390517"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055216390518/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055216390518"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055216390519/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055216390519"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055216390524/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055216390524"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055216390524b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055216390524b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055216390802/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055216390802"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055216390809/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055216390809"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055216390809b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055216390809b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055216390823/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055216390823"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055216390825/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055216390825"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055216391105/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055216391105"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055216391108/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055216391108"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055216391108b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055216391108b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055416440112/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055416440112"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055416440113/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055416440113"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055416440121/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055416440121"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055416440121b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055416440121b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055416440127/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055416440127"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055416440212/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055416440212"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055416440212b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055416440212b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055516530326"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055616570216/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol055616570216"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115890129"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115900402/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115900402"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115900405/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115900405"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115910707/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115910707"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930307/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115930307"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115930324"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930324b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115930324b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930330/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115930330"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930411/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115930411"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115930622/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115930622"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115931031/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115931031"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115931213/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115931213"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115931228/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115931228"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115950109/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115950109"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115950402/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115950402"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115950615/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115950615"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115951210/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115951210"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff111596/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff111596"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115960124/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115960124"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115961006/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115961006"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115980406/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115980406"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115980426/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115980426"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115980522/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115980522"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981108/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115981108"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981108b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115981108b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981115/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115981115"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981201/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115981201"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115981228/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115981228"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115990329/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115990329"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115991107/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115991107"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115991110/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115991110"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115991116/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115991116"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115991208/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1115991208"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1116000117/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1116000117"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1116000528/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1116000528"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1116000531/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1116000531"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1116001031/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1116001031"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1116010530/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1116010530"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1116020623/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1116020623"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1116021005/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1116021005"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1116030105/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1116030105"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1116040725/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1116040725"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1116050522/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1116050522"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1116050930/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1116050930"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1116060731/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1116060731"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1116070527/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1116070527"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1116071104/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1116071104"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1116080313/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1116080313"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1116080801/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1116080801"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1116080821/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1116080821"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1116090512/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1116090512"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1116090528/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1116090528"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1116090603/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1116090603"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff11undatedf96r/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff11Undatedf96r"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516090723/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516090723"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516090730/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516090730"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516090930/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516090930"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516091015/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516091015"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516100524/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516100524"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516100915/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516100915"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516101021/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516101021"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516110120/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516110120"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516110329/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516110329"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516110329b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516110329b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516110519/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516110519"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516110818/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516110818"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516110925/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516110925"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516120118/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516120118"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516120320/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516120320"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516121114/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516121114"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516121206/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516121206"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516121214/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516121214"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516121220/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516121220"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516130124/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516130124"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516130323/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516130323"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516130523/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516130523"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516130523b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516130523b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516130523c/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516130523c"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516130715/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516130715"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516130916/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516130916"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516140406/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516140406"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516140910/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516140910"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516141005/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516141005"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516150706/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516150706"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516151201/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516151201"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15161603021/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff15161603021"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516160702/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516160702"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516160705/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516160705"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516171126/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516171126"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516180111/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516180111"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516180423/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516180423"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516180515/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516180515"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516180520/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516180520"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516180528/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516180528"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516180721/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516180721"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516190621/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516190621"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516190922/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516190922"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516200101/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516200101"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516200105/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516200105"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516200131/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516200131"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516200131b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516200131b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516200131c/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516200131c"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516200727/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516200727"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff151621/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff151621"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210610/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516210610"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210721/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516210721"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210830/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516210830"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516210921/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516210921"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516211222/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516211222"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516211222b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516211222b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516220210/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516220210"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516220424/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516220424"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516220517/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516220517"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516220624/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516220624"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516221029/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516221029"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516221120/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516221120"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516230101/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516230101"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516230129/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516230129"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516230423/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516230423"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516230501/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516230501"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516230501b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516230501b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516230825/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516230825"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516230829/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516230829"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516230903/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516230903"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516230905/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516230905"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516230918/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516230918"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516230918b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516230918b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516230921/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516230921"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516231001/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516231001"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516231007/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516231007"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516231008/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516231008"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516231125/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516231125"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516231128/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516231128"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516231128b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516231128b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240105/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240105"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240105b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240105b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240106/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240106"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240114/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240114"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240114b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240114b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240117/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240117"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240120/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240120"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240124/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240124"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240201/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240201"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240202/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240202"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240205/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240205"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240211/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240211"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240303/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240303"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240317/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240317"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240331/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240331"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240421/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240421"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240424/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240424"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240428/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240428"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240512/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240512"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240512b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240512b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240512c/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240512c"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240515/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240515"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240527/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240527"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240606/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240606"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240707/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240707"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240719/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240719"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240901/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240901"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240901b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240901b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240908/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240908"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240908b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240908b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240921/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240921"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240921b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240921b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516240921c/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240921c"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241002/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241002"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241006/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241006"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241017/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241017"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241019/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241019"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241020"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241020b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241020b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241024/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241024"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241025/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241025"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241027/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241027"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516241103/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241103"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250309/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516250309"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250322/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516250322"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250420/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516250420"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250612/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516250612"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250613/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516250613"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250626/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516250626"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250629/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516250629"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516250921/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516250921"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516251226/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516251226"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516260624/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516260624"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516260629/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516260629"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516260927/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516260927"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516260929/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516260929"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270513/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516270513"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270629/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516270629"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270705/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516270705"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270829/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516270829"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270912/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516270912"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516270916/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516270916"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516271004/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516271004"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516271031/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516271031"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516271114/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516271114"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516271114b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516271114b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516271128/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516271128"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516280101/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516280101"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516280309/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516280309"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516280503/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516280503"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516280521/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516280521"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516280806/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516280806"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516280829/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516280829"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516280908/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516280908"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516280923/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516280923"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516280930/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516280930"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516281105/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516281105"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516281204/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516281204"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290101/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516290101"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290204/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516290204"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290401/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516290401"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290508/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516290508"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290729/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516290729"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290812/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516290812"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290902/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516290902"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516290929/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516290929"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516291021/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516291021"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516291111/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516291111"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516291221/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516291221"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516300101/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516300101"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516300224/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516300224"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516300317/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516300317"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516300421/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516300421"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516300428/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516300428"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516300506/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516300506"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516300614/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516300614"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516300616/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516300616"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516300707/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516300707"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516300725/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516300725"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516300810/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516300810"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516300922/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516300922"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516300927/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516300927"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301010/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516301010"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301013/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516301013"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516301215/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516301215"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310101/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516310101"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310309/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516310309"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310706/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516310706"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310829/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516310829"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516310914/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516310914"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516320123/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516320123"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516320501/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516320501"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516320516/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516320516"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516320606/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516320606"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330106/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516330106"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330120/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516330120"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330123/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516330123"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330213/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516330213"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330219/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516330219"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330225/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516330225"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330225b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516330225b"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330424/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516330424"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516330508"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330717/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516330717"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330825/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516330825"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516331002/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516331002"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516331120/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516331120"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516331130/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516331130"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516331213/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516331213"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516340101/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516340101"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516340302/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516340302"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516340303/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516340303"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516340309/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff1516340309"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTNCUff15MemorialeGualtieri"
+                ]
+            }
+        }
+    ]
+}

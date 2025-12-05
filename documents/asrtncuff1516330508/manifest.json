@@ -1,0 +1,418 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1516330508"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 15 Pt. 2 Vol. 136 fols. 353r-v, 370r-v"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1633"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Tommaso Salvatore"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Not specified (inventory)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Church of Luca e Martina (San Luca and Santa Martina)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Francesco Mochi; Nicolas La Fage (de); Andrea Clesio (de); Giovanni Francesco Leonissa; Ugo Boncompagni (Pope Gregory XIII); Ippolito Aldobrandini (Pope Clement VIII); Felice Peretti (Pope Sixtus V); Francesco Rovere (della) (Pope Sixtus IV); Pietro Valle (della); Ottavio Mario Leoni; Valerio Valle (della); Tomassino Porta (della); Camillo Borghese (Pope Paul V)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Italian and Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Goods",
+                    "Rector",
+                    "Principe",
+                    "Book",
+                    "Inventory",
+                    "Document",
+                    "Room"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/4f1f18cc3e8d009b8b0dfa31ba8472a4/full/219,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 219
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/1",
+            "type": "Canvas",
+            "height": 2127,
+            "width": 1552,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516330508f353r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/4f1f18cc3e8d009b8b0dfa31ba8472a4/full/219,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 219
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/4f1f18cc3e8d009b8b0dfa31ba8472a4/full/1459,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1459,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/4f1f18cc3e8d009b8b0dfa31ba8472a4",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p>The document is an inventory of the books, writings, and other goods  in the room of the Accademia next to the church. The inventory is made on request of <a href=\"https://www.nga.gov/accademia/en/persons/francesco-mochi.html\">Francesco Mochi</a>, <em>principe</em>, and <a href=\"https://www.nga.gov/accademia/en/persons/nicolas-la-fage-de.html\">Nicolas de La Fage</a>, first rector.</p><p></p><p>[Italian version]</p><p>Questo documento è un inventario dei libri, delle scritture e degli altri beni esistenti nella credenza nella stanza dell'Accademia accanto alla chiesa. L'inventario è fatto su istanza di <a href=\"https://www.nga.gov/accademia/it/persons/francesco-mochi.html\">Francesco Mochi</a> principe e di <a href=\"https://www.nga.gov/accademia/it/persons/nicolas-la-fage-de.html\">Nicolas de La Fage</a>, primo rettore.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/2",
+            "type": "Canvas",
+            "height": 2151,
+            "width": 1462,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516330508f353v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/98b1b749a5d454b6ee034dfa44780ed9/full/204,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 204
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/98b1b749a5d454b6ee034dfa44780ed9/full/1359,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1359,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/98b1b749a5d454b6ee034dfa44780ed9",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 353v]</p><p>à una latta. Un altro libro scritto à mano sopra l'istitu-<span class=\"line-break\"><br></span>tione della pittura copero di carta torchina<span class=\"line-break\"><br></span>Una bolla di <a href=\"https://www.nga.gov/accademia/en/persons/ugo-boncompagni.html\">Papa Gregorio 13</a> asistente<sup>[1]</sup> dentro una latta<span class=\"line-break\"><br></span>con un memoriale, et altre scritture<span class=\"line-break\"><br></span>Una copia di cap<em>ito</em>li facta in tempo di <a href=\"https://www.nga.gov/accademia/en/persons/francesco-rovere-della-pope-sixtus-iv.html\">Sisto quarto</a><span class=\"line-break\"><br></span>Un altra copia d'una bolla concessa da<a href=\"https://www.nga.gov/accademia/en/persons/felice-peretti.html\"> papa Sisto quinto</a><span class=\"line-break\"><br></span>dentro à una latta. Un Instr<em>ument</em>o pub<em>lico</em> di conventione<span class=\"line-break\"><br></span>et quietanza sottoscritto dal q. Io: Dom.co Peracha scrit-<span class=\"line-break\"><br></span>to in carta pecora diverse riceute legate in un spacho<span class=\"line-break\"><br></span>Un libro dentro il principio d'Architettura, et scritto in<span class=\"line-break\"><br></span>principio otto fogli il resto bianco coperto di carta<span class=\"line-break\"><br></span>pecora con una fibia<span class=\"line-break\"><br></span>Doi Indulcentie concesse alla <a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">Chiesa di S. Luca</a> una da<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/camillo-borghese-pope-paul-v.html\">Papa Paolo quinto</a>, et l'altra da <a href=\"https://www.nga.gov/accademia/en/persons/ippolito_aldobrandini.html\">Clemente ottavo</a><span class=\"line-break\"><br></span>Scritture diverse num<em>er</em>o cinquanta nove legate in un<span class=\"line-break\"><br></span>fascietto, cioè riceute, cap<em>ito</em>li, conti, mesure, et altro<span class=\"line-break\"><br></span>Un fascietto legato sessanta otto mand<em>at</em>i di diversi pagam<em>en</em>ti<span class=\"line-break\"><br></span>Un mazzetto di scritture sopra la lite de Pittori<span class=\"line-break\"><br></span>Un mazzo con venti otto desegni di piante di fabriche<span class=\"line-break\"><br></span>Un altro mazzo con trenta cinque piante di varii Palazzi<span class=\"line-break\"><br></span>Un altro mazzo con trenta otto piante di disegni d'Archi-<span class=\"line-break\"><br></span>tettura<span class=\"line-break\"><br></span>Un altro mazzo con cinquant'uno piante di diversi<span class=\"line-break\"><br></span>disegni<span class=\"line-break\"><br></span>Un altro mazzo con venti tre piante di diversi disegni<span class=\"line-break\"><br></span>Un fascetto di diverse scritture<span class=\"line-break\"><br></span>Un altro fascetto di diverse polize, et ordini<span class=\"line-break\"><br></span>Un</p><p></p><p>[1]&nbsp;<em>Sic</em>.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/3",
+            "type": "Canvas",
+            "height": 2156,
+            "width": 1456,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516330508f370r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/7a6725ae46a7b50e55fed57bd83b1c7f/full/203,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 203
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/3/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/3/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/3",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/7a6725ae46a7b50e55fed57bd83b1c7f/full/1351,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1351,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/7a6725ae46a7b50e55fed57bd83b1c7f",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/3/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/3/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/3",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 370r]</p><p>Un mazzetto di quaranta sei scritture tra riceute mand<em>a</em>ti et ordini<span class=\"line-break\"><br></span>Copia della stima delle pitture della Sala Clementina<span class=\"line-break\"><br></span>Una fede d'un Instr<em>ument</em>o di estintione d'un cenzo scudi set-<span class=\"line-break\"><br></span>tanta cinque<span class=\"line-break\"><br></span>Stima di quadri fatta in S. Pietro<span class=\"line-break\"><br></span>Copia d'una bolla scritta in carta Bambacina<span class=\"line-break\"><br></span>Un libro di carta scritta l'entrata, et uscita di S. Luca<span class=\"line-break\"><br></span>de Pittori<span class=\"line-break\"><br></span>Modo che si deve tenere per dipingere cose spirituali<span class=\"line-break\"><br></span>Una memoria delle robbe donate dal q.<a href=\"https://www.nga.gov/accademia/en/persons/ottavio-mario-leoni.html\"> Ottavio Lion</a><span class=\"line-break\"><br></span>Un fascietto con venti sei riceute diverse<span class=\"line-break\"><br></span>Memoria come il Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/pietro-valle-della.html\">Pietro della Valle</a> è pagato del<span class=\"line-break\"><br></span>Canone di nove scuti l'anno<span class=\"line-break\"><br></span>Una riceuta fatta dalla bona mem<em>oria</em> del q. <a href=\"https://www.nga.gov/accademia/en/persons/valerio-valle-della.html\">Valerio della Valle</a><span class=\"line-break\"><br></span>Un altra riceuta fatta dal Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/pietro-valle-della.html\">Pietro della Valle</a><span class=\"line-break\"><br></span>Conto dato dal Sig.re <a href=\"https://www.nga.gov/accademia/en/persons/valerio-valle-della.html\">Valerio della Valle</a> circa il sito<span class=\"line-break\"><br></span>Copia del testamento del q. <a href=\"https://www.nga.gov/accademia/en/persons/tomassino-porta-della.html\">Tomasso della Porta</a><span class=\"line-break\"><br></span>Cinquecento trenta varii disegni di piante, et d'Ar-<span class=\"line-break\"><br></span>chitettura<span class=\"line-break\"><br></span>Un disegno d'Architettura del q. Baldassare da Luna<span class=\"line-break\"><br></span>It<em>em</em> quaranta nove disegni di piante, et Architettura<span class=\"line-break\"><br></span>It<em>em</em> sette cartoni di piante di disegni d'Agrimensura<span class=\"line-break\"><br></span>Quattro cartoni vecchi di figure<span class=\"line-break\"><br></span>Sette disegni à schizzi<span class=\"line-break\"><br></span>Ottanta quattro desegni d'Architettura<span class=\"line-break\"><br></span>Altri quindici desegni del medemo</p><p></p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/4",
+            "type": "Canvas",
+            "height": 2174,
+            "width": 1522,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516330508f370v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/ae7f02073835437872eea938093afc5f/full/210,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 210
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/4/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/4/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/4",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/ae7f02073835437872eea938093afc5f/full/1400,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1400,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/ae7f02073835437872eea938093afc5f",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/4/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/4/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1516330508/canvas/4",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 370v]</p><p>Altri venti uno desegni del medemo<span class=\"line-break\"><br></span>Altri venti uno desegni del medemo<span class=\"line-break\"><br></span>Altri diece sette desegni del medemo<span class=\"line-break\"><br></span>Altri tredici desegni del medemo<span class=\"line-break\"><br></span>Un libretto con figure di diversi habiti del mondo<span class=\"line-break\"><br></span>Un fascietto legato di varie scritture<span class=\"line-break\"><br></span>Nove mani di cera, et un piede di cera<span class=\"line-break\"><br></span>Quattro teste piccole di donna di Gesso<span class=\"line-break\"><br></span>Quattro altre teste piccole d'uomo di Gesso<span class=\"line-break\"><br></span>Nove pezzi piccoli di Gesso, cioè braccia, gamme, et busto<span class=\"line-break\"><br></span>Un historia di Susanna pure di Gesso<span class=\"line-break\"><br></span>Doi modelli piccoli di Christo<sup>[2]</sup><span class=\"line-break\"><br></span>Tre bassi relevi di Gesso et<span class=\"line-break\"><br></span>Un busto di Notomia del q. Prospero Bresciani,<span class=\"line-break\"><br></span>qua<em>e</em> quidem bona, et alia, ut supra descripta re-<span class=\"line-break\"><br></span>manserunt, et fuernut relicta ubi supra reperta<span class=\"line-break\"><br></span>fuerunt penes, et in posse sup<em>radic</em>tor<em>um</em> DD. Francisci<span class=\"line-break\"><br></span>et Nicolai ^de quib<em>us</em> promiserunt habere bona<em>m</em> custodia<em>m</em>, illaque reddere, et restituere ad o<em>mn</em>e eiusd<em>em</em> accademia<em>e</em>, seu officialiu<em>m</em> pro tempore beneplacitu<em>m</em>, et simplice<em>m</em> requisitione<em>m</em> libere etc. alias etc. dequibus etc.^ non solum isto sed etiam omni etc. sup<em>er</em> quib<em>us</em> etc.<span class=\"line-break\"><br></span>Actu<em>m</em> Rome in sup<em>radic</em>ta stantia p<em>rese</em>ntibus etc. <a href=\"https://www.nga.gov/accademia/en/persons/andrea-clesio-de.html\">Andrea filio q. Antonii<span class=\"line-break\"><br></span>de Clesius</a> Sarzanen<em>se</em>, et <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-francesco-leonissa.html\">Io: Francisco filio q. Arcangeli Io:<span class=\"line-break\"><br></span>Francisci de Leonissa</a> Spoletana<em>e</em> diocesis testibus etc.</p><p></p><p>[2]&nbsp;Written using the Greek trigramma \"xpo.\"</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
