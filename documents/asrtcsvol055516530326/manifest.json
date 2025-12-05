@@ -1,0 +1,254 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTCSVol055516530326"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Vol. 555 Fols. 311v, 312r"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1653"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Audientia (court hearing)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Santi Ghetti"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Rent"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/130e53427d1a118cdd3bec8c66520ec2/full/206,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 206
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/canvas/1",
+            "type": "Canvas",
+            "height": 3405,
+            "width": 2336,
+            "label": {
+                "none": [
+                    "ASR_TCS_vol555_1653_f311V"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/130e53427d1a118cdd3bec8c66520ec2/full/206,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 206
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/130e53427d1a118cdd3bec8c66520ec2/full/1372,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1372,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/130e53427d1a118cdd3bec8c66520ec2",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p>Santi Ghetti petitions the civil court of the senator of Rome against Melisso [Strappa], procurator of the Accademia di San Luca. The judge rules in favor of Ghetti to terminate the rent that results from the deed dated March 2, 1616. The Accademia receives the request and terminates the lease.</p><p></p><p>[Italian version]</p><p>Santi Ghetti presenta ricorso al tribunale civile del senatore di Roma contro Melisso [Strappa], procuratore dell'Accademia di San Luca. Il giudice pronuncia in favore di Ghetti la risoluzione del canone di locazione risultante dall'atto del 2 marzo 1616. L'Accademia riceve la richiesta e risolve il contratto di locazione.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/canvas/2",
+            "type": "Canvas",
+            "height": 3427,
+            "width": 2300,
+            "label": {
+                "none": [
+                    "ASR_TCS_vol555_1653_f312R"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/c8fa78e66fc60adb5b899d506cb4f671/full/201,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 201
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/c8fa78e66fc60adb5b899d506cb4f671/full/1342,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1342,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/c8fa78e66fc60adb5b899d506cb4f671",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol055516530326/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 312r]</p><p>Ioannes Baptista Curiae Capitolii Mand<em>atarius retulit in scrip</em>tis se die 25<span class=\"line-break\"><br></span>huius d<em>omi</em> d<em>imissa</em> c<em>opia</em> in manibus domesticorum eidem<span class=\"line-break\"><br></span>intimasse qualiter infra<em>scri</em>ptus Instans non intendit<span class=\"line-break\"><br></span>continuare amplius locationem situs Instanti<span class=\"line-break\"><br></span>locat<em>orum</em> ex Instr<em>ument</em>o in actis rogato die secunda Martii<span class=\"line-break\"><br></span>1616 sed illam beneplacitum suum<span class=\"line-break\"><br></span>revocat deducens etc. protestans etc. interpellans etc. requirens etc.<span class=\"line-break\"><br></span>omni etc. Ins<em>tan</em>te eodem p<em>ri</em>n<em>cipa</em>li sive etc.<span class=\"line-break\"><br></span>R<em>elatione facta comparu</em>it id<em>em</em> <em>citr</em>a etc. et facto reproduxit p<em>resen</em>tem intimationem<span class=\"line-break\"><br></span>disdixit dictam locationem et alias fecit ut s<em>upr</em>a <span class=\"line-break\"><br></span>non solum etc. sed omni etc.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,285 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff15MemorialeGualtieri"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 15 Pt. 1 Vol. 103 fols. 462r, 467v"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1625"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Erasto Spannocchia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Not specified (memorial)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Rome; Church of Santa Martina; Church of San Pietro in Carcere"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Ippolito Gualtieri; Giovanni Lanfranco; Simon Vouet"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Italian"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Official",
+                    "Rector",
+                    "Academy",
+                    "House",
+                    "Property",
+                    "Principe",
+                    "Rent (ground)",
+                    "Doctor"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/a110b6b35ea13d8590bf88c5cbade3fc/full/225,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 225
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/canvas/1",
+            "type": "Canvas",
+            "height": 2156,
+            "width": 1618,
+            "label": {
+                "none": [
+                    "ASRTNCUff15MemorialeGualtierif462r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/a110b6b35ea13d8590bf88c5cbade3fc/full/225,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 225
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/a110b6b35ea13d8590bf88c5cbade3fc/full/1501,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1501,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/a110b6b35ea13d8590bf88c5cbade3fc",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p><a href=\"https://www.nga.gov/accademia/en/persons/ippolito-gualtieri.html\">Ippolito Gualtieri</a> writes to the <em>principe</em> and the officials of the Accademia di San Luca. He declares that he rents a house owned by the church of Santa Martina for which he must pay ground rent of 7 scudi each year. He wishes to discharge the house of the rent, or at least to have a perpetual lease.</p><p></p><p>[Italian version]</p><p><a href=\"https://www.nga.gov/accademia/it/persons/ippolito-gualtieri.html\">Ippolito Gualtieri </a>scrive al principe e agli ufficiali dell'Accademia di San Luca. Egli dichiara di avere una casa a di proprietà della chiesa di Santa Martina, gravata da un canone di 7 scudi all'anno. Egli vorrebbe liberarla dal canone o almeno averla a locazione perpetua.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/canvas/2",
+            "type": "Canvas",
+            "height": 2168,
+            "width": 1618,
+            "label": {
+                "none": [
+                    "ASRTNCUff15MemorialeGualtierif467v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/012d1af8601dc662a38e1c66a64f2e53/full/224,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 224
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/012d1af8601dc662a38e1c66a64f2e53/full/1493,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1493,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/012d1af8601dc662a38e1c66a64f2e53",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 467v]</p><p>All'Ill.re Si.gr Principe, èt<span class=\"line-break\"><br></span>Sig.ri Offitiali dell'Accade-<span class=\"line-break\"><br></span>mia De Sig.ri Pittori etc.<span class=\"line-break\"><br></span>Per<span class=\"line-break\"><br></span>Il Dottor '<a href=\"https://www.nga.gov/accademia/en/persons/ippolito-gualtieri.html\">Ippolito Gualtieri</a> etc.<span class=\"line-break\"><br></span>[...] esibischi l'Instrum-<span class=\"line-break\"><br></span>ento dell'investi-<span class=\"line-break\"><br></span>tura et ostenschi<span class=\"line-break\"><br></span>in quali conditioni<span class=\"line-break\"><br></span>[e]t utilità della<span class=\"line-break\"><br></span>[C]hiesa voglia la<span class=\"line-break\"><br></span>liberatione della<span class=\"line-break\"><br></span>Casa che dopo se<span class=\"line-break\"><br></span>ne trattarà con li su-<span class=\"line-break\"><br></span>periori <a href=\"https://www.nga.gov/accademia/en/persons/simon-vouet.html\">Simone Vouet</a><span class=\"line-break\"><br></span>Principe del Academia <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-lanfranco.html\">Giovanni Lanfranco</a><span class=\"line-break\"><br></span>Primo Rettore</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

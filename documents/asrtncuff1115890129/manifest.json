@@ -1,0 +1,349 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1115890129"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 11 Vol. 12 Folio 241r-v"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1589"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Ottaviano Saravezzi"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Meeting"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Campitelli (Rione), Monti (Rione), Roman Forum (Campo Vaccino), Church of Santa Martina"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Giovanni Capitio; Florimono Armellini; Antonio Orsini; Cesare Nebbia; Gaspare Romano; Durante Alberti; Melchiorre Gionno (del); Luca Verzicha; Lattanzio Belasio; Michele Timotei; Niccolò Circignani; Adriano Rainaldi; Ferdinando Sermei; Girolamo Muziano; Giovanni Vecchi (de)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Apostolic letters",
+                    "Consent",
+                    "Goods",
+                    "Camera di Roma",
+                    "Vineyard",
+                    "Ratification",
+                    "Painter",
+                    "Official",
+                    "Garden",
+                    "Procurator",
+                    "Heir",
+                    "Sculptor",
+                    "Alms",
+                    "Confraternity",
+                    "Rector",
+                    "Work (of art)",
+                    "Cameral obligation"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/9710bce353ff92d37af1e0ea88f353e5/full/228,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 228
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/1",
+            "type": "Canvas",
+            "height": 2149,
+            "width": 1637,
+            "label": {
+                "none": [
+                    "ASRTNCUff1115890129f241r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/9710bce353ff92d37af1e0ea88f353e5/full/228,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 228
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/9710bce353ff92d37af1e0ea88f353e5/full/1523,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1523,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/9710bce353ff92d37af1e0ea88f353e5",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p>A consensus is reached regarding the assigning of <a href=\"https://www.nga.gov/accademia/en/persons/michele-timotei.html\">Michele Timotei</a>, rector of the church of Santa Martina, to the Confraternita di San Luca. In addition, the Congregazione di San Luca nominates <a href=\"https://www.nga.gov/accademia/en/persons/niccolo-circignani.html\">Niccolò Circignani</a> as its procurator. &nbsp;</p><p></p><p>[Italian version]</p><p>È stato raggiunto un consenso circa l'assegnazione a <a href=\"https://www.nga.gov/accademia/it/persons/michele-timotei.html\">Michele Timotei</a>, rettore della chiesa di Santa Martina, della chiesa alla confraternità di San Luca. Inoltre, la congregazione nomina suo procuratore <a href=\"https://www.nga.gov/accademia/it/persons/niccolo-circignani.html\">Niccolò Circignani</a>.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/1#xywh=1150,1354,137,107",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Camerae (Camera di Roma)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/1#xywh=477,1735,695,111",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Camerae ap<em>osto</em>lice cu<em>m</em> cla<em>usul</em>is solitis obligandum (cameral obligation)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/1/annopage-2/anno-4",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/1#xywh=718,261,266,122",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Confraternitatis (confraternity)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/1/annopage-2/anno-5",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/1#xywh=898,941,229,96",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>hortis vineis (vineyard)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/1/annopage-2/anno-6",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/1#xywh=950,1666,150,72",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>heredes (heir)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/2",
+            "type": "Canvas",
+            "height": 3368,
+            "width": 2504,
+            "label": {
+                "none": [
+                    "ASRTNCUff1115890129f241v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/6fa9a9e02f3a57c645b0cceafb060a7e/full/223,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 223
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/6fa9a9e02f3a57c645b0cceafb060a7e/full/1487,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1487,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/6fa9a9e02f3a57c645b0cceafb060a7e",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff1115890129/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 241v]</p><p>F D. <a href=\"https://www.nga.gov/accademia/en/persons/girolamo-muziano.html\">Hierominus Mutianus</a><span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/adriano-rainaldi.html\">Adrianus Raynaldus</a><span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-vecchi-de.html\">Io.es de Vechis</a><span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/cesare-nebbia.html\">Cesar de Nebbia</a><span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/antonio-orsini.html\">Antonius Ursinus</a><span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-capitio.html\">Io.es Capitius</a><span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/ferdinando-sermei.html\">Ferdinandus Sermei</a><span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/gaspare-romano.html\">Gaspar Romanus</a><span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/florimono-armellini.html\">Florimonus Armellini</a><span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/durante-alberti.html\">Durans Albertus</a><span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/lattanzio-belasio.html\">Lactantius Belasius</a></p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

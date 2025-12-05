@@ -1,0 +1,237 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff11undatedf96r/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff11Undatedf96r"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 11 undated Folio 96r"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "n.d."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Quittance"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Roman Forum (Campo Vaccino)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Filippo Quadri; Francesco Scardua; Bartolomeo Quadri"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Italian"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Painter",
+                    "Payment",
+                    "Sodality",
+                    "Quittance",
+                    "Academy",
+                    "Stone carver"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff11undatedf96r/d7c9842295385e71c31e6da0331681c9/full/200,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 200
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff11undatedf96r/canvas/1",
+            "type": "Canvas",
+            "height": 4368,
+            "width": 2912,
+            "label": {
+                "none": [
+                    "ASRTNCUff11Undatedf96r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff11undatedf96r/d7c9842295385e71c31e6da0331681c9/full/200,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 200
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff11undatedf96r/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff11undatedf96r/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff11undatedf96r/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff11undatedf96r/d7c9842295385e71c31e6da0331681c9/full/1333,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1333,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff11undatedf96r/d7c9842295385e71c31e6da0331681c9",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff11undatedf96r/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff11undatedf96r/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff11undatedf96r/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Summary</p><p></p><p>[English version]</p><p>Filippo and Bartolomeo Quadri declare that they received from Francesco Scardua the sum of 50 scudi, which Scardua owed them for the building of two windows for the Accademia di San Luca. The windows were built by Filippo and Bartolomeo during the previous year. Here they make a quittance for the payment.</p><p></p><p>[Italian version]</p><p>Filippo e Bartolomeo Quadri dichiarano di aver ricevuto da Francesco Scardua la somma di 50 scudi, come pagamento per aver realizzato, l'anno precedente, due finestre per l'Accademia di San Luca. Si fa dunque quietanza di tale somma.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff11undatedf96r/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff11undatedf96r/canvas/1#xywh=1383,521,661,199",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>scarpilino (stone carver)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff11undatedf96r/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff11undatedf96r/canvas/1#xywh=661,891,554,203",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>cademia ([A]cademy)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff11undatedf96r/canvas/1/annopage-2/anno-4",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff11undatedf96r/canvas/1#xywh=1415,933,565,241",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>pitori (painters)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

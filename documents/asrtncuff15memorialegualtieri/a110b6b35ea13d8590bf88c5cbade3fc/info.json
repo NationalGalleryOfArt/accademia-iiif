@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtncuff15memorialegualtieri/a110b6b35ea13d8590bf88c5cbade3fc",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "width": 256
+    }
+  ],
+  "width": 1618,
+  "height": 2156,
+  "sizes": [
+    {
+      "width": 225,
+      "height": 300
+    },
+    {
+      "width": 1501,
+      "height": 2000
+    }
+  ]
+}
